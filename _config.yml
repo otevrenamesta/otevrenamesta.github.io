@@ -1,0 +1,16 @@
+# Site settings
+title: Otevřená města
+description: > # this means to ignore newlines until "baseurl:"
+  Klub Pirátů v zastupitelstvu hl. m. Prahy. Nezávisle kontrolujeme práci vládnoucích politiků. Naši zastupitelé vás informují a hájí!
+keywords: Piráti, komunální politika, zastupitelstvo hl. m. Prahy, Praha, Česká pirátská strana
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://praha.pirati.cz" # the base hostname & protocol for your site
+ga: UA-54908007-1
+
+permalink:     :title.html
+
+# Build settings
+markdown: kramdown
+sass:
+    sass_dir: assets/_sass
+    style: :compressed

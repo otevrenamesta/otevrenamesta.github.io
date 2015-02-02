@@ -1,0 +1,34 @@
+
+<meta charset="utf-8">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+<title>{{ page.title }} - {{ site.name }}</title>
+<meta name="description" content="{{ page.excerpt | strip_html }}" />
+<meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow,snippet,archive" />
+
+
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+{% endif %}
+
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="shortcut icon" href="favicon.ico">
+
+
+<!-- CSS  Get: http://www.google.com/fonts/
+http://stackoverflow.com/questions/7985081/how-to-deploy-a-jekyll-site-locally-with-css-js-and-background-images-included
+================================================== -->
+<link href='http://fonts.googleapis.com/css?family=Exo:300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<!-- Fount Awesome -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css" />
+
+<script src="bower_components/modernizr/modernizr.js"></script>
