@@ -2,7 +2,6 @@
 title: Otevřená města
 keywords: software, opensource, Piráti
 baseurl: "" # the subpath of your site, e.g. /blog/
-ga: UA-54908007-1
 gems:
     - jekyll-sitemap
 
