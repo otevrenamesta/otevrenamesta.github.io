@@ -1,0 +1,11 @@
+{% for item in site.related_posts limit:4 %}
+<article class="col3">
+  <a class='item' href='{{site.baseurl}}{{item.url}}'>
+    {{item.title}}
+  </a>
+
+  <span class='date'>&#126; {{item.date | date:"%b %d"}}</span>
+  <span>{{ item.tags }}</span>
+  <p>{{ item.excerpt }}</p>
+</article>
+{% endfor %}
