@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Dobrovolný svazek
-description: Dobrovolný svazek Otevřená města prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software pro výkonnou, hospodárnou a bezpečnou veřejnou správu
-keywords: FOSS, Opensource, verejna zprava
+description: Svazek měst a obcí, který prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou veřejnou správu.
+keywords: FOSS, transparence, otevřený, software, města, obce, opensource
 ---
 
 <h1 class="mvl">Dobrovolný svazek Otevřená města</h1>
