@@ -7,6 +7,11 @@ keywords: FOSS, Opensource, verejna zprava
 
 <h1 class="mvl">Dobrovolný svazek Otevřená města</h1>
 
+<p>
+Projekt je v procesu zakládání.
+Řeší se <a href="/stanovy.html">stanovy</a> a jiné organizačně právní detaily.
+</p>
+
 <div class="row">
 
 	<div class="large-4 columns">
@@ -17,9 +22,6 @@ keywords: FOSS, Opensource, verejna zprava
 			Univerzity<i class="fa fa-university"></i>, které chtějí zapojit své studenty do praxe.
 			Jednotlivci, kteří umí a chtějí podpořit dobrou věc.
 			Ti všichni chtějí společně podporovat a tvořit <i class="fa fa-heart-o"></i> <a href="http://git-">opensource software</a>.
-		</p>
-		<p>
-		  Kdo konkrétně? <a href="#podporuji">Mrkni se dále ...</a>
 		</p>
 	</div>
 
@@ -36,7 +38,7 @@ keywords: FOSS, Opensource, verejna zprava
 		<p>
 			Veškeré výstupy (i zdrojové kodý) nalezneš <a href="https://github.com/otevrenamesta/"><i class="fa fa-github"></i> našem githubu</a>.
 			Každý celek má svůj repositář.
-			Vše je verzovnáno <a href="http://cs.wikipedia.org/wiki/Git"><i class="fa fa-git"></i> systémem GIT</a>.
+			Vše je verzovnáno <a href="http://cs.wikipedia.org/wiki/Git">systémem <i class="fa fa-git"></i></a>.
 		</p>
 
 		<p>
