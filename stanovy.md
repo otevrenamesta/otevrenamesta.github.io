@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stanovy
-description: Stanovy dobrovolného svazky Otevřená města
+description: Stanovy dobrovolného svazku Otevřená města
 ---
 
 
