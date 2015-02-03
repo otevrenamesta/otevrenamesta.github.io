@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 category: blog
 tags: organizace
 title: Počátek

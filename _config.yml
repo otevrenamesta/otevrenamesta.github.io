@@ -1,18 +1,12 @@
 # Site settings
 title: Otevřená města
-description: Svazek měst a obcí, který prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou veřejnou správu.
-keywords: transparence, otevřený, software, města, obce, opensource, zdarma, Piráti
+keywords: software, opensource, Piráti
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://praha.pirati.cz" # the base hostname & protocol for your site
 ga: UA-54908007-1
-
-permalink:     :title.html
+gems:
+    - jekyll-sitemap
 
 # Build settings
-markdown: kramdown
 sass:
     sass_dir: assets/_sass
     style: :compressed
-
-gems:
-    - jekyll-sitemap
