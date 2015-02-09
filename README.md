@@ -4,21 +4,21 @@ Jekyll based web [otevrenamesta.cz](www.otevrenamesta.cz) served on Github pages
 
 ## Installation
 
-To hack the web on your computer, you need [jekyll](http://jekyllrb.com/) environment.
+To hack the web on your computer, you need [ruby](https://www.ruby-lang.org/en/) and gem.
 
-Install [rvm](https://rvm.io/) according instruction.
-You shall have rvm installed, try it:
+Try first if you already have them with:
 
-> rvm -v
+> ruby -v && gem -v && echo "ok, I have all I need!"
 
-Continue with:
+If you do not see versions of programs you need to install them.
+Most convenient way is to use [rvm](https://rvm.io/).
+Or you can use package manager of your distribution.
+
+Continue with (you can copy & paste into shell):
 
 ```bash
-# Install some ruby version (I have ruby-2.1.2)
-rvm install ruby-2.1.2
-
-# Now you have ruby and gem installed. Try it with:
-ruby -v && gem -v
+# Now you HAVE ruby and gem installed. Try it with:
+ruby -v && gem -v && echo "ok, I have all I need!"
 
 # Now you can clone this repo
 git clone https://github.com/otevrenamesta/otevrenamesta.github.io om-web
@@ -28,7 +28,7 @@ cd om-web
 gem install bundler
 bundler install
 
-# Now you can run jekyll
+# Now you can run [jekyll](http://jekyllrb.com/)
 jekyll serve
 ```
 
