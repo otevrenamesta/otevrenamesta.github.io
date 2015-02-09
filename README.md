@@ -11,23 +11,24 @@ You shall have rvm installed, try it:
 
 > rvm -v
 
-Install some ruby version (I have ruby-2.1.2):
+Continue with:
 
-> rvm install ruby-2.1.2
+```bash
+# Install some ruby version (I have ruby-2.1.2)
+rvm install ruby-2.1.2
 
-Now you have ruby and gem installed. Try it with:
+# Now you have ruby and gem installed. Try it with:
+ruby -v && gem -v
 
-> ruby -v && gem -v
+# Now you can clone this repo
+git clone https://github.com/otevrenamesta/otevrenamesta.github.io om-web
+cd om-web
 
-Now you have install jekyll:
+# Now you have install all necessary gems, the most easy way is use bundler
+gem install bundler
+bundler install
 
-> gem install jekyll
-
-Now you can clone this repo and run jekyll on the clonned folder:
-
-```
-git clone https://github.com/otevrenamesta/otevrenamesta.github.io fffuuu
-cd fffuuu
+# Now you can run jekyll
 jekyll serve
 ```
 
