@@ -23,7 +23,7 @@ $rem-base: 16px;
 $base-font-size: 100%;
 
 // The $base-font-size is 100% while $base-line-height is 150%
-$base-line-height: 180%;
+$base-line-height: 150%;
 
 // We use this to control whether or not CSS classes come through in the gem files.
 // $include-html-classes: true;
@@ -47,8 +47,8 @@ $total-columns: 12;
 // We use these to control various global styles
 $body-bg: #fff;
 $body-font-color: #111;
-$body-font-family: "Exo", "Helvetica", Helvetica, Arial, sans-serif;
-$body-font-weight: normal;
+$body-font-family: 'Source Sans Pro', sans-serif;
+$body-font-weight: 300;
 $body-font-style: normal;
 
 // We use this to control font-smoothing
@@ -165,7 +165,7 @@ $header-bottom-margin: .6rem;
 // $paragraph-font-family: inherit;
 // $paragraph-font-weight: $font-weight-normal;
 // $paragraph-font-size: 1rem;
-$paragraph-line-height: 1.8;
+$paragraph-line-height: 1.5;
 // $paragraph-margin-bottom: rem-calc(20);
 // $paragraph-aside-font-size: rem-calc(14);
 // $paragraph-aside-line-height: 1.35;
