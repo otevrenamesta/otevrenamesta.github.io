@@ -61,6 +61,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-sass');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
-  grunt.registerTask('build', ['sass']);
+  grunt.registerTask('build', ['sass', 'concat', 'uglify']);
   grunt.registerTask('default', ['build','watch']);
 }
