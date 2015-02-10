@@ -1,6 +1,6 @@
 # Site settings
 title: Otevřená města
-keywords: software, opensource, Piráti
+keywords: otevřené fungování radnice, open-source software
 baseurl: "" # the subpath of your site, e.g. /blog/
 gems:
     - jekyll-sitemap

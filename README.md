@@ -32,7 +32,12 @@ bundler install
 jekyll serve
 ```
 
-### asset generation (optional)
+If you use a certain version of ruby (the author uses 2.1.2), you have to switch
+before each use of jekyll with
+    
+    rvm use 2.1.2
+
+### Asset Generation (optional)
 
 To hack assets (css and js) install [node](http://nodejs.org/) environment.
 Start with [nvm](https://github.com/creationix/nvm).

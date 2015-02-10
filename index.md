@@ -1,19 +1,29 @@
 ---
 layout: default
-title: Dobrovolný svazek
-description: Svazek měst a obcí, který prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou veřejnou správu.
-keywords: FOSS, transparence, otevřený, software, města, obce
+title: Iniciativa
+description: Iniciativa pro spolupráci mezi městy na otevřeném fungování radnic
+keywords: transparence, otevřený, software, FOSS, města, obce
 ---
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&appId=323850842194&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 # Iniciativa Otevřená města
 
 Vážené kolegyně, vážení kolegové,
 
 jsme starostové, radní a zastupitelé měst a obcí v České republice a oslovujeme
-Vás, protože chceme společně s Vámi zlepšit **otevřenost** radnic v českých
+Vás, protože chceme společně s Vámi zlepšit **otevřenost** radnic v českých
 městech a obcích.
 
 Pod **otevřeným fungováním radnice** si představujeme
+
 * pravidelné zveřejňování informací,
 * vstřícný přístup k občanům,
 * vysoké možnosti zapojení občanů do veřejného dění,
@@ -43,8 +53,9 @@ bude definice standardu pro zveřejnování smluv a faktur, otevřená data a
 návody k zavedení dobré praxe při použití open-source (viz [cíle](cile.html) podrobně).
 
 Abychom dosáhli zlepšení v otevřeném fungování radnic, potřebujeme podporu jednotlivých
-starostů, radních, zastupitelů, tajemníků a úředníků.  
+starostů, radních, zastupitelů, tajemníků a úředníků. 
 Pokud se vám naše představa líbí, prosíme vás o následující:
+
 1. seznamte s touto iniciativou další starosty, radní a zastupitele a požádejte je, aby se
    jako jednotlivci připojili k této iniciativě a podíleli se na formování organizace,
 2. seznamte je s návrhem [stanov](stanovy.html) a zašlete své připomínky a návrhy na zlepšení
@@ -58,14 +69,13 @@ ustavující členská schůze.
 <div class="row">
 
 	<div class="large-4 columns">
-		<h3><i class="fa fa-users"></i> Podporují nás</h3>
-		<ul>
-			<li>Jakub Michálek</li>
-		</ul>
+		<h3>Podpořte iniciativu</h3>
+
+			<div class="fb-like-box" data-href="https://www.facebook.com/otevrenamesta" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div>
 	</div>
 
 	<div class="large-4 columns">
-		<h3><i class="fa fa-unlock-alt"></i> Cíle</h3>
+		<h3>Cíle</h3>
 		<p>
 			Svazek prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software
 			a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou veřejnou správu.
@@ -74,15 +84,15 @@ ustavující členská schůze.
 	</div>
 
 	<div class="large-4 columns">
-		<h3><i class="fa fa-anchor"></i> Chci podpořit</h3>
+		<h3>Výstupy</h3>
 		<p>
-			Veškeré výstupy (i zdrojové kodý) nalezneš <a href="https://github.com/otevrenamesta/"><i class="fa fa-github"></i> našem githubu</a>.
+			Veškeré výstupy (i zdrojové kódy) naleznete na <a href="https://github.com/otevrenamesta/"><i class="fa fa-github"></i> našem githubu</a>.
 			Každý celek má svůj repositář.
 			Vše je verzovnáno <a href="http://cs.wikipedia.org/wiki/Git">systémem <i class="fa fa-git"></i></a>.
 		</p>
 
 		<p>
-			I ty múžeš pomoci!
+			I ty můžeš pomoci!
 			Každý <i class="fa fa-code-fork"></i>
 			<a href="http://git-scm.com/book/cs/v1/Distribuovan%C3%BD-charakter-syst%C3%A9mu-Git-P%C5%99isp%C3%ADv%C3%A1n%C3%AD-do-projektu">pull request</a> je vítán.
 		</p>

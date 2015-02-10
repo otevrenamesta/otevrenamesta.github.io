@@ -2,6 +2,7 @@
 layout: default
 title: Stanovy
 description: Stanovy dobrovolného svazku Otevřená města
+style: legal
 ---
 
 
