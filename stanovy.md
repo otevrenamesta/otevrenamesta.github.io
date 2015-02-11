@@ -25,7 +25,7 @@ způsobem, který nemá průmyslovou nebo obchodní povahu.
 - <a name="b1.4"></a>(1.4) Organizace je veřejnou institucí a poskytuje informace veřejnosti
 způsobem podle zákona upravujícího svobodný přístup k informacím.
 Internetové stránky organizace jsou na doméně
-[otevrenamesta.cz](\url{http://www.otevrenamesta.cz)}.
+[otevrenamesta.cz](http://www.otevrenamesta.cz).
 
 - <a name="b1.5"></a>(1.5) Sídlem organizace je Brno.
 
