@@ -4,11 +4,6 @@ module.exports = function(grunt) {
   // load all grunt tasks
   require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 
-  var fileList = [
-    // '<%= paths.src.mainApp %>/bower_components/angular/angular.js',
-    '_js/**/*.js',
-  ]
-
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
@@ -21,7 +16,7 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'css/style.css': 'scss/style.scss'
+          '../css/style.css': 'scss/style.scss'
         }
       }
     },
@@ -32,8 +27,11 @@ module.exports = function(grunt) {
         separator: ';'
       },
       dist: {
-        src: fileList,  // the files to concatenate
-        dest: 'js/script.js' // the location of the resulting JS file
+        src: [  // the files to concatenate
+          // '<%= paths.src.mainApp %>/bower_components/angular/angular.js',
+          'js/**/*.js',
+        ],
+        dest: '../js/script.js' // the location of the resulting JS file
       }
     },
 
@@ -43,7 +41,7 @@ module.exports = function(grunt) {
           mangle: true
         },
         files: {
-          'js/script.js': 'js/script.js'
+          '../js/script.js': '../js/script.js'
         }
       }
     },
