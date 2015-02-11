@@ -11,7 +11,16 @@ Try first if you already have them with:
 > ruby -v && gem -v && echo "ok, I have all I need!"
 
 If you do not see versions of programs you need to install them.
-Most convenient way is to use [rvm](https://rvm.io/).
+Most convenient way is to use [rvm](https://rvm.io/rvm/install).
+
+```
+# install rvm already with ruby
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+# see what version was installed
+rvm list
+# select it as default
+rvm alias create default 2.2
+```
 Or you can use package manager of your distribution.
 
 Continue with (you can copy & paste into shell):
@@ -26,7 +35,7 @@ cd om-web
 
 # Now you have install all necessary gems, the most easy way is use bundler
 gem install bundler
-bundler install
+bundle install
 
 # Now you can run [jekyll](http://jekyllrb.com/)
 jekyll serve
@@ -34,27 +43,12 @@ jekyll serve
 
 If you use a certain version of ruby (the author uses 2.1.2), you have to switch
 before each use of jekyll with
-    
+
     rvm use 2.1.2
 
 ### Asset Generation (optional)
 
-To hack assets (css and js) install [node](http://nodejs.org/) environment.
-Start with [nvm](https://github.com/creationix/nvm).
-Rest is similar to ruby env:
-
-```
-nvm ls remote # choose your destiny (I have 0.11*)
-nvm install v0.11 # install
-nvm alias default v0.11 # my default version
-nvm use v0.11 # use it
-node -v && npm -v # shall show versions
-npm install grunt-cli -g
-cd fffuuu # skip into cloned folder
-npm install # install all necessary stuff
-# do whatever you want with the asset sources
-grunt build # generate new version of assets
-```
+For details see [assets folder](_assets).
 
 ## Special Thanks
 
