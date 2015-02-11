@@ -53,7 +53,7 @@ bude definice standardu pro zveřejnování smluv a faktur, otevřená data a
 návody k zavedení dobré praxe při použití open-source (viz [cíle](cile.html) podrobně).
 
 Abychom dosáhli zlepšení v otevřeném fungování radnic, potřebujeme podporu jednotlivých
-starostů, radních, zastupitelů, tajemníků a úředníků. 
+starostů, radních, zastupitelů, tajemníků a úředníků.
 Pokud se vám naše představa líbí, prosíme vás o následující:
 
 1. seznamte s touto iniciativou další starosty, radní a zastupitele a požádejte je, aby se
@@ -67,36 +67,18 @@ aby s nimi mohly vyslovit svůj souhlas. Ve druhé polovině roku 2015 se bude k
 ustavující členská schůze.
 
 <div class="row">
-
 	<div class="large-4 columns">
-		<h3>Podpořte iniciativu</h3>
-
-			<div class="fb-like-box" data-href="https://www.facebook.com/otevrenamesta" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div>
+		{% capture myInclude %}{% include col1.md %}{% endcapture %}
+  {{ myInclude | markdownify }}
 	</div>
 
 	<div class="large-4 columns">
-		<h3>Cíle</h3>
-		<p>
-			Svazek prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného software
-			a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou veřejnou správu.
-      <a href="/cile.html">Více ...</a>
-		</p>
+    {% capture myInclude %}{% include col2.md %}{% endcapture %}
+    {{ myInclude | markdownify }}
 	</div>
 
 	<div class="large-4 columns">
-		<h3>Výstupy</h3>
-		<p>
-			Veškeré výstupy (i zdrojové kódy) naleznete na <a href="https://github.com/otevrenamesta/"><i class="fa fa-github"></i> našem githubu</a>.
-			Každý celek má svůj repositář.
-			Vše je verzovnáno <a href="http://cs.wikipedia.org/wiki/Git">systémem <i class="fa fa-git"></i></a>.
-		</p>
-
-		<p>
-			I ty můžeš pomoci!
-			Každý <i class="fa fa-code-fork"></i>
-			<a href="http://git-scm.com/book/cs/v1/Distribuovan%C3%BD-charakter-syst%C3%A9mu-Git-P%C5%99isp%C3%ADv%C3%A1n%C3%AD-do-projektu">pull request</a> je vítán.
-		</p>
-
+		{% capture myInclude %}{% include col3.md %}{% endcapture %}
+    {{ myInclude | markdownify }}
 	</div>
-
 </div>
