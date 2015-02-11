@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Výzvy ke zlepšení
-description: Stanovy dobrovolného svazku Otevřená města
+description: Nedostupnost dat, Závislost na dodavatelích uzavřeného software, Utajování informací, Srovnávací ukazatele o fungování města
 ---
 
 

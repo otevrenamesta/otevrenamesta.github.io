@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cíle
-description: Stanovy dobrovolného svazku Otevřená města
+description: Zveřejnování smluv a dobrá praxe, Open source, Open data, Zapojení občanů online, Spolupráce s ostatními aktéry
 ---
 
 
