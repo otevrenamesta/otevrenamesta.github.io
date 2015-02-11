@@ -5,63 +5,43 @@
   </head>
   <body>
 
-<div class="off-canvas-wrap" data-offcanvas>
-  <div class="inner-wrap">
-    <!-- Add header and nav here  -->
+  <!--[if lt IE 8]>
+      <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
+  <![endif]-->
 
-    <!--[if lt IE 8]>
-        <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
-    <![endif]-->
+  <header id="header" class="contain-to-grid">
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="/">{{ site.title }}  <img src="/media/logo.png" alt=""/></a></h1>
+        </li>
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      </ul>
 
-    <header id="header" class="row">
+      <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+          {% include nav.html %}
+        </ul>
+      </section>
+    </nav>
+  </header>
 
-      <div class="small-12 columns">
-        <section class="right show-for-medium-up mam">
-          <ul class="inline-list">
-              {% include nav.html %}
-          </ul>
-        </section>
+  <div class="row">
+    <section role="main">
+      <div class="small-12 columns {{ page.style }}">
 
-        <section class="right show-for-small">
-          <ul class="inline-list mam">
-          <li>
-              <a class="right-off-canvas-toggle"><i class="fa fa-bars fa-lg">
-              </i></a>
-          </li>
-          </ul>
-        </section>
-
-        <h1><a href="/">{{ site.title }}</a></h1>
+        {{ content }}
 
       </div>
-    </header>
-
-    <!-- Off Canvas Menu -->
-    <aside class="right-off-canvas-menu">
-      <!-- navigation list goes here -->
-      <ul class="off-canvas-list">
-         {% include nav.html %}
-      </ul>
-    </aside>
-
-
-    <div class="row">
-      <section role="main">
-        <div class="small-12 columns {{ page.style }}">
-
-          {{ content }}
-
-        </div>
-      </section>
-    </div>
-
-    {% include footer.html %}
-
-    <!-- close the off-canvas menu -->
-    <a class="exit-off-canvas"></a>
-
+    </section>
   </div>
-</div>
+
+  {% include footer.html %}
+
+  <script>
+    $(document).foundation();
+  </script>
 
   </body>
 </html>
