@@ -3,6 +3,7 @@ layout: default
 title: Iniciativa
 description: Iniciativa pro spolupráci mezi městy na otevřeném fungování radnic, především na základě otevřeného software.
 keywords: transparence, otevřený, software, FOSS, města, obce
+image: /media/logo-big.png
 ---
 
 <div id="fb-root"></div>
