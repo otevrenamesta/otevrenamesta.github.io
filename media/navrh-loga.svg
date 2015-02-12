@@ -19,6 +19,17 @@
    sodipodi:docname="navrh-loga.svg">
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient3834">
+      <stop
+         style="stop-color:#bc5949;stop-opacity:0.56756759;"
+         offset="0"
+         id="stop3836" />
+      <stop
+         style="stop-color:#bc5949;stop-opacity:0;"
+         offset="1"
+         id="stop3838" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3060"
@@ -83,6 +94,16 @@
        effect="spiro"
        id="path-effect3144"
        is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3834"
+       id="linearGradient3863"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98442368,0,0,0.95597484,-492.19405,16.015945)"
+       x1="134.28572"
+       y1="420.57645"
+       x2="363.57144"
+       y2="420.57645" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,7 +113,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="343.08977"
+     inkscape:cx="203.08977"
      inkscape:cy="705.87572"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -392,116 +413,129 @@
          y="983.57703"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
          id="tspan3260-8">Jakub Michálek, 11. 2. 2015</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3048"
-       y="459.64789"
-       x="150.92854"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
-       xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
-         y="459.64789"
-         x="150.92854"
-         id="tspan3050"
-         sodipodi:role="line">iniciativa za otevřené fungování radnic</tspan></text>
     <g
-       transform="matrix(0.15697025,0,0,0.15697025,151.93699,347.80346)"
-       id="g3052">
+       id="g3842"
+       transform="matrix(1.8421053,0,0,1.8421053,-170.22557,-334.20728)">
+      <rect
+         transform="scale(-1,1)"
+         ry="0.09741801"
+         y="363.79074"
+         x="-360"
+         height="108.57143"
+         width="225.71429"
+         id="rect3064"
+         style="fill:url(#linearGradient3863);fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
+         x="150.92854"
+         y="459.64789"
+         id="text3048"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3050"
+           x="150.92854"
+           y="459.64789"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">iniciativa za otevřené fungování radnic</tspan></text>
       <g
-         id="g3054">
+         id="g3052"
+         transform="matrix(0.15697025,0,0,0.15697025,151.93699,347.80346)">
         <g
-           id="g3056">
+           id="g3054">
           <g
-             inkscape:tile-y0="145.2452"
-             inkscape:tile-x0="161.6066"
-             id="g3058"
-             transform="matrix(1,0,0,1.3885016,0,-56.428005)"
-             style="fill:#000000">
-            <path
-               style="fill:#c83737;stroke:#000000;stroke-width:0.73123121px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               d="m 156.14471,174.50922 36.58171,-29.52124 36.81748,29.65366 -73.39919,-0.13242"
-               id="path3060"
-               inkscape:path-effect="#path-effect3060-9"
-               inkscape:original-d="m 156.14471,174.50922 36.58171,-29.52124 c 20.7914,3.28704 25.19076,17.01165 36.81748,29.65366 30.53482,-7.89257 -63.26294,-0.2722 -73.39919,-0.13242 z"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.27802953;stroke-miterlimit:4;stroke-opacity:1"
-               d="m 154.46374,184.9119 78.37934,0 -8.57143,34.16547 -62.66505,0 z"
-               id="path3062"
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="ccccc" />
-            <text
-               transform="matrix(15.714306,0,0,11.317456,-873.91501,-369.86032)"
-               sodipodi:linespacing="125%"
-               id="text3064"
-               y="86.647896"
-               x="67.14286"
-               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-               xml:space="preserve"><tspan
-                 y="86.647896"
+             id="g3056">
+            <g
+               style="fill:#000000"
+               transform="matrix(1,0,0,1.3885016,0,-56.428005)"
+               id="g3058"
+               inkscape:tile-x0="161.6066"
+               inkscape:tile-y0="145.2452">
+              <path
+                 sodipodi:nodetypes="cccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:original-d="m 156.14471,174.50922 36.58171,-29.52124 c 20.7914,3.28704 25.19076,17.01165 36.81748,29.65366 30.53482,-7.89257 -63.26294,-0.2722 -73.39919,-0.13242 z"
+                 inkscape:path-effect="#path-effect3060-9"
+                 id="path3060"
+                 d="m 156.14471,174.50922 36.58171,-29.52124 36.81748,29.65366 -73.39919,-0.13242"
+                 style="fill:#c83737;stroke:#000000;stroke-width:0.73123121px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="ccccc"
+                 inkscape:connector-curvature="0"
+                 id="path3062"
+                 d="m 154.46374,184.9119 78.37934,0 -8.57143,34.16547 -62.66505,0 z"
+                 style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.27802953;stroke-miterlimit:4;stroke-opacity:1" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
                  x="67.14286"
-                 id="tspan3066"
-                 sodipodi:role="line" /></text>
+                 y="86.647896"
+                 id="text3064"
+                 sodipodi:linespacing="125%"
+                 transform="matrix(15.714306,0,0,11.317456,-873.91501,-369.86032)"><tspan
+                   sodipodi:role="line"
+                   id="tspan3066"
+                   x="67.14286"
+                   y="86.647896" /></text>
+            </g>
+            <use
+               height="1052.3622"
+               width="744.09448"
+               transform="matrix(0.8660254,-0.5,0.5,0.8660254,-165.14914,145.51044)"
+               id="use3068"
+               xlink:href="#use3012-7"
+               y="0"
+               x="0" />
+            <use
+               height="1052.3622"
+               width="744.09448"
+               transform="matrix(0.5,-0.8660254,0.8660254,0.5,-232.44511,356.06796)"
+               id="use3070"
+               xlink:href="#use3012-7"
+               y="0"
+               x="0" />
           </g>
           <use
              x="0"
              y="0"
-             xlink:href="#use3012-7"
-             id="use3068"
-             transform="matrix(0.8660254,-0.5,0.5,0.8660254,-165.14914,145.51044)"
-             width="744.09448"
-             height="1052.3622" />
-          <use
-             x="0"
-             y="0"
-             xlink:href="#use3012-7"
-             id="use3070"
-             transform="matrix(0.5,-0.8660254,0.8660254,0.5,-232.44511,356.06796)"
+             xlink:href="#g3024-4"
+             id="use3072"
+             transform="matrix(0,-1,1,0,-185.39571,571.05986)"
              width="744.09448"
              height="1052.3622" />
         </g>
         <use
            height="1052.3622"
            width="744.09448"
-           transform="matrix(0,-1,1,0,-185.39571,571.05986)"
-           id="use3072"
-           xlink:href="#g3024-4"
+           transform="matrix(-1,0,0,-1,383.85393,756.66566)"
+           id="use3074"
+           xlink:href="#g3034-1"
            y="0"
            x="0" />
       </g>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g3034-1"
-         id="use3074"
-         transform="matrix(-1,0,0,-1,383.85393,756.66566)"
-         width="744.09448"
-         height="1052.3622" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3076"
-       y="400.51855"
-       x="222.80098"
-       style="font-size:6.60530901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       xml:space="preserve"><tspan
-         id="tspan3078"
-         style="font-size:23.77911186px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold"
-         y="400.51855"
+      <text
+         xml:space="preserve"
+         style="font-size:6.60530901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
          x="222.80098"
-         sodipodi:role="line">Otevřená</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10.0800848px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-       x="222.44896"
-       y="434.09491"
-       id="text3082"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="222.44896"
-         y="434.09491"
-         style="font-size:36.28830338px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold"
-         id="tspan3084">města</tspan></text>
+         y="400.51855"
+         id="text3076"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="222.80098"
+           y="400.51855"
+           style="font-size:23.77911186px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold"
+           id="tspan3078">Otevřená</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3082"
+         y="438.32132"
+         x="222.065"
+         style="font-size:9.08625221px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+         xml:space="preserve"><tspan
+           id="tspan3084"
+           style="font-size:32.71050644px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold"
+           y="438.32132"
+           x="222.065"
+           sodipodi:role="line">MĚSTA</tspan></text>
+    </g>
   </g>
 </svg>
