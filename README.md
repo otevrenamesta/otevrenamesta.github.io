@@ -20,6 +20,8 @@ Most convenient way is to use [rvm](https://rvm.io/rvm/install).
 rvm list
 # select it as default
 rvm alias create default 2.2
+# then each time you want ruby and co. run
+rvm-shell
 ```
 Or you can use package manager of your distribution.
 
