@@ -16,8 +16,6 @@ jsme starostové, radní a zastupitelé měst a obcí v České republice a oslo
 Vás, protože chceme společně s Vámi zlepšit **otevřenost** radnic v českých
 městech a obcích.
 
-<img class="th right" src="/media/logo-big.png">
-
 Pod **otevřeným fungováním radnice** si představujeme
 
 * pravidelné zveřejňování informací,
