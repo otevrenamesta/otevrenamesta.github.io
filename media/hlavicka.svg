@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   inkscape:label="Pozadí"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="hlavicka.pdf">
+  <defs
+     id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3206"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient3834">
+      <stop
+         style="stop-color:#bc5949;stop-opacity:0.56756759;"
+         offset="0"
+         id="stop3836" />
+      <stop
+         style="stop-color:#bc5949;stop-opacity:0;"
+         offset="1"
+         id="stop3838" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3060"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3058"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2992"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2988"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3060-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3124"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3126"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3128"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3130"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3132"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3134"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3136"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3138"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3140"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3142"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3144"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="327.20068"
+     inkscape:cy="576.64587"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3076"
+       transform="matrix(0.07493414,0,0,0.07493414,52.867157,36.78842)">
+      <g
+         id="g3034">
+        <g
+           id="g3024">
+          <g
+             style="fill:#000000"
+             transform="matrix(1,0,0,1.3885016,0,-56.428005)"
+             id="use3012"
+             inkscape:tile-x0="161.6066"
+             inkscape:tile-y0="145.2452">
+            <path
+               sodipodi:nodetypes="cccc"
+               inkscape:connector-curvature="0"
+               inkscape:original-d="m 156.14471,174.50922 36.58171,-29.52124 c 20.7914,3.28704 25.19076,17.01165 36.81748,29.65366 30.53482,-7.89257 -63.26294,-0.2722 -73.39919,-0.13242 z"
+               inkscape:path-effect="#path-effect3060"
+               id="path3048"
+               d="m 156.14471,174.50922 36.58171,-29.52124 36.81748,29.65366 -73.39919,-0.13242"
+               style="fill:#c83737;stroke:#000000;stroke-width:0.73123121px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="rect3050"
+               d="m 154.46374,184.9119 78.37934,0 -8.57143,34.16547 -62.66505,0 z"
+               style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.27802953;stroke-miterlimit:4;stroke-opacity:1" />
+            <text
+               xml:space="preserve"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+               x="67.14286"
+               y="86.647896"
+               id="text3095"
+               sodipodi:linespacing="125%"
+               transform="matrix(15.714306,0,0,11.317456,-873.91501,-369.86032)"><tspan
+                 sodipodi:role="line"
+                 id="tspan3097"
+                 x="67.14286"
+                 y="86.647896" /></text>
+          </g>
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="matrix(0.8660254,-0.5,0.5,0.8660254,-165.14914,145.51044)"
+             id="use3020"
+             xlink:href="#use3012"
+             y="0"
+             x="0" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="matrix(0.5,-0.8660254,0.8660254,0.5,-232.44511,356.06796)"
+             id="use3022"
+             xlink:href="#use3012"
+             y="0"
+             x="0" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g3024"
+           id="use3032"
+           transform="matrix(0,-1,1,0,-185.39571,571.05986)"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1,0,0,-1,383.85393,756.66566)"
+         id="use3044"
+         xlink:href="#g3034"
+         y="0"
+         x="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.50255919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="88.773384"
+       y="72.160324"
+       id="text3087"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="88.773384"
+         y="72.160324"
+         style="font-size:27.00921248999999946px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Bold;fill:#1a1a1a"
+         id="tspan3091">Otevřená města</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.55076218px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
+       x="117.37611"
+       y="87.865913"
+       id="text3099"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3101"
+         x="117.37611"
+         y="87.865913"
+         style="font-size:11.77538108999999977px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro;fill:#1a1a1a">www.otevrenamesta.cz</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.6797961px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.24754,89.357674 114.11818,0"
+       id="path3204"
+       inkscape:path-effect="#path-effect3206"
+       inkscape:original-d="m 118.24754,89.357674 114.11818,0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
