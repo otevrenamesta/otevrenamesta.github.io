@@ -14,10 +14,8 @@ ho přípravná skupina zástupců měst
 ve spolupráci s občanským sdružením Oživení na jednání dne 24. února 2015
 na Úřadu Městské části Praha 6.
 
-{% capture dir %}{{page.url | | remove:'.html' | remove: '_commented' }}{% endcapture %}
-
-| Přehledová tabulka                             |||
-| ---------------------------------------------- |||
+| Přehledová tabulka                             ||| 
+| ----{% capture dir %}{{page.url | | remove:'.html' | remove: '_commented' }}{% endcapture %} |||
 | Bez komentáře | [verze k prohlížení]({{dir}}.html) | [verze k tisku]({{dir}}.pdf)  |
 | S komentářem  | [verze k prohlížení]({{dir}}_commented.html) | [verze k tisku]({{dir}}_commented.pdf)  |
 
@@ -73,10 +71,8 @@ svých aktivit své členy a jiné instituce, např.
     - <a name="b3x2x1">(3.2.1)</a> vystupuje namísto svých členů na základě zvláštní smlouvy jako 
   centrální zadavatel při 
   společném zadavání veřejných zakázek zejména na svobodný software,
-
     - <a name="b3x2x2">(3.2.2)</a> vypisuje veřejné soutěže např. pro studenty vysokých škol a komerční 
   dodavatele na svobodný software,
-
     - <a name="b3x2x3">(3.2.3)</a> zaměstnává vlastní technické expery, vývojáře a jiné odborníky pracující 
   na veřejně prospěšných výstupech podle cílů organizace.
 
@@ -125,7 +121,7 @@ jiných zdrojů.
 - <a name="b4x5">(4.5)</a> Kde z těchto stanov nevyplývá nic jiného, řídí se organizace a 
 její členové vnitřním řádem organizace a v jeho mezích též obecnými ustanoveními 
 soukromého práva o spolku a jeho členech účinných ke dni dojednání textu stanov 
-mezi zakládajícími členy (bod [12.4](#b12x4)).
+mezi zakládajícími členy (bod [12.3](#b12x3)).
 
 
 5. Členství
@@ -150,6 +146,7 @@ jeho městská část, statutární či jiné město anebo jiná obec.
   která přispívá k cíli organizace podle svého zakladatelského právního jednání.
 
 - <a name="b5x4">(5.4)</a> Člen organizace je zavázán 
+
     - <a name="b5x4x1">(5.4.1)</a> podporovat cíle organizace, 
     - <a name="b5x4x2">(5.4.2)</a> platit členský příspěvek a 
     - <a name="b5x4x3">(5.4.3)</a> zachovávat vnitřní řád organizace.
@@ -195,7 +192,7 @@ k rozhodnutí. Odvolání nemá odkladný účinek.
 - <a name="b6x1">(6.1)</a> Organizace má 
 
     - <a name="b6x1x1">(6.1.1)</a> nejvyšší orgán, kterým je členská schůze,
-    - <a name="b6x1x2">(6.1.2)</a> volené orgány, kterými jsou výbor, kontrolor a technická rada,
+    - <a name="b6x1x2">(6.1.2)</a> volené orgány, kterými jsou výbor, kontrolor a projektová rada,
     - <a name="b6x1x3">(6.1.3)</a> jmenované orgány, které jsou ustaveny podle organizační struktury, 
   podřízeny některému z volených orgánů a obsazovány na základě veřejných 
   výběrových řízení.
@@ -239,7 +236,7 @@ zástupčí oprávnění.
 mají jen právo se vyjádřit. Základní člen organizace má tolik hlasů, kolik činí 
 po zaokrouhlení druhá odmocnina z jeho počtu obyvatel. Tyto hlasy není možné rozdělit.
 
-- <a name="b7x3">(7.3)</a> Počtem obyvatel pro daného člena organizace se v těchto stanovách rozumí 
+- <a name="b7x3">(7.3)</a> **Počtem obyvatel** pro daného člena organizace se v těchto stanovách rozumí 
 počet lidí, kteří mají na jeho území trvalé bydliště. 
 Pokud základní členství v organizaci
 náleží dvěma členům, jejichž území se z části překrývá (např. hlavnímu městu 
@@ -272,10 +269,9 @@ o závěrečném účtu organizace a vyjádření kontrolora k němu,
   odvolávat likvidátora.
 
 
-o > hlasovací síle v rámci orgánů Evropské unie. Podrobné zdůvodnění naleznete
 
 [arxiv-sqrt]: http://arxiv.org/pdf/1104.5213v2.pdf
-[sqrt-img]: hlasy.png
+[sqrt-img]: img/hlasy.png
 
 <!-- https://docs.google.com/spreadsheets/d/1r6a7y_O2D7hZUwwAdwyzL9cXeGJOgRzn36VgGSsS1Ss/edit -->
 
@@ -316,11 +312,11 @@ kolektivní orgán o pěti členech. Výbor
   dodržování pravidel zaměstnanci organizace,
     - <a name="b8x4x3">(8.4.3)</a> schvaluje účetní závěrku organizace sestavenou k rozvahovému dni podle 
   zákona o účetnictví a zpracovává a schvaluje návrh závěrečného účtu organizace,
-    - <a name="b8x4x4">(8.4.4)</a> určuje dlouhodobé cíle organizace a schvaluje technický plán, který určuje 
+    - <a name="b8x4x4">(8.4.4)</a> určuje dlouhodobé cíle organizace a schvaluje projektový plán, který určuje 
   vlastní projekty organizace (bod [4.4](#b4x4)),
     - <a name="b8x4x5">(8.4.5)</a> určuje organizační strukturu, přijímá vnitřní předpisy k úpravě 
   poměrů organizace a vzory smluv pro právní vztahy, v nichž organizace vystupuje,
-    - <a name="b8x4x6">(8.4.6)</a> volí, odvolává a úkoluje technickou radu,
+    - <a name="b8x4x6">(8.4.6)</a> volí, odvolává a úkoluje projektovou radu,
     - <a name="b8x4x7">(8.4.7)</a> přijímá členy a dále se souhlasem aspoň jednoho kontrolora pozastavuje členství a vylučuje členy,
     - <a name="b8x4x8">(8.4.8)</a> předkládá členské schůzi výroční zprávu o činnosti organizace,
   která obsahuje také informaci o závěrečném účtu organizace a výsledcích kontrol,
@@ -328,13 +324,13 @@ kolektivní orgán o pěti členech. Výbor
   v úplné podobě seznam členů s údaji podle zákona a těchto stanov (bod [7.3](#b7x3)),
     - <a name="b8x4x10">(8.4.10)</a> svolává členskou schůzi a předsedá jí.
 
-- <a name="b8x5">(8.5)</a> **Technická rada** je poradním orgánem výboru v odborných záležitostech 
-působnosti organizace. Technická rada
+- <a name="b8x5">(8.5)</a> **Projektová rada** je poradním orgánem výboru v odborných záležitostech 
+působnosti organizace a v projektovém řízení. Projektová rada
 
     - <a name="b8x5x1">(8.5.1)</a> řeší odborné otázky vedení projektů, správy kódu, vedení komunity 
-  (bod [3.5](#b3x5)) a technického plánu (bod [8.4.4](#b8x4x4)),
-    - <a name="b8x5x2">(8.5.2)</a> dohlíží na to, že organizace a jeho projekty dodržují principy technické 
-  povahy uvedené ve stanovách,
+  (bod [3.5](#b3x5)) a projektového plánu (bod [8.4.4](#b8x4x4)),
+    - <a name="b8x5x2">(8.5.2)</a> dohlíží na to, že organizace a její projekty dodržují i v technických
+  věcech principy otevřeného fungování uvedené ve stanovách,
     - <a name="b8x5x3">(8.5.3)</a> vyjadřuje se v pochybnostech k tomu, zda jsou technické záměry a provedení 
   projektu v souladu s vnitřním řádem organizace anebo podmínkami projektu.
 
@@ -356,6 +352,7 @@ Kontrolor
 
 
 
+[img-organizace]: img/organizace.png
 [aoc]: http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf
 
 9. Právní jednání

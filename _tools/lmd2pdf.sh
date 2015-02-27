@@ -10,7 +10,7 @@ cat main.lmd | sed -e 's/  (\([0-9]\{1,\}\).\([0-9]\{1,\}\).\([0-9]\{1,\}\))/   
 vlna temp.md
 # korekce na vlnu
 
-cat temp.md | sed 's/\([vkuoszVKUOSZ]\)\~/\1 /g' > main.md
+cat temp.md | sed -e '/^|/ d' -e 's/\([vkuoszVKUOSZ]\)\~/\1 /g' > main.md
 # rm -f temp.md
 
 makelegal

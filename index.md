@@ -52,7 +52,7 @@ Pokud se vám naše představa líbí, prosíme vás o následující:
 
 1. seznamte s touto iniciativou další starosty, radní a zastupitele a požádejte je, aby se
    jako jednotlivci připojili k této iniciativě a podíleli se na formování organizace,
-2. seznamte je s návrhem [stanov](stanovy.html) a zašlete své připomínky a návrhy na zlepšení
+2. seznamte je s návrhem [stanov](pravo/stanovy/main.html) a zašlete své připomínky a návrhy na zlepšení
    do e-mailové konference.
 
 Jednání o textu stanov by mělo skončit kolem dubna 2015. Následně přípravný výbor
