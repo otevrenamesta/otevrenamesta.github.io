@@ -3,10 +3,14 @@ title: Otevřená města
 keywords: otevřené fungování radnice, open-source software
 url: http://www.otevrenamesta.cz
 baseurl: "" # the subpath of your site, e.g. /blog/
-gems:
-    - jekyll-sitemap
+
 
 # Build settings
 sass:
     sass_dir: assets/_sass
     style: :compressed
+
+permalink:     :title.html
+
+# Build settings
+markdown: kramdown

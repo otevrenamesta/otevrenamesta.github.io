@@ -27,10 +27,10 @@
     </nav>
   </header>
 
-  <div class="row">
+  <div class="row contents" {% if page.id %}id="{{ page.id }}"{% endif %}>
     <section role="main">
       <div class="small-12 columns {{ page.style }}">
-
+        {% if page.image %} <img src="{{ page.image }}" title="{{ page.title}}" class="title side">{% endif %}
         {{ content }}
 
       </div>

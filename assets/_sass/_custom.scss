@@ -1,0 +1,177 @@
+@import "foundation/settings";
+
+/* palette */
+
+$yellow : #D9D451;
+$turquoise : #009091;
+$red : #bf1e2e;
+$violet: #917dae;
+$orange: #f7941d;
+$green: #b4d455;
+
+/* labels */
+.bgyellow {background-color: $yellow !important};
+.bgturquoise {background-color: $turquoise !important};
+.bgred {background-color: $red !important};
+.bgviolet {background-color: $violet !important};
+.bgorange {background-color: $orange !important};
+.bggreen {background-color: $green !important};
+
+/* top-bar */
+
+$body-font-family: 'Arial', sans-serif;
+$topbar-title-font-size: rem-calc(25);
+$topbar-margin-top: rem-calc(20);
+$topbar-link-font-size: 120%;
+
+
+/* contents */
+
+$contents-margin : 230px;
+$contents-separator: 15px;
+
+div.contents {
+  @media #{$medium-up} {
+  padding-left: $contents-margin;}
+  margin-top:20px;}
+
+/* images */
+
+@mixin image-radius($radius) {
+                  width: $radius * 2;
+                 height: $radius * 2;
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+div.contents img.classic {
+  @media #{$medium-up} {
+  margin-left: 0px !important;}
+  float: none;
+  @include image-radius(200px);
+}
+
+.circle {
+  @include image-radius(75px);
+}
+
+.side {
+  @media #{$medium-up} {
+  margin-left: -$contents-margin ;
+  float:left;}
+  margin-bottom: 10px;
+}
+
+.media {
+  width: 0.75*$contents-margin;
+}
+
+#autocircles img:not(.title):not(.notcircle) {
+  @extend .side;
+  @extend .circle;
+}
+
+div.contents img.title {
+  @include image-radius($contents-margin/2 - $contents-separator);
+}
+
+/* horizontal rules */
+
+hr.separator {
+  background: none;
+  border: 0;
+  clear: both !important;
+  display: block;
+  float: none;
+  font-size: 0;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  visibility: hidden;
+  width: 100%;
+  height: 0;
+}
+
+div.contents hr {
+  clear: left;
+  margin-left: -$contents-margin;
+  margin-top: 40px;}
+
+/* icons */
+
+.icon {font-size: 1.2em;padding-left:3px;}
+#contacts .label { font-size: 90%;
+margin-top: 3px;
+margin-bottom: 3px;}
+
+/* rss-fields */
+
+.rss-field {
+  display: block;
+  float: right;
+}
+
+$button-sml:rem-calc(2);
+
+/* footer */
+
+// footer CSS
+
+.footer {
+  background-color: $oil;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  color: $white;
+  i {
+    font-size: 100px;
+  }
+  .small, li
+  {font-size: 0.8rem !important;}
+
+}
+
+.footer {
+  h4 {
+    color: $white;
+    font-size: 1rem;
+    font-weight: bold;
+    font-variant: small-caps;
+    margin-top: 2.5rem;
+    margin-bottom: 10px;
+  }
+  p {
+    font-weight: 300;
+    font-size: .8rem;
+  }
+}
+
+
+.footer-links {
+  list-style-type: none;
+  a {
+    color: $white;
+    font-weight: 300;
+    font-size: .8rem;
+  }
+  li {
+    margin-top: .5rem;
+  }
+}
+
+.copyright {
+  background: $black;
+  color: $white;
+  padding: 0.5rem 0px !important;
+  h3 {font-weight: normal; color: $white;}
+  p {
+    font-weight: 300;
+    font-size: .8rem;}
+}
+
+#image-rule {
+  background: url('/media/pruh.jpg');
+  min-height: 100px;
+  background-position: middle center;
+  background-size:cover;}

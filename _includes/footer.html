@@ -1,25 +1,59 @@
-<footer class="site-footer row" role="contentinfo">
-<hr/>
-  <div class="large-12 columns">
+<div id="image-rule"> </div>
+<footer class="footer">
+  <div class="row">
 
-    <ul class="inline-list right">
-      <li><a href="https://github.com/otevrenamesta/">GitHub <i class="fa fa-github"></i></a></li>
-      <li><a href="https://www.facebook.com/otevrenamesta"><i class="fa fa-facebook"></i>acebook</a></li>
-    </ul>
+    <div class="small-12 medium-4 large-2 columns">
+      <h4>Navigace</h4>
+      <ul class="footer-links">
+        {% include nav.html %}
+      <ul>
+    </div>
 
-    <ul class="inline-list">
-      {% include nav.html %}
-    </ul>
+    <div class="small-12 medium-8 large-4 columns small">
+      <h4>Otevřená města</h4>
+      <p>jsou <strong>spolek měst</strong>, která prosazují otevřené fungování místní samosprávy, zejména:</p>
+      <ul>
+        <li>zveřejňování informací a Open Data,</li>
+        <li>otevřené zadávání veřejných zakázek,</li>
+        <li>zapojování veřejnosti do rozhodování,</li>
+        <li>open source a otevřené technologie.</li>
+      </ul>
+     </div>
 
-    <p class="quiet copyright">
-      <span style="-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-khtml-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;font-size:1em">©</span>
-      Copyleft. Všechna práva vyhlazena. Obsah této stránky můžete volně šířit podle licence
-      <a href="http://creativecommons.org/licenses/by/4.0/">
-        <img src="https://licensebuttons.net/l/by/4.0/80x15.png" alt="Creative commons Uveďte autora 4.0"/>
-      </a>.<br/>
-      web: <a href="mailto:jakub.michalek@pirati.cz">Jakub Michálek</a> | 
-      webmaster: <a href="mailto:info@vxk.cz">Václav Klecanda</a>
-    </p>
+     <div class="small-12 medium-4 large-2 columns">
+       <h4>Následujte nás</h4>
+       <ul class="footer-links">
+         <li><a href="https://github.com/otevrenamesta/">GitHub</a></li>
+         <li><a href="https://www.facebook.com/otevrenamesta">Facebook</a></li>
+       <ul>
+     </div>
 
+    <div class="small-12 medium-8 large-4 columns">
+      <div class="fb-like-box" data-href="https://www.facebook.com/otevrenamesta"
+        data-height="300px" data-colorscheme="dark" data-show-faces="true"
+        data-header="false" data-stream="false" data-show-border="false">
+      </div>
+
+    </div>
   </div>
+</footer>
+
+<footer class="copyright">
+  <div class="row">
+    <div class="small-12 medium-6 large-6 columns">
+      <h3><img src="/media/logo.png" alt=""/> &nbsp;{{ site.title }}</h3>
+  </div>
+
+  <div class="small-12 medium-6 large-6 columns">
+    <p>
+      <span style="-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);-khtml-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);display:inline-block;font-size:1em">©</span>
+      Otevřená města, 2014. Šiřte za podmínek licence
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" alt="Creative commons Uveďte autora – Zachovejte licenci 4.0"/>      </a>.<br/>
+      Web <a href="mailto:jakub.michalek@pirati.cz">Jakub Michálek</a> •
+      Webmaster: <a href="mailto:info@vxk.cz">Václav Klecanda</a> •
+      <a href="/citace/">Použitá díla</a>
+    </p>
+  </div>
+</div>
 </footer>
