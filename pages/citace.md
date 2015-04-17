@@ -61,6 +61,7 @@ id:           autocircles
 <hr class="separator"/>
 
 ![Construction at the Town Hall](/media/thumbnails/construction.jpg)
+
 ### Construction at the Town Hall
 * Autor: [M Kuhn](https://www.flickr.com/photos/mkuhn/)
 * Zdroj: [flickr.com](https://flic.kr/p/7vbBm)
