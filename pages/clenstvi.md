@@ -18,7 +18,7 @@ image:
 
 Organizace Otevřená města je ve **fázi zakládání** (dosud není oficiálně založen a zapsán v rejstříku). V rámci procesu zakládání zástupci měst dolaďují obsah stanov a dalších dokumentů. Je třeba také určit první představitele organizace.
 
-Pokud máte zájem stát se zakládajícím členem, představte se stručně v [e-mailové konferenci](mailto:konference@otevrenamesta.cz) a případně zašlete své připomínky k základním dokumentům. Tyto připomínky z projednání zasílejte do **konce května 2014**. Následně by měla proběhnout konference, na které by byly dojednán konečný obsah základních dokumentů.
+Pokud máte zájem stát se zakládajícím členem, představte se stručně v [e-mailové konferenci](mailto:konference@otevrenamesta.cz) a případně zašlete své připomínky k základním dokumentům. Tyto připomínky z projednání zasílejte do **konce května 2015**. Následně by měla proběhnout konference, na které by byly dojednán konečný obsah základních dokumentů.
 
 V zakládací fázi prosím seznamte svého starostu, svou Radu, případně komisi Rady věnující se informatice se základními dokumenty organizace:
 
