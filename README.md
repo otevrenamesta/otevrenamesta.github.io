@@ -8,7 +8,7 @@ To hack the web on your computer, you need [ruby](https://www.ruby-lang.org/en/)
 
 Try first if you already have them with:
 
-> ruby -v && gem -v && echo "ok, I have all I need!"
+> ruby -v && gem -v && echo 'ok, I have all I need!'
 
 If you do not see versions of programs you need to install them.
 Most convenient way is to use [rvm](https://rvm.io/rvm/install).
@@ -29,7 +29,7 @@ Continue with (you can copy & paste into shell):
 
 ```bash
 # Now you HAVE ruby and gem installed. Try it with:
-ruby -v && gem -v && echo "ok, I have all I need!"
+ruby -v && gem -v && echo 'ok, I have all I need!'
 
 # Now you can clone this repo
 git clone https://github.com/otevrenamesta/otevrenamesta.github.io om-web
