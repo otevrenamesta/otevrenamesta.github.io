@@ -6,13 +6,14 @@ style: legal
 styl: om
 ---
 
-Stanovy spolek Otevřená města
+Stanovy spolku Otevřená města
 ======================================
 
 Návrh připravil zastupitel hl. m. Prahy Mgr. Bc. Jakub Michálek a projednala 
 ho přípravná skupina zástupců měst
 ve spolupráci s občanským sdružením Oživení na jednání dne 24. února 2015
 na Úřadu Městské části Praha 6.
+Do návrhu byly zapracovány připomínky statutárního města Brna.
 
 | Přehledová tabulka                             ||| 
 | ----{% capture dir %}{{page.url | | remove:'.html' | remove: '_commented' }}{% endcapture %} |||
@@ -26,8 +27,9 @@ na Úřadu Městské části Praha 6.
 
 (1.1) Název spolku zní **Otevřená města, z. s.** (dále jen „spolek“).
 
-(1.2) Spolek je podle soukromého práva[^spolek] a má vlastní právní
-osobnost. Spolek sdružuje města, obce a další instituce.
+(1.2) Spolek sdružuje města, obce a další instituce.
+Spolek je založen podle soukromého práva[^spolek] a má vlastní právní
+osobnost. 
 
 (1.3) Spolek je ustaven ve veřejném zájmu a naplňuje ho zásadně takovým 
 způsobem, který nemá průmyslovou nebo obchodní povahu.
@@ -69,9 +71,9 @@ Internetové stránky spolek jsou na doméně
 > (§ 50 odst. 2 písm. g) zákona č. 128/2000 Sb., o obcích, ve znění pozdějších 
 > předpisů),
 > mají oprávnění si rozdělovat zisk svazku a vnášejí do svazku 
-> svůj majetek bez přechodu vlastnictví a svazek schvaluje rozpočet
+> svůj majetek bez přechodu vlastnictví. Svazek schvaluje rozpočet
 > a hospodaří podle § 38 a násl. zákona č. 250/2000 Sb., o rozpočtových 
-> pravidlech územních rozpočtů, ve znění pozdějších předpisů, tedy hospodaří
+> pravidlech územních rozpočtů, ve znění pozdějších předpisů. Hospodaří tedy
 > podle poměrně komplikovaných předpisů veřejného práva. Výhodou svazku je, že
 > zakládá automaticky řadu kontrolních oprávnění občanů, členských obcí i
 > státních orgánů. 
@@ -126,7 +128,7 @@ Internetové stránky spolek jsou na doméně
 > že Brno je tradičním místem konání konferencí a veletrhů v oblasti otevřeného 
 > software. Přesnou adresu místa v obci není třeba do stanov psát 
 > (§ 136 odst. 2 zákona č. 89/2012 Sb., občanský zákoník) a bude určena orgány 
-> spolek, konkrétně jeho výborem (§ 163 zákona č. 89/2012 Sb., občanského 
+> spolku, konkrétně jeho výborem (§ 163 zákona č. 89/2012 Sb., občanského 
 > zákoníku).
 
 2. Cíl
@@ -136,15 +138,14 @@ Internetové stránky spolek jsou na doméně
 
 (2.2) Zejména prosazuje 
    (2.2.1) pravidelné zveřejňování informací, 
-   (2.2.2) zpřístupnění úředních informací prostřednictvím otevřených a propojených dat (Open Data), 
-   (2.2.3) průhledné veřejné zakázky od přípravy záměru až po skončení záruky,
-   (2.2.4) transparentní rozhodování a zapojování veřejnosti a 
-   (2.2.5) používání otevřených řešení ve veřejné správě. 
+   (2.2.2) průhledné veřejné zakázky od přípravy záměru až po skončení záruky,
+   (2.2.3) transparentní rozhodování a zapojování veřejnosti a 
+   (2.2.4) používání otevřených řešení ve veřejné správě. 
 
 (2.3) Otevřenými řešeními se rozumí řešení v postavená na 
 otevřených formálních normách,[^smernice] open source software, open data a 
 licencování použitých autorských děl a jiných zákonem chráněných předmětů 
-ke svobodnému užití.
+k všeobecnému veřejnému užití.
 
 [^smernice]: Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013, kterou se mění směrnice 2003/98/ES o opakovaném použití informací veřejného sektoru.
 
@@ -169,9 +170,9 @@ ke svobodnému užití.
 > software. 
 > Svobodný software je zvláštním případem svobodného kulturního díla (viz dále). 
 > Svobodný  software je taky vždy open source, tj. každý má k dispozici 
-> zdrojový  kód a může software zkontrolovat či vylepšit. spolek se nestaví 
+> zdrojový  kód a může software zkontrolovat či vylepšit. Spolek se nestaví 
 > proti  komerčním dodavatelům, naopak předvídá, že jim bude část vývoje 
-> zadávat, pouze tyto společnosti upraví obchodní strategie ve veřejném sektoru. 
+> zadávat. Tyto společnosti tak budou nuceny upravit obchodní strategie ve veřejném sektoru. 
 > Stávající stav vyžaduje, aby vznikající svobodný software byl  napojen na 
 > existující proprietární systémy (např. GINIS, Marbes apod.).
 
@@ -181,43 +182,32 @@ ke svobodnému užití.
 --------------
 (3.1) K dosažení svých cílů spolek v hlavní činnosti zejména:
 
-(3.1.1) hájí společné zájmy svých členů u státních orgánů, dodavatelů 
-proprietárního software a jiných institucí,
-
-(3.1.2) vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
-svých aktivit své členy a jiné instituce,
-
-(3.1.3) vystupuje namísto svých členů na základě zvláštní smlouvy jako 
-centrální zadavatel při společném zadavání veřejných zakázek zejména 
-na dodávky otevřených technologií pro výkon veřejné správy,
-
-(3.1.4) vypisuje veřejné soutěže, např. pro studenty vysokých škol,
-
-(3.1.5) zaměstnává vlastní technické expery, vývojáře a jiné odborníky pracující 
-na veřejně prospěšných výstupech podle cílů spolku,
-
-(3.1.6) sdílí a vyhodnocuje zkušenosti svých členů a jiných institucí, definuje 
-standardy a dobrou praxi,
-
-(3.1.7) shromažďuje finanční prostředky od svých členů do vlastnictví spolku a 
-zakládá právnické osoby nebo na nich nabývá majetkovou účast,
-
-(3.1.8) uchází se o finanční podporu z grantů, národních fondů a prostředků
-Evropské unie za podmínek stanovených v jejich programech, 
-
-(3.1.9) organizuje a informuje neformální komunitu pro otevřenost a svobodný 
-software ve veřejné správě, členy spolek i veřejnost,
-
-(3.1.10) spolupracuje s obdobnými zahraničními organizacemi a vstupuje do 
-zahraničních partnerství.
+  (3.1.1) hájí společné zájmy svých členů u státních orgánů, dodavatelů 
+  proprietárního software a jiných institucí,
+  (3.1.2) vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
+  svých aktivit své členy a jiné instituce,
+  (3.1.3) vystupuje namísto svých členů na základě zvláštní smlouvy jako 
+  centrální zadavatel při společném zadavání veřejných zakázek zejména 
+  na dodávky otevřených technologií pro výkon veřejné správy,
+  (3.1.4) vypisuje veřejné soutěže, např. pro studenty vysokých škol,
+  (3.1.5) zaměstnává vlastní technické expery, vývojáře a jiné odborníky pracující 
+  na veřejně prospěšných výstupech podle cílů spolku,
+  (3.1.6) sdílí a vyhodnocuje zkušenosti svých členů a jiných institucí, definuje 
+  standardy a dobrou praxi,
+  (3.1.7) shromažďuje finanční prostředky od svých členů do vlastnictví spolku a 
+  zakládá právnické osoby nebo na nich nabývá majetkovou účast,
+  (3.1.8) uchází se o finanční podporu z grantů, národních fondů a prostředků
+  Evropské unie za podmínek stanovených v jejich programech, 
+  (3.1.9) organizuje a informuje neformální komunitu pro otevřenost a svobodný 
+  software ve veřejné správě, členy spolek i veřejnost,
+  (3.1.10) spolupracuje s obdobnými zahraničními organizacemi a vstupuje do 
+  zahraničních partnerství.
 
 (3.2) K dosažení svých cílů spolek ve vedlejší hospodářské činnosti zejména:
 
-(3.2.1) zhodnocuje vlastní majetek,
-
-(3.2.2) pořádá samostatně nebo ve spolupráci s jinými subjekty konference,
-
-(3.2.3) poskytuje poradenství, vyjádření a akreditace komerčním dodavatelům.
+  (3.2.1) zhodnocuje vlastní majetek,
+  (3.2.2) pořádá samostatně nebo ve spolupráci s jinými subjekty konference,
+  (3.2.3) poskytuje poradenství, vyjádření a akreditace komerčním dodavatelům.
 
 > **Komentář**:
 
@@ -287,13 +277,13 @@ jeho městská část, statutární či jiné město anebo jiná obec).
   (5.3.4) jiná právnická osoba neziskového sektoru v České republice nebo zahraničí,
   která přispívá k cíli spolku podle svého zakladatelského právního jednání.
 
-(5.4) Člen spolek je zavázán 
+(5.4) Člen spolku je zavázán 
 
   (5.4.1) podporovat cíl spolku, 
   (5.4.2) platit členský příspěvek a 
   (5.4.3) zachovávat vnitřní řád spolku.
 
-(5.5) Člen spolek je oprávněn
+(5.5) Člen spolku je oprávněn
 
   (5.5.1) účastnit se za podmínek jednacího řádu jednání orgánů spolku,
   (5.5.2) navrhovat nové projekty spolku, žádat o záštitu spolku nad svými 
@@ -370,7 +360,7 @@ k rozhodnutí. Odvolání proti rozhodnutí o pozastavení členství nemá odkl
 6. Orgány
 ---------
 
-(6.1) spolek má 
+(6.1) Spolek má 
 
   (6.1.1) nejvyšší orgán, kterým je členská schůze,
   (6.1.2) volené orgány, kterými jsou výbor, kontrolor a projektová rada,
@@ -390,7 +380,7 @@ na internetových stránkách spolku pokud možno průběžně a dostatečnou do
 (6.4) Orgány rozhodují ve veřejném hlasování podle jmen členů,
 
   (6.4.1) většinou hlasů všech svých členů, kteří v době rozhodování svou funkci
-  zastávají, nebylo-li rozhodnutí řádně projednáno,
+  zastávají, nebylo-li rozhodnutí řádně projednáno, nebo
   (6.4.2) většinou hlasů těch svých členů, kteří se účastní hlasování, stanoví-li
   jednací řád daného orgánu podmínky řádného projednání a jsou-li dodrženy podmínky 
   řádného projednání vyplývající z jednacího řádu daného orgánu i vnitřního řádu 
@@ -409,7 +399,7 @@ pozorovatel, neusnese-li se orgán na neveřejném jednání.
 > K [6.4.2] Obdobně jako v § 257 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku,
 > se navrhuje určit případy, ve kterých není třeba souhlasu nadpoloviční většiny
 > všech členů, ale pouze většiny členů aktivních. Nezájem a neúčast tedy nemohou
-> činnost spolek zablokovat. Podmínky řádného projednání mohou být stanoveny
+> činnost spolku zablokovat. Podmínky řádného projednání mohou být stanoveny
 > vnitřním řádem spolek, jakož i jednacím řádem daného orgánu. 
 >
 > Příkladem
@@ -478,16 +468,19 @@ do další aktualizace.
 > Penroseho odmocninového zákona (podle matematika Lionela Penrose), 
 > podle něhož je *apriorní* hlasovací síla člena určitého hlasujícího tělesa
 > definovaná Penroseho-Banzhafovým indexem nepřímo úměrná odmocnině jeho 
-> velikosti. Velikost člena spolek je přirozeně vyjádřena jeho počtem obyvatel.
+> velikosti. Velikost člena spolku je přirozeně vyjádřena jeho počtem obyvatel.
 > Proto každý člen získává tolik hlasů, kolik odpovídá odmocnině z jeho 
 > velikosti, a tedy obě závislosti se vyruší a na každého obyvatele připadá 
-> stejná *apriorní* hlasovací síla. Tato otázka byla řešena při diskusi 
+> stejná *apriorní* hlasovací síla. 
+> Tím se vychází vstříc požadavkům menších měst, která se obávají toho, že budou
+> vždy přehlasováni většími městy.
+> Tato otázka byla řešena při diskusi 
 > o hlasovací síle v rámci orgánů Evropské unie. Podrobné zdůvodnění naleznete
 > v článku Karol Zyczkowski and Wojciech Slomczynski: *Square root voting system,*
 > *optimal threshold and π*, dostupného jako preprint na [webu][arxiv-sqrt].
 >
 > Příklady rozložení počtu obyvatel a hlasovací síly pro namátkou vybraná česká 
-> města, pokud by byla členy spolek, zobrazuje následující obrázek:
+> města, pokud by byla členy spolku, zobrazuje následující obrázek:
 > 
 > ![Rozložení počtu obyvatel a hlasovací síly][sqrt-img]
 
@@ -529,7 +522,7 @@ součinnost při zápise jeho funkce do spolkového rejstříku.
 schůzí volen jako kolektivní orgán o pěti členech. Výbor
 
   (8.4.1) odpovídá za vystupování spolku navenek a plnění povinností 
-  spolek a výkon práv spolek vyplývajících ze zákona nebo těchto stanov, 
+  spolku a výkon práv spolku vyplývajících ze zákona nebo těchto stanov, 
   nejsou-li svěřeny jinému orgánu,
   (8.4.2) schvaluje rozpočet, řídí a kontroluje hospodaření s majetkem spolku a 
   dodržování pravidel zaměstnanci spolku,
@@ -544,9 +537,9 @@ schůzí volen jako kolektivní orgán o pěti členech. Výbor
   (8.4.7) přijímá členy a dále se souhlasem aspoň jednoho kontrolora pozastavuje členství a vylučuje členy,
   (8.4.8) předkládá členské schůzi výroční zprávu o činnosti spolku,
   která obsahuje také informaci o závěrečném účtu spolku a výsledcích kontrol,
-  (8.4.9) vede a na internetových stránkách spolku zveřejňuje 
-  v úplné podobě seznam členů s údaji podle zákona a těchto stanov (bod [7.3]),
-  (8.4.10) svolává členskou schůzi a předsedá jí.
+  (8.4.9) vede seznam členů s údaji podle zákona a těchto stanov (bod [7.3]),
+  který v úplné podobě zveřejňuje na internetových stránkách spolku,
+  (8.4.10) svolává členskou schůzi aspoň jednou ročně a předsedá jí.
 
 (8.5) **Projektová rada** je poradním orgánem výboru v odborných záležitostech 
 působnosti spolku a v projektovém řízení. Projektová rada
@@ -562,7 +555,7 @@ působnosti spolku a v projektovém řízení. Projektová rada
 jiného orgánu spolku. Může být zvoleno i více kontrolorů, pak jedná každý samostatně.
 Kontrolor
 
-  (8.6.1) má přístup ke všem dokumentům spolku a dohlíží na jeho hospodaření,
+  (8.6.1) má přístup ke všem dokumentům spolku a dohlíží na hospodaření spolku,
   (8.6.2) provádí kontrolu hospodaření s majetkem spolku a s jeho finančními
   prostředky a předkládá zprávu o výsledcích kontroly výboru, který s nimi 
   seznamuje členy spolku ve výroční zprávě o činnosti,
@@ -583,7 +576,7 @@ Kontrolor
 > 
 > ![Diagram organizační struktury a vazeb navenek][img-spolek]
 
-[img-spolek]: img/spolek.png
+[img-spolek]: img/organizace.png
 [aoc]: http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf
 
 9. Právní jednání
@@ -602,9 +595,9 @@ hodnotou, její zastavení, zatížení, uzavření o smlouvě budoucí, předku
 právo anebo jiné právní jednání, které může mít za následek závazek k poskytnutí 
 takové hodnoty.
 
-(9.3) Vedle osoby uvedených v předchozích ustanoveních stanov mohou jménem 
-spolek jednat i jiní zástupci, o nichž to stanoví zákon anebo stanovy, jakož
-i zmocněnec, jemuž byla zástupcem spolek udělena plná moc k určitému jednání
+(9.3) Vedle osob uvedených v předchozích ustanoveních stanov mohou jménem 
+spolku jednat i jiní zástupci, o nichž to stanoví zákon anebo stanovy, jakož
+i zmocněnec, jemuž byla zástupcem spolku udělena plná moc k určitému jednání
 a způsob udělení plné moci splňuje podmínky kladené na jednání samotné.
 
 (9.4)   Písemné právní jednání výboru nebo jiného zástupce spolku musí obsahovat 
@@ -614,7 +607,7 @@ jméno jednajícího, jeho funkci ve spolku a podpis.
 --------------------------
 
 (10.1) S majetkem hospodaří výbor v souladu se schváleným rozpočtem, se zákonem 
-a jinými obecně závaznými  právními předpisy. Účetní závěrku spolek ověřuje
+a jinými obecně závaznými  právními předpisy. Účetní závěrku spolku ověřuje
 auditor.
 
 (10.2)  Majetek spolku je v jeho vlastnictví, členové neručí za dluhy spolku 
@@ -638,8 +631,8 @@ nedá-li k tomu souhlas členská  schůze.
 
 (10.6) Členové spolku platí 
 členské příspěvky ve výši, která je úměrná počtu obyvatel (bod [7.4.7]). 
-Příspěvek je splatný na transparentní bankovní účet spolek do třicátého dne 
-kalendářního roku, na který se platí, není-li stanoveno jinak.
+Příspěvek na daný kalendářní rok je splatný na transparentní bankovní účet 
+spolku do třicátého dne daného roku, není-li stanoveno jinak.
 
 (10.7) Spolek nesmí převádět výdělek svým členům, nýbrž používá ho ke své hlavní 
 činnosti. 
@@ -659,7 +652,7 @@ spolek.
 
 > Připomíná se, že při dosažení hodnoty netto aktiv 100 mil. Kč či splnění 
 > jiné podmínky významnosti podle § 9 vyhlášky č. 312/2014 Sb., konsolidační 
-> vyhlášky státu, musí být spolek zahrnuta do konsolidace podle 
+> vyhlášky státu, musí být spolek zahrnut do konsolidace podle 
 > § 5 odst. 4 písm. c) vyhlášky a násl. 
 
 
@@ -698,11 +691,11 @@ internetových stránkách spolku.
 
 (12.1) Zakládající členové spolku jsou základní a přidružení členové,
 kteří jsou uvedeni na podpisovém archu na konci těchto stanov, pokud
-zastupitelský nebo jiný kompetentní orgán stanovy schválí ve lhůtě pro to určené,
-zástupce zakládajícího člena projeví tento souhlas na listině s dojednaným textem stanov,
-přičemž podpis zástupce bude úředně ověřen,
-a tuto listinu doručí výboru (dále jen „podpis stanov“).
-Platnému projevení vůle nebrání, pokud jsou podpisy uvedeny na více listinách.
+
+  (12.1.1) zastupitelský nebo jiný kompetentní orgán stanovy schválí ve lhůtě pro to určené,
+  (12.1.2) zástupce zakládajícího člena projeví tento souhlas na listině s dojednaným textem stanov,
+  přičemž podpis zástupce bude úředně ověřen, a 
+  (12.1.3) listina s úředně ověřeným podpisem bude doručena výboru (dále jen „podpis stanov“).
 
 (12.2) Prvními členy volených orgánů jsou
 
@@ -724,7 +717,7 @@ spolku od podpisu odstoupit.
 Lhůta pro schválení stanov činí tři měsíce od okamžiku, kdy dojednaný text
 stanov podepíšou
 
-  (12.4.1) aspoň tří zakládající členové spolku, kteří se mají stát základními členy, a dále
+  (12.4.1) aspoň tři zakládající členové spolku, kteří se mají stát základními členy, a dále
   (12.4.2) aspoň jeden zakládající člen spolku, 
   který se má stát přidruženým členem a nemá způsobilost stát se
   základním členem spolku. 
@@ -742,7 +735,7 @@ souhlas až po podání návrhu na zápis
 spolku do spolkového rejstříku, posuzuje se jeho podání jako přihláška nového člena.
 
 (12.6) Funkční období prvních volených orgánů, jejichž obsazení je uvedeno ve 
-stanovách (body [12.2.1] až [12.2.6]), začíná vznikem spolku jako právnické osoby.
+stanovách (body [12.2.1] až [12.2.6]), se počítá od vzniku spolku jako právnické osoby.
 
 (12.7) Každý zakládající člen spolku, který se stane základním členem (bod [12.1]), je povinen vnést do majetku spolku 
 peněžitý vklad ve výši podle vlastního uvážení a 
@@ -750,30 +743,34 @@ svých rozpočtových možností. Zakládající členové, kteří se mají st�
 členy, jsou povinni vnést peněžitý vklad ve výši aspoň 1,50 Kč (slovy: jedna 
 koruna padesát halířů) na jednoho obyvatele (bod [7.3]). Vklad je splatný 
 na transparentní bankovní účet spolku do dvou měsíců od zveřejnění prvního 
-seznamu členů spolku. 
+seznamu členů spolku. Do doby stanovení výše členského příspěvku členskou
+schůzí (bod [7.4.7]) platí, že se výše ročního členského příspěvku rovná výši 
+vkladu podle tohoto bodu.
 
-(12.8) Výbor spolku je zakládajícími členy zmocněn k tomu, aby podal návrh
-na zápis spolku do spolkového rejstříku[^zapis] a učinil v souvislosti se zápisem
-spolku do spolkového rejstříku jménem zakládajících členů vše potřebné.
-Pokud by se v rejstříkovém řízení ukázalo, že tyto stanovy jsou v rozporu
-se zákonem, je výbor spolku tímto zmocněn zakládajícími členy k veškerým změnám stanov, které jsou
-podle rejstříkového soudu nezbytné k tomu, aby spolek mohl být zapsán, v nezbytně
-nutném rozsahu, a to bez dalšího výslovného souhlasu zakládajících členů.
+(12.8) Výbor spolku je zakládajícími členy zmocněn bez potřeby dalšího 
+výslovného souhlasu zakládajících členů k tomu, aby jménem zakládajících členů
+učinil v souvislosti se zápisem spolku do spolkového rejstříku vše potřebné.
 Výbor prokazuje zmocnění podle tohoto ujednání podepsaným textem stanov.
 Výbor je povinen oznámit své jednání učiněné na základě tohoto ujednání
-zakládajícím členům bez zbytečného odkladu.
+zakládajícím členům bez zbytečného odkladu. Výbor je zejména zmocněn
+
+  (12.8.1) podat návrh na zápis spolku do spolkového rejstříku,[^zapis]
+  (12.8.2) schválil potřebnou změnu stanov, pokud by se v rejstříkovém řízení 
+  ukázalo, že tyto stanovy jsou v rozporu se zákonem, a to výlučně v rozsahu, 
+  který je podle rejstříkového soudu nutný k tomu, aby spolek mohl být zapsán.
 
 [^zapis]: § 226 odst. 2 zákona č. 89/2012 Sb., občanský zákoník.
 
 (12.9) Členové volených orgánů spolku projevují podpisem těchto stanov souhlas s tím,
 aby byli uvedeni ve spolkovém rejstříku, prohlašují a zavazují se plnit své závazky podle stanov.
 Členové volených orgánů předají dokumenty uvedené v bodě [8.3] výboru do 1 měsíce
-od vzniku spolku.
+od vzniku spolku. 
 
 (12.10) Kde se v ustanoveních při zakládání mluví o volených orgánech spolku před jeho vznikem
 anebo o osobách, které jsou členy těchto orgánů,
 má se tím na mysli okruh osob, které jsou uvedeny v bodech [12.2.1] až [12.2.6],
-které jednají podle pravidel uvedených v těchto stanovách pro daný volený orgán.
+které jednají podle pravidel uvedených v zákoně a těchto stanovách pro daný 
+volený orgán.
 
 (12.11) Spolek navrhne výmaz části 12 z úplného znění stanov, jakmile budou splaceny 
 všechny vklady zakládajících členů, nejdříve však po skončení prvního volebního odbobí
@@ -785,20 +782,25 @@ rejstříku.
 13. Závěrečná ustanovení
 ------------------------
 
-(13.1) Spolek byl založen dne ................. (vyplní výbor podle bodu [12.4]).
- 
-(13.2) Účinnosti nabývají stanovy dnem zápisu do spolkového rejstříku 
-vedeného u Krajského soudu v Brně.
+(13.1) Spolek byl založen dne ................. *(vyplní výbor podle bodu [12.4])*.
+
+(13.2) Platnému projevení vůle podepsaných smluvních stran 
+být vázáni těmito stanovami nebrání, pokud jsou podpisy uvedeny na více listinách,
+které obsahují stejný dojednaný text stanov.
 
 (13.3) Podpis stanov s dodatkem nebo odchylkou není jejich přijetím, 
 ani když se podstatně nemění podmínky textu stanov. Po schválení stanov však
 mohou být ke stanovám připojeny doložky o schválení kompetentním orgánem
 zakládajícího člena, vyplývá-li to ze zákona či jeho ustálené praxe.
 
-(13.4) Zakládající členové spolku si stanovy důkladně přečetly, porozuměly 
-jejich obsahu, po schválení zastupitelským nebo jiným kompetentním orgánem
-svobodně a vážně projevují vůli být jimi vázáni. Na důkaz toho
-připojují podpis svého zástupce: 
+(13.4) Účinnosti nabývají stanovy dnem zápisu do spolkového rejstříku 
+vedeného u Krajského soudu v Brně.
+
+(13.5) Podepsané smluvní strany si stanovy důkladně přečetly, porozuměly 
+jejich obsahu a prohlašují, že splnily všechny náležitosti potřebné 
+pro závazný projev vůle, včetně případného předchozího schválení zastupitelským 
+nebo jiným kompetentním orgánem. Tímto svobodně a vážně projevují vůli být 
+stanovami vázány. Na důkaz toho připojují podpis svůj anebo svého zástupce:
 
 
 * * *
