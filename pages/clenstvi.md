@@ -16,18 +16,25 @@ image:
 
 ## Zakládání
 
-Organizace Otevřená města je ve **fázi zakládání** (dosud není oficiálně založen a zapsán v rejstříku). V rámci procesu zakládání zástupci měst dolaďují obsah stanov a dalších dokumentů. Je třeba také určit první představitele organizace.
+Spolek Otevřená města je ve fázi zakládání. Připravujeme jeho oficiální založení a následně bude zapsán do rejstříku. Na tom je skvělé, že můžete do jednání zapojit svoje město a ovlivnit výslednou podobu spolku. 
 
-Pokud máte zájem stát se zakládajícím členem, představte se stručně v [e-mailové konferenci](mailto:konference@otevrenamesta.cz) a případně zašlete své připomínky k základním dokumentům. Tyto připomínky z projednání zasílejte do **konce května 2015**. Následně by měla proběhnout konference, na které by byly dojednán konečný obsah základních dokumentů.
+Pokud máte **zájem stát se zakládajícím členem**, je třeba učinit následující kroky:
 
-V zakládací fázi prosím seznamte svého starostu, svou Radu, případně komisi Rady věnující se informatice se základními dokumenty organizace:
+1. kontaktujte koordinátorku [Lenku Frankovou](mailto:lenka.frankova@oziveni.cz) (viz [níže](#kontakt)), případně napište do [e-mailové konference](mailto:konference@otevrenamesta.cz),
+2. stáhnete si [balíček se základními informacemi a šablonou usnesení Rady města](/media/docs/balicek.zip) (obsahuje návrh usnesení pro Radu vašeho města a přílohy),
+3. projednejte záměr účastnit se jednání o vzniku v příslušné komisi a schvalte přiložené usnesení, kterým Rada města pověří zástupce pro jednání,
+4. informujte průběžně koordinátorku o postupu ve Vašem městě a po rozeslání pozvánky přijeďte na vyjednávací konferenci, na které bude dojednán konečný obsah základních dokumentů,
+5. po dojednání konečného textu stanov na konferenci bude rozeslán zakládajícím členům druhý balíček s materiály na zastupitelstvo.
 
-- Spolek **Otevřená města** a projekt **Otevřené smlouvy** ([shrnutí][om])
+<a href="/media/docs/balicek.zip" class="button expand success">Balíček se základními dokumenty a šablonou usnesení Rady města</a>
+
+
+Balíček obsahuje následující dokumenty:
+
+- [Šablona usnesení Rady k pověření jednat o založení Otevřených měst](/media/docs/balicek/sablona-usneseni.doc)
+- [Základní informace o spolku Otevřená města a projektu Otevřené smlouvy][om]
 - Návrh stanov (verze [bez komentářů](/pravo/stanovy/main.pdf), [s vysvětlujícím komentářem](/pravo/stanovy/main_commented.pdf))
-
-Doprovodné dokumenty:
-
-- [Vybraná data o open source][open-source-factsheet]
+- [Vybraná data o otevřené samosprávě][open-source-factsheet] (infografika)
 - [Standard a architektura registru smluv][registr-smluv]
 
 ----
@@ -44,21 +51,22 @@ Doprovodné dokumenty:
 
 Podrobné informace jsou v dokumentech výše.
 
-### O členství aktuálně usilují
+----
 
-samospráva | stav projednání zastupitelstvem
+## O členství aktuálně usilují
+
+samospráva | stav projednání
 --- | ---                  
 Brno | v jednání
 Černošice | materiály na květnové radě
 Děčín | projednávání na úrovni IT oddělení
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
-MČ Praha 12 | Projekt představen starostce a místostarostovi, zakládající materiály odeslány. Technicky jsou připraveni.
-Nové Město na Moravě | Zakládací materiály konzultovány s informatikem města. Mají zájem.
-Praha | Projekt představen.
-Praha 5 | Projekt představen na výboru ZM v 02/15
-Praha 6 | Komise doporučila připojení k projektu Otevřená města jako člen
-Praha 7 | Odsouhlaseno komisí.Materiály budou předloženy na zastupitelstvu 06/15
-Ústí nad Labem | Materiály budou předloženy na zastupitelstvu 06/15
+Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány, technicky jsou připraveni
+Nové Město na Moravě | zakládací materiály konzultovány s informatikem města, mají zájem
+Praha 5 | projekt představen na výboru ZM v 02/15
+Praha 6 | komise doporučila připojení k projektu Otevřená města jako člen
+Praha 7 | odsouhlaseno komisí, materiály budou předloženy na zastupitelstvu 06/15
+Ústí nad Labem | materiály budou předloženy na zastupitelstvu 06/15
 
 ----
 
