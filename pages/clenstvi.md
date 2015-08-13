@@ -56,17 +56,21 @@ Podrobné informace jsou v dokumentech výše.
 ## O členství aktuálně usilují
 
 samospráva | stav projednání
---- | ---                  
-Brno | v jednání
+--- | ---
+Brno | 28.7. byla o iniciativě informována Rada. Záměr založení spolku je obsažen v Informační strategii města
 Černošice | materiály na květnové radě
 Děčín | projednávání na úrovni IT oddělení
+Kutná Hora | Představeny základní informace
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
-Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány, technicky jsou připraveni
-Nové Město na Moravě | zakládací materiály konzultovány s informatikem města, mají zájem
-Praha 5 | projekt představen na výboru ZM v 02/15
-Praha 6 | komise doporučila připojení k projektu Otevřená města jako člen
-Praha 7 | odsouhlaseno komisí, materiály budou předloženy na zastupitelstvu 06/15
-Ústí nad Labem | materiály budou předloženy na zastupitelstvu 06/15
+Mariánské Lázně | v jednání
+Nové Město na Moravě | Zakládací materiály konzultovány s informatikem města. Mají zájem.
+Praha | Projekt představen.
+Praha 5 | Projekt představen na výboru ZM v 02/15
+Praha 6 | Komise doporučila připojení k projektu Otevřená města jako člen
+Praha 7 | Odsouhlaseno komisí.Materiály budou předloženy na zastupitelstvu 06/15
+Praha 12 | Projekt představen starostce a místostarostovi, zakládající materiály odeslány. Technicky jsou připraveni.
+Přerov | 3.8.2015 Komise pro otevřenou radnici Rady města Přerova odhlasovala zaslání návrhu na členství
+Ústí nad Labem | Materiály budou předloženy na zastupitelstvu 06/15
 
 ----
 
