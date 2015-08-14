@@ -1,13 +1,13 @@
 ---
 layout:       default
-title:        Výzvy ke zlepšení
+title:        Problémy, které chceme řešit
 description:  Nedostupnost dat, Závislost na dodavatelích uzavřeného software, Utajování informací, Srovnávací ukazatele o fungování města
-permalink:    /vyzvy/
+permalink:    /problemy/
 id:           autocircles
 ---
 
 
-# Výzvy ke zlepšení otevřenosti
+# Problémy, které chceme řešit
 
 K nejrozšířenějším výzvám k otevřenějšímu fungování patří:
 
@@ -64,7 +64,7 @@ k informacím právo. Na radnicích není zavedena metodika toho, jak zveřejnov
 materiály, případně obsahuje zbytečná omezení (výsledky hlasování,
 materiály na připravované jednání apod.)
 
-Srovnávací ukazatele o fungování města
+Chybějící srovnání
 -----------------------------------
 
 Ve veřejné správě téměř neexistují celkové srovnávací ukazatele o fungování měst.

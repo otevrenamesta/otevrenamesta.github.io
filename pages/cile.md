@@ -9,18 +9,20 @@ id:           autocircles
 
 # Cíle fungování
 
-Následující seznam definuje klíčové oblasti otevřeného fungování radnic,
-kterým by organizace Otevřená města měla věnovat pozornost:
+
+Dnešní města se potýkají s řadou [problémů](/problemy/), které komplikují otevřené fungování města. Následující seznam definuje klíčové oblasti otevřeného fungování radnic, kterým by organizace Otevřená města měla věnovat pozornost:
 
 ![Zveřejňování smluv](/media/thumbnails/contracts.jpg)
 
-Zveřejnování smluv a dobrá praxe
+[Zveřejňování smluv][smlouvy] a dobrá praxe
 -------------------------------
 
-* Chceme připravit a schválit **standard pro zveřejňování smluv a faktur** a dále na tomto fóru diskutovat o dalších společných standardech, aby měly zveřejněné informace vypovídající hodnotu a byly navzájem porovnatelné.
+* Chceme připravit a schválit **standard pro [zveřejňování smluv][smlouvy] a faktur** a dále na tomto fóru diskutovat o dalších společných standardech, aby měly zveřejněné informace vypovídající hodnotu a byly navzájem porovnatelné.
 * Chceme vzájemně sdílet **příklady dobré praxe**, kterou mohou využít starostové
   jiných měst a obcí, a to jak na úrovni politického vedení města, tak i na úrovni odborníků a pracovních skupin.
 * Chceme nabídnout **online knihovnu znalostí pro otevírání radnic**, která bude úřadům, starostům a zastupitelům vodítkem, jak zveřejňovat informace a poskytovat je na žádost ke spokojenosti občanů, jak vypisovat výběrová řízení a soutěže apod.
+
+[smlouvy]: /projekty/smlouvy/
 
 <hr class="separator"/>
 
@@ -55,7 +57,7 @@ dotazy, diskutovat návrhy a nahlásit problém ve městských službách, aby m
 
 ![Open Source](/media/thumbnails/open-source.png)
 
-Open source
+[Open source](/open-source/)
 ------------
 
 * Chceme, aby byl při zavádění nových aplikací zvážen **open-source** software.

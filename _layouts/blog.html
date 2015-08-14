@@ -1,34 +1,13 @@
 ---
 layout: default
-section: blog
 ---
 
-<div class="row">
-
-  <div class="medium-12 large-8 small-centered column">
 
     <h1>{{page.title}}</h1>
 
-    <span class='date'>{{page.date | date:"%b %d"}}</span>
-
-    {% if page.splash %}
-      {% if page.splash contains 'http' %}
-        {% capture url %}{{page.splash}}{% endcapture %}
-      {% else %}
-        {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
-      {% endif %}
-
-    <img src='{{url}}' alt='splash image' class="img-responsive" />
-
-    {% endif %}
+    <span class="date">{{page.date | date: "%-d.%-m.%Y"}}</span> 
 
     {{content}}
 
 
   </div>
-
-  <div class="medium-12 large-4 small-centered column">
-    {% include related.html %}
-  </div>
-
-</div>
