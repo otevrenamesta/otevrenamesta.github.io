@@ -13,7 +13,7 @@ Zakladatelský balíček obsahuje:
 
 <a href="/media/docs/balicek/sablona-usneseni.doc" class="button expand success">Stáhnout vzorové usnesení Rady k pověření</a>
 
-Pokud používáte open source program Libre Office, můžete dát přednost [dokumentu ve formátu ODT]((/media/docs/balicek/sablona-usneseni.odt)).
+Pokud používáte open source program Libre Office, můžete dát přednost [dokumentu ve formátu ODT](/media/docs/balicek/sablona-usneseni.odt).
 
 ----
 
