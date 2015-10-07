@@ -8,7 +8,6 @@ image:
 ---
 
 # Členství
-pře
 Členem organizace Otevřená města se může stát každá obec nebo město v České republice (s právem hlasovacím) anebo jiná veřejně prospěšná instituce (viz stanovy níže). Pokud ještě váháte, připravili jsme pro vás [seznam 7 důvodů, proč se stát členem](/clenstvi/motivace/).
 
 
