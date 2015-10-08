@@ -50,4 +50,4 @@ Přerov | 3.8.2015 Komise pro otevřenou radnici Rady města Přerova odhlasoval
 Psáry | Radou města přijato usnesení účastnit se zakládání s možností získat členství 
 Ústí nad Labem | mělo zájem; je třeba vyjasnit, zda zájem trvá po změně vedení
 
-*Seznam je průběžně aktualizován (3. 10. 2015)*
+*Seznam je průběžně aktualizován (8. 10. 2015)*
