@@ -35,6 +35,7 @@ samospráva | stav projednání
 --- | ---
 Brno | 28.7. byla o iniciativě informována Rada. Záměr založení spolku je obsažen v Informační strategii města
 Černošice | dojednáváním stanov OM byl pověřen radní
+Česká Lípa | Rada města 26.10. projedná návrh na členství
 Děčín | projednávání na úrovni IT oddělení
 Kutná Hora | představeny základní informace
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
