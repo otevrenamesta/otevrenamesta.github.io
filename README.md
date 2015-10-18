@@ -1,6 +1,6 @@
 # Otevrena mesta - web
 
-Jekyll based web [otevrenamesta.cz](www.otevrenamesta.cz) served on Github pages.
+Jekyll based web [www.otevrenamesta.cz](http://www.otevrenamesta.cz) served on Github pages.
 
 ## Installation
 
