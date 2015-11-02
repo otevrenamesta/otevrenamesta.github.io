@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Návrh stanov
+title: Stanovy
 description: Stanovy spolek Otevřená města
 style: legal
 styl: om
@@ -9,11 +9,11 @@ styl: om
 Stanovy spolku Otevřená města
 ======================================
 
-Návrh připravil zastupitel hl. m. Prahy Mgr. Bc. Jakub Michálek a projednala 
-ho přípravná skupina zástupců měst
-ve spolupráci s občanským sdružením Oživení na jednání dne 24. února 2015
-na Úřadu Městské části Praha 6.
-Do návrhu byly zapracovány připomínky statutárního města Brna.
+*Dojednaný text stanov*
+
+Text stanov byl dojednán zástupci samospráv na konferenci dne 24. února 2015
+na Úřadu Městské části Praha 6 a na konferenci 21. října 2015 na Magistrátu
+města Brna. 
 
 | Přehledová tabulka                             ||| 
 | ----{% capture dir %}{{page.url | | remove:'.html' | remove: '_commented' }}{% endcapture %} |||
@@ -36,7 +36,7 @@ způsobem, který nemá průmyslovou nebo obchodní povahu.
 
 (1.4) Spolek poskytuje informace veřejnosti
 způsobem podle zákona upravujícího svobodný přístup k informacím.[^infoz]
-Internetové stránky spolek jsou na doméně 
+Internetové stránky spolku jsou na doméně 
 [otevrenamesta.cz](http://www.otevrenamesta.cz).
 
 (1.5) Sídlem spolku je Brno.
@@ -143,7 +143,7 @@ Internetové stránky spolek jsou na doméně
    (2.2.4) používání otevřených řešení ve veřejné správě. 
 
 (2.3) Otevřenými řešeními se rozumí řešení v postavená na 
-otevřených formálních normách,[^smernice] open source software, open data a 
+otevřených formálních normách,[^smernice] open source software (svobodném software), open data a 
 licencování použitých autorských děl a jiných zákonem chráněných předmětů 
 k všeobecnému veřejnému užití.
 
@@ -183,14 +183,14 @@ k všeobecnému veřejnému užití.
 (3.1) K dosažení svých cílů spolek v hlavní činnosti zejména:
 
   (3.1.1) hájí společné zájmy svých členů u státních orgánů, dodavatelů 
-  proprietárního software a jiných institucí,
+  software a jiných institucí,
   (3.1.2) vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
   svých aktivit své členy a jiné instituce,
   (3.1.3) vystupuje namísto svých členů na základě zvláštní smlouvy jako 
   centrální zadavatel při společném zadavání veřejných zakázek zejména 
   na dodávky otevřených technologií pro výkon veřejné správy,
   (3.1.4) vypisuje veřejné soutěže, např. pro studenty vysokých škol,
-  (3.1.5) zaměstnává vlastní technické expery, vývojáře a jiné odborníky pracující 
+  (3.1.5) zaměstnává vlastní technické experty, vývojáře a jiné odborníky pracující 
   na veřejně prospěšných výstupech podle cílů spolku,
   (3.1.6) sdílí a vyhodnocuje zkušenosti svých členů a jiných institucí, definuje 
   standardy a dobrou praxi,
@@ -199,7 +199,7 @@ k všeobecnému veřejnému užití.
   (3.1.8) uchází se o finanční podporu z grantů, národních fondů a prostředků
   Evropské unie za podmínek stanovených v jejich programech, 
   (3.1.9) organizuje a informuje neformální komunitu pro otevřenost a svobodný 
-  software ve veřejné správě, členy spolek i veřejnost,
+  software ve veřejné správě, členy spolku i veřejnost,
   (3.1.10) spolupracuje s obdobnými zahraničními organizacemi a vstupuje do 
   zahraničních partnerství.
 
@@ -262,9 +262,9 @@ mezi zakládajícími členy (bod [12.3]), resp. obecně závaznými právními 
 
 (5.1) Ve spolku jsou dva druhy členství: základní a přidružené.
 
-(5.2) Základním členem spolku může být jen základní územní samosprávný 
-celek v České republice (hlavní město Praha, 
-jeho městská část, statutární či jiné město anebo jiná obec).
+(5.2) Základním členem spolku může být jen základní územní samosprávný celek v České 
+republice (hlavní město Praha, statutární či jiné město anebo jiná obec) anebo 
+jeho samosprávná část (městská část, městský obvod). 
 
 (5.3) Přidruženým členem spolku může být 
 
@@ -298,8 +298,10 @@ usnesení o souhlasu s podáním přihlášky do spolku, který udělil zastupit
 jiný kompetentní orgán zájemce o členství. Náležitosti a vzor přihlášky, případně
 podmínky přihlášení pro jednotlivé druhy členství stanoví 
 výbor a zveřejní je na internetových stránkách spolku. 
-Členství vzniká, jakmile byl zájemce přijat a zaplatil členský příspěvek
-za celý rok, ve kterém podal přihlášku.
+Členství vzniká, jakmile se splní následující dvě podmínky: za prvé výbor 
+rozhodne o přijetí a za druhé zájemce o členství zaplatil poměrnou část 
+členského příspěvku. Poměrná část členského příspěvku se stanoví podle počtu 
+celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku.
 
 (5.7) Členství může být pozastaveno jen způsobem, který je určen ve stanovách. 
 Člen, jehož členství bylo pozastaveno, nemá po dobu pozastavení členská práva
@@ -308,9 +310,9 @@ s výjimkou práva uplatnit opravné prostředky proti rozhodnutí o pozastaven�
 
   (5.7.1) může být pozastaveno rozhodnutím výboru při důvodném podezření na 
   porušení závazků člena spolku, a to nejpozději do vyšetření celé záležitosti,
-  (5.7.2) je automaticky pozastaveno, pokud člen nezaplatí členský příspěvek ani 
-  v dodatečné lhůtě, ačkoliv byl na tento následek předem písemně upozorněn,
-  a to dokud dluh na členském příspěvku není uhrazen.
+  (5.7.2) je automaticky pozastaveno, pokud člen nezaplatí členský příspěvek 
+  ani v dodatečné lhůtě, a to dokud dluh na členském příspěvku není uhrazen; 
+  výbor ve výzvě k platbě písemně upozorní člena na hrozbu pozastavení členství.
 
 (5.8) Proti rozhodnutí o pozastavení členství nebo rozhodnutí o vyloučení se 
 může člen odvolat ke členské schůzi v přiměřené lhůtě určené v poučení 
@@ -318,17 +320,18 @@ k rozhodnutí. Odvolání proti rozhodnutí o pozastavení členství nemá odkl
 
 > **Komentář**:
 > 
-> K [5.2] Základní členství je omezeno na základní územní samosprávné celky. Členem 
+> K [5.2] Základní členství je omezeno na základní územní samosprávné celky
+> a jejich samosprávné části. Členem 
 > může být hlavní město Praha, jeho městské části (§ 28
 > zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění 
 > pozdějších předpisů), jakož i jiné obce a města, 
 > která mají právní osobnost (§ 54 zákona č. 128/2000 Sb., o obcích,
 > ve znění pozdějších předpisů). Městské části a obvody územně členěných 
 > statutárních měst (s citovanou výjimkou hlavního města Prahy) nemají vlastní 
-> právní subjektivitu, proto nemohou být členy právnické osoby a v jejich 
-> případě není třeba řešit problém dělení hlasů (bod [5.4]). Tyto městské části
-> mohou být členy prostřednictvím svých měst a s nimi by se měli domluvit
-> na způsobu zastoupení ve spolku (jde o jejich interní záležitost).
+> právní subjektivitu, přesto mohou být členy spolku, pokud splní zákonné
+> náležitosti pro toto své jednání (např. pověření k jednání za samosprávný celek,
+> jehož jsou součástí). Výčet uvádí příkladmo dvě kategorie samosprávných částí podle
+> zákona o obcích (městskou část a městský obvod).
 > 
 > K [5.3] Kraj může být členem spolku na základě § 27 zákona č. 129/2000
 > Sb., o krajích, ve znění pozdějších předpisů; podle stanov jen jako 
@@ -345,7 +348,9 @@ k rozhodnutí. Odvolání proti rozhodnutí o pozastavení členství nemá odkl
 > 
 > K [5.6] Usnesení zastupitelstva je nezbytnou podmínkou podle § 59 odst. 2 písm.
 > i) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
-> předpisů, pro spolupráci s jinými obcemi a kraji.
+> předpisů, pro spolupráci s jinými obcemi a kraji. Každý nový zájemce o členství
+> může již v okamžiku podání vyčíslit, kolik bude činit jeho členský příspěvek
+> a jaké budou s tím spojené rozpočtové výdaje.
 > 
 > K [5.7] Vylučuje se subsidiární použitelnost ustanovení o zániku členství, 
 > která by podle § 238 zákona č. 89/2012 Sb., 
@@ -629,8 +634,8 @@ nedá-li k tomu souhlas členská  schůze.
   (10.5.3) dotace, 
   (10.5.4) příjmy vedlejší činnosti.
 
-(10.6) Členové spolku platí 
-členské příspěvky ve výši, která je úměrná počtu obyvatel (bod [7.4.7]). 
+(10.6) Členové spolku platí členské příspěvky (bod [7.4.7]). Výše příspěvku 
+u základního členství je úměrná počtu obyvatel (bod 7.3).
 Příspěvek na daný kalendářní rok je splatný na transparentní bankovní účet 
 spolku do třicátého dne daného roku, není-li stanoveno jinak.
 
@@ -656,10 +661,10 @@ spolek.
 > § 5 odst. 4 písm. c) vyhlášky a násl. 
 
 
-11. Smírčí a rozhodčí doložka
+11. Smírčí doložka
 --------------------
 
-(11.1) Tato smírčí a rozhodčí doložka se vztahuje na majetkové právní spory 
+(11.1) Tato smírčí doložka se vztahuje na majetkové právní spory 
 týkající se činnosti 
 spolku nebo související s některým projektem spolku, které vzniknou
 
@@ -671,20 +676,13 @@ spolku nebo související s některým projektem spolku, které vzniknou
 
   (11.2.1) pokusit se o smírné řešení sporu, a to aspoň na dvou jednáních výboru,
   (11.2.2) uplatnit svá práva teprve po vyčerpání smírčího prostředku podle 
-  bodu [11.2.1], a to v rozhodčím řízení podle zákona o rozhodčím řízení a 
-  o výkonu rozhodčích nálezů.
-
-(11.3) Aktéři sporu souhlasí s tím, že rozhodčí nález bude zveřejněn na 
-internetových stránkách spolku.
+  bodu [11.2.1].
 
 > **Komentář**:
 >
-> K [11.2.2] Není-li dohodnuto jinak, postupuje se podle zákona č. 216/1994 Sb., 
-> o rozhodčím řízení a o výkonu rozhodčích nálezů. Podle § 7 odst. 2 nemá-li 
-> rozhodčí smlouva ustanovení o počtu a osobách rozhodců, jmenuje každá ze 
-> stran jednoho rozhodce a tito rozhodci volí předsedajícího rozhodce.
-> (Nelze postupovat podle ustanovení o spolku, neboť spolek nemá rozhodčí 
-> komisi.) Nález rozhodců je právně závazný a vynutitelný. 
+> Nelze postupovat podle ustanovení o spolku, neboť spolek nemá rozhodčí 
+> komisi. Sporné záležitosti lze po smírčím řízení řešit soudní cestou
+> anebo se v jednotlivém případě dohodnout na rozhodčí smlouvě.
 
 12. Ustanovení při zakládání
 ----------------------------
@@ -699,12 +697,12 @@ kteří jsou uvedeni na podpisovém archu na konci těchto stanov, pokud
 
 (12.2) Prvními členy volených orgánů jsou
 
-  (12.2.1) .......................... (předseda výboru)
-  (12.2.2) .......................... (člen výboru)
-  (12.2.3) .......................... (člen výboru)
-  (12.2.4) .......................... (člen výboru)
-  (12.2.5) .......................... (člen výboru)
-  (12.2.6) .......................... (kontrolor)
+  (12.2.1) Bc. Marcel Kolaja, nar. 29. 6. 1980, trvale bytem Brno - Medlánky, K Babě 595/17, PSČ 62100 (předseda výboru)
+  (12.2.2) Ladislav Něšněra, nar. 6. 10. 1970, trvale bytem Brno - Zábrdovice, Hvězdová 304/6, PSČ 60200   (člen výboru)
+  (12.2.3) Viktor Čahoj, nar. 18. 12. 1986, trvale bytem Praha 5, Prodloužená 242/13, PSČ 15900 (člen výboru)
+  (12.2.4) Mgr. Ing. Oldřich Kužílek, nar. 4. 1. 1956, trvale bytem Praha 6 - Liboc, Radčina 518/6, PSČ 16100 (člen výboru)
+  (12.2.5) Michal Šmarda, nar. 6. 7. 1975, trvale bytem Nové Město na Moravě, Žďárská 718, PSČ 59231 (člen výboru)
+  (12.2.6) Bc. Martin Šebek, nar. 30. 7.1978, trvale bytem Praha 1, Újezd 404/29, 11800 (kontrolor)
 
 (12.3) Dojednaný text stanov je takový text, který je tak označen zástupci
 zakládajících členů spolku. Změny dojednaného textu stanov nejsou přípustné.
@@ -743,7 +741,9 @@ svých rozpočtových možností. Zakládající členové, kteří se mají st�
 členy, jsou povinni vnést peněžitý vklad ve výši aspoň 1,50 Kč (slovy: jedna 
 koruna padesát halířů) na jednoho obyvatele (bod [7.3]). Vklad je splatný 
 na transparentní bankovní účet spolku do dvou měsíců od zveřejnění prvního 
-seznamu členů spolku. Do doby stanovení výše členského příspěvku členskou
+seznamu členů spolku. Zakládající členové jsou osvobozeni od členského 
+příspěvku do konce kalendářního roku, kdy jejich členství vzniklo. 
+Do doby stanovení výše členského příspěvku členskou
 schůzí (bod [7.4.7]) platí, že se výše ročního členského příspěvku rovná výši 
 vkladu podle tohoto bodu.
 
@@ -802,8 +802,35 @@ pro závazný projev vůle, včetně případného předchozího schválení zas
 nebo jiným kompetentním orgánem. Tímto svobodně a vážně projevují vůli být 
 stanovami vázány. Na důkaz toho připojují podpis svůj anebo svého zástupce:
 
+Podpisový arch
+==============
 
-* * *
+Následující seznam obsahuje samosprávy a právnické osoby, kterým je nabídnuto 
+stát se zakládajícími členy spolku Otevřená města. Zda nabídku přijmou, 
+záleží na jejich zastupitelstvech nebo jiných kompetentních orgánech. 
+Podepsané stanovy doručte výboru. Ostatní zájemci o členství mohou podat 
+řádnou přihlášku výboru.
 
-*K těmto stanovám bude přiložen podpisový arch se seznamem zakládajících 
-základních a přidružených členů a podpisy jejich oprávněných představitelů.* 
+Základní členství
+-----------------
+
+1. Brno
+2. Městská část Brno-Střed
+3. Černošice
+4. Psáry
+5. Městská část Praha 5
+6. Městská část Praha 6
+7. Městská část Praha 7
+8. Městská část Praha-Ďáblice
+9. Česká Lípa
+10. Nové Město na Moravě
+11. Hradec Králové
+12. Mariánské Lázně
+
+Přidružené členství
+-------------------
+
+1. OpenAlt z.s.
+2. Oživení o. s.
+3. econlab z.s.
+4. Frank Bold z.s.p.o.

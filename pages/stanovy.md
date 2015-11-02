@@ -16,4 +16,8 @@ image:
 
 <a href="/pravo/stanovy/main.pdf" class="button expand success">Stáhnout stanovy Otevřených měst</a>
 
-K dispozici je také [varianta stanov s komentářem](/pravo/stanovy/main_commented.pdf), kde je podrobné vysvětlení, příklady rozložení hlasovací síly a organizační diagram.
+K dispozici je také [varianta stanov s komentářem](/pravo/stanovy/main_commented.pdf), kde je podrobné vysvětlení, příklady rozložení hlasovací síly a organizační diagram. 
+
+Zakládající organizace mohou vycházet 
+ze **vzorového usnesení Zastupitelstva** (ke stažení: [docx](/media/docs/balicek/usneseni2.docx),
+[odt](/media/docs/balicek/usneseni2.odt)), viz [balíček pro zakládající členy](/balicek/).

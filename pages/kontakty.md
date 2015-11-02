@@ -25,9 +25,25 @@ Muchova 13/232
 
 -----
 
-## Přípravný tým
+## Výbor (statutární orgán)
 
-Kontakty na vybrané členy přípravného týmu, kteří se věnují konkrétní oblasti:
+* Bc. Marcel Kolaja, <marcel@kolaja.eu> (předseda výboru)
+* Ladislav Něšněra, <predseda@openalt.org> (člen výboru)
+* Viktor Čahoj, <viktor.cahoj@praha5.eu> (člen výboru)
+* Mgr. Ing. Oldřich Kužílek, <kuzilek@otevrete.cz> (člen výboru)
+* Michal Šmarda, <starosta@nmnm.cz> (člen výboru)
+
+Adresa pro zaslání podepsaných stanov a usnesení (depozitář smluvních listin):
+
+**Otevřená města**  
+Marcel Kolaja, předseda výboru  
+K Babě 595/17  
+62100 Brno-Medlánky
+
+
+## Pracovní tým
+
+Kontakty na vybrané členy pracovního týmu, kteří se věnují konkrétní oblasti:
 
 Oblast zájmu | Kontaktní osoba
 --- | ---
@@ -35,6 +51,10 @@ Projekt Otevřené smlouvy | Jiří Skuhrovec, <jiri.skuhrovec@datlab.cz>, +420 
 Webové stránky spolku | Václav Klecanda, <vaclav.klecanda@pirati.cz>
 E-mailová konference | Ladislav Něšněra, <predseda@openalt.org>
 Stanovy | Jakub Michálek, <jakub.michalek@pirati.cz>
+
+## Kontrolor
+
+* Bc. Martin Šebek, [kontakt](http://www.mestocernosice.cz/kontakty/mesto-a-mestsky-urad/organizacni-struktura/osoba-bc-martin-sebek-321.html)
 
 ## Zakládající samosprávy
 
