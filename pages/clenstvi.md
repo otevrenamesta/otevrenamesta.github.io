@@ -8,7 +8,6 @@ image:
 ---
 
 # Členství
-
 Členem organizace Otevřená města se může stát každá obec nebo město v České republice (s právem hlasovacím) anebo jiná veřejně prospěšná instituce (viz stanovy níže). Pokud ještě váháte, připravili jsme pro vás [seznam 7 důvodů, proč se stát členem](/clenstvi/motivace/).
 
 
@@ -34,18 +33,21 @@ Pokud máte **zájem stát se zakládajícím členem**, je třeba učinit násl
 
 samospráva | stav projednání
 --- | ---
-Brno | 28.7. byla informována Rada, záměr je obsažen v informační strategii
-Černošice | materiály na květnové radě
+Brno | 28.7. byla o iniciativě informována Rada. Záměr založení spolku je obsažen v Informační strategii města
+Černošice | dojednáváním stanov OM byl pověřen radní
+Česká Lípa | Rada města 26.10. projedná návrh na členství
 Děčín | projednávání na úrovni IT oddělení
-Kutná Hora | Představeny základní informace
+Kutná Hora | představeny základní informace
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
 Mariánské Lázně | v jednání
-Nové Město na Moravě | zakládací materiály konzultovány s informatikem města, mají zájem
+Nové Město na Moravě | Radou města přijato usnesení účastnit se zakládání s možností získat členství 
+Praha | Projekt představen.
 Praha 5 | projekt představen na výboru ZM v 02/15
 Praha 6 | komise doporučila připojení k projektu Otevřená města jako člen
-Praha 7 | odsouhlaseno komisí, materiály budou předloženy na zastupitelstvu 06/15
-Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány, technicky jsou připraveni
-Přerov | odsouhlaseno pověření k jednání |
+Praha 7 | odsouhlaseno komisí. Materiály budou předloženy na zastupitelstvu 06/15
+Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány. Technicky jsou připraveni.
+Přerov | 3.8.2015 Komise pro otevřenou radnici Rady města Přerova odhlasovala zaslání návrhu na členství
+Psáry | Radou města přijato usnesení účastnit se zakládání s možností získat členství 
 Ústí nad Labem | mělo zájem; je třeba vyjasnit, zda zájem trvá po změně vedení
 
-*Seznam je průběžně aktualizován.*
+*Seznam je průběžně aktualizován (8. 10. 2015)*
