@@ -19,13 +19,13 @@ Spolek Otevřená města je ve fázi zakládání. Připravujeme jeho oficiáln�
 
 Pokud máte **zájem stát se zakládajícím členem**, je třeba učinit následující kroky:
 
-1. kontaktujte koordinátorku Lenku Frankovou (viz [stránka s kontakty](/kontakty/)),
-2. stáhnete si [vzorové usnesení Rady města](/balicek-na-konferenci.html) (obsahuje návrh usnesení pro Radu vašeho města a důvodovou zprávu, které si upravte dle libosti),
-3. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi) a schvalte přiložené usnesení, kterým Rada města pověří zástupce pro jednání,
-4. informujte průběžně koordinátorku o postupu ve Vašem městě a po rozeslání pozvánky přijeďte na vyjednávací konferenci, na které bude dojednán konečný obsah základních dokumentů,
-5. po dojednání konečného textu stanov na konferenci bude rozeslán zakládajícím členům druhý balíček s materiály na zastupitelstvo.
+1. kontaktujte koordinátorku Lenku Frankovou nebo výbor (viz [stránka s kontakty](/kontakty/)),
+2. stáhnete a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle libosti),
+3. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi, Radě a Zastupitelstvu),
+4. informujte průběžně koordinátorku o postupu ve Vašem městě,
+5. koordinátorka Vám zašle přihlášku.
 
-<a href="/balicek-na-konferenci.html" class="button expand success">Balíček se základními dokumenty a vzorovým usnesením Rady města</a>
+<a href="/balicek/" class="button expand success">Balíček se základními dokumenty a vzorovým usnesením</a>
 
 ----
 
