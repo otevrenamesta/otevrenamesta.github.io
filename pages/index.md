@@ -44,7 +44,7 @@ zajistit otevřené fungování našich radnic, umožní nám lépe sdílet zku�
 sjednotí úsilí o otevřenější fungování radnic a
 bude světlem v šerých oblastech, jejichž nástrahy zastupitelé
 v různých městech znovu a znovu odhalují. Mezi prvními cíli organizace
-bude definice standardu pro zveřejnování smluv a faktur, otevřená data a
+bude definice standardu pro zveřejňování smluv a faktur, otevřená data a
 návody k zavedení dobré praxe při použití open-source (viz [cíle](/cile/) podrobně).
 
 <a href="/clenstvi/" class="button expand success">Stát se členem!</a>

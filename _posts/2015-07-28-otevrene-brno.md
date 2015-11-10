@@ -6,7 +6,7 @@ image:        /media/thumbnails/city.jpg
 
 Členové Rady města Brna dnes vzali na vědomí iniciativu o založení spolku Otevřená města. Tento záměr je obsažen v Informační strategii města Brna jako jeden z důležitých milníků v procesu naplňování cíle Strategické řízení informatiky (STR).
 
-Cílem spolku je podporovat otevřené fungování místních samospráv. Tím se rozumí zejména pravidelné a přehledné zveřejňování informací, vstříčný přístup k občanům, vysoké možnosti zapojení občanů do veřejného dění, zprůhlednění veřejných zakázek od přípravy záměru až do odevzdání výsledku a také používání nových a otevřených technologií ve veřejné správě. Konkrétně pak půjde např. o sdílení zkušeností a díky tomu i úsporu nákladů, neboť nebude docházet k opakovanému vývoji technických řešení na míru.
+Cílem spolku je podporovat otevřené fungování místních samospráv. Tím se rozumí zejména pravidelné a přehledné zveřejňování informací, vstřícný přístup k občanům, vysoké možnosti zapojení občanů do veřejného dění, zprůhlednění veřejných zakázek od přípravy záměru až do odevzdání výsledku a také používání nových a otevřených technologií ve veřejné správě. Konkrétně pak půjde např. o sdílení zkušeností a díky tomu i úsporu nákladů, neboť nebude docházet k opakovanému vývoji technických řešení na míru.
 
 Výhody členství ve spolku jsou:
 

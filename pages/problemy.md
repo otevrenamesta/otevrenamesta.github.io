@@ -14,7 +14,7 @@ K nejrozšířenějším výzvám k otevřenějšímu fungování patří:
 Nedostupnost dat
 ----------------
 
-Veřejná správa často vůbec nezveřejnuje data, která má k dispozici.
+Veřejná správa často vůbec nezveřejňuje data, která má k dispozici.
 Nemá přitom žádný důvod data utajovat, když jde o nakládání s penězi občanů.
 Casto se stává, že na internetových stránkách občan nenalezne ani upravený
 rozpočet města, ačkoliv má město ze zákona povinnost ho zveřejnit. Když si
@@ -39,7 +39,7 @@ Mezi dodavateli software nebudí snaha o větší otevřenost fungování města
 zrovna dobrou náladu. Dodavatelé si chtějí uchovat svou dosavadní pozici
 a město vzhledem k závislosti nemůže reálně vyjednávat. Je např. někdy složité
 existující software rozšířit o součástku od jiného dodavatele, která
-umožní průběžně informace zveřejnovat. V tomto vyjednávání má město slabou
+umožní průběžně informace zveřejňovat. V tomto vyjednávání má město slabou
 pozici, pokud se nesdruží s ostatními městy a obcemi.
 
 Ostrůvky bez spojení
@@ -51,16 +51,16 @@ připravovat na zelené louce a měly by využívat zkušeností a dobré praxe 
 a to včetně zahraničních. Společná architektura pak např. umožní, abyste si
 na stejnou kartu mohli koupit jízdenku na MHD v Praze i Brně. Zatím je to spíše
 tak, že s každým novým projektem se musí zpracovat nové studie, rešerše a právní
-posudky, které jsou jen vyhozenými penězi, nebot by stačilo využít již zpracované
+posudky, které jsou jen vyhozenými penězi, neboť by stačilo využít již zpracované
 materiály.
 
 Utajování informací
 -------------------
 
-V Ceské republice vlády často utajují svá připravovaná rozhodnutí, místo aby
+V České republice vlády často utajují svá připravovaná rozhodnutí, místo aby
 občany a politickou opozici zapojily do rozhodování. Zastupitelům i občanům
 jsou odpírány informace, na které mají podle zákona o svobodném přístupu
-k informacím právo. Na radnicích není zavedena metodika toho, jak zveřejnovat
+k informacím právo. Na radnicích není zavedena metodika toho, jak zveřejňovat
 materiály, případně obsahuje zbytečná omezení (výsledky hlasování,
 materiály na připravované jednání apod.)
 
