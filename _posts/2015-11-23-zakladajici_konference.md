@@ -4,8 +4,6 @@ title:        Poslanci rozhodnou o registru smluv již zítra!
 
 
 ---
-# Poslanci rozhodnou o registru smluv již zítra!
-
 
 V **úterý 24. 11. 2015** proběhne v Poslanecké sněmovně rozhodující hlasování o povinnosti zveřeňovat všechny smlouvy státu na Internetu. [Rekonstrukce
 státu](http://www.rekonstrukcestatu.cz/), kterou inicioval zakládající člen spolku Otevřená města, organizace [Frank Bold](http://frankbold.org/), varuje, že senátní verze zákona je nefunkční
