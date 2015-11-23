@@ -8,7 +8,7 @@ id:           autocircles
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
 
-kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt='Copy to clipboard' width='21' tyle='height:21px' class='notcircle' class='clipboard' data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
+kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt='Copy to clipboard' width='21' tyle='height:21px' class='notcircle' data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
 
 ### Zpravodajové zákona o registru smluv
 
@@ -223,7 +223,7 @@ Zlínský | TOP09 | <img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/
 Zlínský | Úsvit | <img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6198.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=6198' target='_blank'>Ing. Jaroslav Holík</a>   <a href='mailto:holikj@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a> / <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt="Copy to clipboard" width="21" class="clipboard" data-clipboard-text="holikj@psp.cz">  
 
 <script>
-    var clipboard = new Clipboard('.clipboard');
+    var clipboard = new Clipboard('.notcircle');
     clipboard.on('success', function(e) {
         console.log(e);
     });
