@@ -8,9 +8,7 @@ id:           autocircles
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
 
-# Test
-
-kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt="Copy to clipboard" width="21" tyle='height:21px' class='notcircle' class="clipboard" data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
+kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt='Copy to clipboard' width='21' tyle='height:21px' class='notcircle' data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
 
 ### Zpravodajové zákona o registru smluv
 
