@@ -1,6 +1,6 @@
 ---
 layout:       default
-title:        Test
+title:        Poslanci PČR
 description:  pro testování
 permalink:    /parlamentni_poslanci/
 id:           autocircles
@@ -10,12 +10,14 @@ id:           autocircles
 
 # Test
 
-kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt="Copy to clipboard" width="21" class="clipboard" data-clipboard-text="fiktini_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
+kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt="Copy to clipboard" width="21" tyle='height:21px' class='notcircle' class="clipboard" data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
 
 ### Zpravodajové zákona o registru smluv
 
 strana | poslanec
 --- | ---
+stranaA | poslanecA
+stranaB | poslanecB
 
 ### PS PČR dle krajů
 
