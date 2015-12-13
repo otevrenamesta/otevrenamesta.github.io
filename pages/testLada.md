@@ -54,7 +54,7 @@ Hlavní město Praha | ČSSD | <img src='http://www.psp.cz/eknih/cdrom/2013ps/ek
 </script>
 
 <style>
-.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(http://www.psp.cz/css2/gi/vote-flags.png); overflow: hidden;  }
+.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(file:///home/ln/Downloads/vote-flags.png); overflow: hidden;  }
 .flag.ano { background-position: 0px -19px; }
 .flag.zdržel_se { background-position: 0px -38px; }
 .flag.ne { background-position: 0px -57px; }
@@ -65,10 +65,24 @@ Hlavní město Praha | ČSSD | <img src='http://www.psp.cz/eknih/cdrom/2013ps/ek
 .rekonstrukce.ano { background-position: 0px -20px; }
 .rekonstrukce.ne { background-position: 0px -40px; }
 
-.hlavicka {float:left; position: relative;
+.hlavicka {line-height: 160%;
   -ms-transform:rotate(270deg); /* IE 9 */
   -moz-transform:rotate(270deg); /* Firefox */
   -webkit-transform:rotate(270deg); /* Safari and Chrome */
   -o-transform:rotate(270deg); /* Opera */
+  
+  padding-top: 0px;
+  white-space:nowrap;
+  height: 350px;
+  vertical-align: top;
  }
+
+caption {text-align: left;}
+
+th {vertical-align: bottom;}
+
+tr:nth-child(2n+1){background:#eee;}
+tr:nth-child(2n){background:#ddd;}
+
+
 </style>
