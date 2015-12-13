@@ -100,7 +100,8 @@ Hlavní město Praha | ČSSD | <img src='http://www.psp.cz/eknih/cdrom/2013ps/ek
   
   padding-top: 0px;
   white-space:nowrap;
-  height: 350px;
+  height: 300px;
+  width: 100px;
   vertical-align: top;
  }
 
