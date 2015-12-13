@@ -8,9 +8,14 @@ id:           autocircles
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
 
-
-
-kliknutí na <img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" alt='Kopie do schránky' width='21' style='height:21px' class='notcircle' data-clipboard-text="fiktivni_osoba@domena.cz"> zkopíruje e-mailovou adresu do Clipboardu
+<table>
+<caption>Legenda</caption>
+<tbody>
+<tr><td>hlasování</td><td><span class="flag ano"></span> - ano<br><span class="flag ne"></span> - ne<br><span class="flag zdržel_se"></span> - zdržel se<br><span class="flag omluven"></span> - omluven<br><span class="flag nepřihlášen"></span> - nepřihlášen</td></tr>
+<tr><td>podpis <a href="http://www.rekonstrukcestatu.cz/na-stazeni/rest_prohlaseni_o_podpore.pdf">Prohlášení</a> o podpoře<br><a href="http://www.rekonstrukcestatu.cz/">Rekonstrukce státu</a></td><td><span class="rekonstrukce"></span> - ???<br><span class="rekonstrukce ano"></span> - podepsáno<br><span class="rekonstrukce ne"></span> - nepodepsáno</td></tr>
+<tr><td>ikony</td><td><img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" width="21"> - zkopíruje e-mailovou adresu do Clipboardu</td></tr>
+  </tbody>
+</table>
 
 ### Zpravodajové zákona o registru smluv
 
