@@ -54,7 +54,7 @@ Hlavní město Praha | ČSSD | <img src='http://www.psp.cz/eknih/cdrom/2013ps/ek
 </script>
 
 <style>
-.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(media/vote-flags.png); overflow: hidden;  }
+.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(/media/vote-flags.png); overflow: hidden;  }
 .flag.ano { background-position: 0px -19px; }
 .flag.zdržel_se { background-position: 0px -38px; }
 .flag.ne { background-position: 0px -57px; }
