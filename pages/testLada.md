@@ -7,25 +7,6 @@ id:           autocircles
 ---
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
-<style>
-.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(http://www.psp.cz/css2/gi/vote-flags.png); overflow: hidden;  }
-.flag.ano { background-position: 0px -19px; }
-.flag.zdržel_se { background-position: 0px -38px; }
-.flag.ne { background-position: 0px -57px; }
-.flag.nepřihlášen { background-position: 0px -76px; }
-.flag.omluven { background-position: 0px -95px; }
-
-.rekonstrukce { display: inline-block; width: 20px; padding: 20px 0 0 0; height: 0px; vertical-align: middle; background-image: url(file:///home/ln/Downloads/rekonstrukce_statu_sign.png); overflow: hidden;  }
-.rekonstrukce.ano { background-position: 0px -20px; }
-.rekonstrukce.ne { background-position: 0px -40px; }
-
-.hlavicka {float:left; position: relative;
-  -ms-transform:rotate(270deg); /* IE 9 */
-  -moz-transform:rotate(270deg); /* Firefox */
-  -webkit-transform:rotate(270deg); /* Safari and Chrome */
-  -o-transform:rotate(270deg); /* Opera */
- }
-</style>
 
 <div class="hlavicka">
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
@@ -71,3 +52,23 @@ Hlavní město Praha | ČSSD | <img src='http://www.psp.cz/eknih/cdrom/2013ps/ek
         console.log(e);
     });
 </script>
+
+<style>
+.flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(http://www.psp.cz/css2/gi/vote-flags.png); overflow: hidden;  }
+.flag.ano { background-position: 0px -19px; }
+.flag.zdržel_se { background-position: 0px -38px; }
+.flag.ne { background-position: 0px -57px; }
+.flag.nepřihlášen { background-position: 0px -76px; }
+.flag.omluven { background-position: 0px -95px; }
+
+.rekonstrukce { display: inline-block; width: 20px; padding: 20px 0 0 0; height: 0px; vertical-align: middle; background-image: url(file:///home/ln/Downloads/rekonstrukce_statu_sign.png); overflow: hidden;  }
+.rekonstrukce.ano { background-position: 0px -20px; }
+.rekonstrukce.ne { background-position: 0px -40px; }
+
+.hlavicka {float:left; position: relative;
+  -ms-transform:rotate(270deg); /* IE 9 */
+  -moz-transform:rotate(270deg); /* Firefox */
+  -webkit-transform:rotate(270deg); /* Safari and Chrome */
+  -o-transform:rotate(270deg); /* Opera */
+ }
+</style>
