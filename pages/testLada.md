@@ -1,8 +1,8 @@
 ---
-layout:       XX_default
+layout:       default
 title:        Poslanci PČR
 description:  adresář poslanců
-permalink:    /tesLada
+permalink:    /tesLada/
 id:           autocircles
 ---
 
