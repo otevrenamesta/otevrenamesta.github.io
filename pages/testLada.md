@@ -13,9 +13,36 @@ id:           autocircles
 <tbody>
 <tr><td>hlasování</td><td><span class="flag ano"></span> - ano<br><span class="flag ne"></span> - ne<br><span class="flag zdržel_se"></span> - zdržel se<br><span class="flag omluven"></span> - omluven<br><span class="flag nepřihlášen"></span> - nepřihlášen</td></tr>
 <tr><td>podpis <a href="http://www.rekonstrukcestatu.cz/na-stazeni/rest_prohlaseni_o_podpore.pdf">Prohlášení</a> o podpoře<br><a href="http://www.rekonstrukcestatu.cz/">Rekonstrukce státu</a></td><td><span class="rekonstrukce"></span> - ???<br><span class="rekonstrukce ano"></span> - podepsáno<br><span class="rekonstrukce ne"></span> - nepodepsáno</td></tr>
-<tr><td>ikony</td><td><img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" width="21"> - zkopíruje e-mailovou adresu do Clipboardu</td></tr>
+<tr><td>ikony</td><td><img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" width="21" class='notcircle'> - zkopíruje e-mailovou adresu do Clipboardu</td></tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>kraj</th>
+      <th>strana</th>
+      <td class="hlavicka">
+	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
+	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
+	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036019.htm#h19">přijmout senátní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61824&l=cz">zamítnuto</a><br>
+	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036020.htm#h20">přijmout původní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61825&l=cz">schváleno</a><br>
+	<a href="http://www.rekonstrukcestatu.cz/na-stazeni/rest_prohlaseni_o_podpore.pdf">Prohlášeni o podpoře Rekonstrkce státu</a>
+      </td>
+      <th>poslanec</th>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr><td>Jihomoravský</td><td>KSČM</td><td><span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag ne">ne</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5768.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5768' target='_blank'>MUDr. Vojtěch Adam</a>   <a href='mailto:adamv@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
+<tr><td>Jihomoravský</td><td>KSČM</td><td><span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag ne">ne</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5768.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5768' target='_blank'>MUDr. Vojtěch Adam</a>   <a href='mailto:adamv@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
+<tr><td>Královéhradecký</td><td>ODS</td><td><span class="flag omluven">omluven</span> <span class="flag ano">ano</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="rekonstrukce ne">ne</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5700.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5700' target='_blank'>Mgr. Ivan Adamec</a>   <a href='mailto:adameci@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
+<tr><td>Hlavní město Praha</td><td>ČSSD</td><td><span class="flag ano">ano</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s467.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=467' target='_blank'>Bc. František Adámek</a>   <a href='mailto:adamekf@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  <a href='https://www.facebook.com/frantisek.adamek.1?fref=ts' target='_blank'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-24.png' class='notcircle'></a></td></tr>
+
+
+  </tbody>
+</table>
+
 
 ### Zpravodajové zákona o registru smluv
 
