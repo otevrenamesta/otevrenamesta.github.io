@@ -27,9 +27,6 @@ id:           autocircles
     -ms-transform: rotate(-90deg);
     white-space: nowrap;
     line-height: 180%;
-    padding-top: 0px;
-    vertical-align: top;
-    text-align: left;
     float:left;
     width:auto;
 }
