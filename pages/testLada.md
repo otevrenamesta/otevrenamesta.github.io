@@ -29,7 +29,7 @@ id:           autocircles
   padding-top: 0px;
   white-space:nowrap;
   height: 300px;
-  width: 110px;
+  width: 150px;
   vertical-align: top;
  }
 
