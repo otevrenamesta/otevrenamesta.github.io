@@ -7,7 +7,6 @@ id:           autocircles
 ---
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
-<script src="https://github.com/napengam/vertical/blob/master/js/vertical.js"></script>
 
 <style>
 .flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(/media/vote-flags.png); overflow: hidden;  }
@@ -27,8 +26,10 @@ id:           autocircles
     -o-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     white-space: nowrap;
-    line-height: 160%;
-    padding-top: 30px;
+    line-height: 180%;
+    padding-top: 0px;
+    vertical-align: top;
+    text-align: left;
     float:left;
     width:auto;
 }
@@ -100,7 +101,7 @@ function addEvent(obj, ev, fu) {
 <table id="verticalTab">
   <thead>
     <tr>
-      <th data-rotate>strana</th>
+      <th>strana</th>
       <td data-rotate>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
