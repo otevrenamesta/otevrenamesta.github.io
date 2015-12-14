@@ -29,7 +29,7 @@ id:           autocircles
   padding-top: 0px;
   white-space:nowrap;
   height: 300px;
-  width: 150px;
+  width: 100px;
   vertical-align: top;
  }
 
@@ -56,7 +56,7 @@ tr:nth-child(2n){background:#ddd;}
   <thead>
     <tr>
       <th width="80px">strana</th>
-      <td width="150px" class="hlavicka">
+      <td class="hlavicka">
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036019.htm#h19">přijmout senátní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61824&l=cz">zamítnuto</a><br>
