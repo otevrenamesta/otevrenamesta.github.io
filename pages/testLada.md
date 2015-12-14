@@ -20,16 +20,16 @@ id:           autocircles
 .rekonstrukce.ano { background-position: 0px -20px; }
 .rekonstrukce.ne { background-position: 0px -40px; }
 
-.hlavicka {line-height: 160%;
+.hlavicka {line-height: 180%;
   -ms-transform:rotate(270deg); /* IE 9 */
   -moz-transform:rotate(270deg); /* Firefox */
   -webkit-transform:rotate(270deg); /* Safari and Chrome */
   -o-transform:rotate(270deg); /* Opera */
   
-  padding-top: 0px;
+  padding-top: 90px;
   white-space:nowrap;
   height: 300px;
-  width: 135px;
+  width: 140px;
   vertical-align: top;
  }
 
