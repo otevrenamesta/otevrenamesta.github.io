@@ -7,6 +7,7 @@ id:           autocircles
 ---
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
+<script src="https://github.com/napengam/vertical/blob/master/js/vertical.js"></script>
 
 <style>
 .flag { display: inline-block; width: 21px; padding: 19px 0 0 0; height: 0px; vertical-align: middle; background-image: url(/media/vote-flags.png); overflow: hidden;  }
@@ -20,18 +21,17 @@ id:           autocircles
 .rekonstrukce.ano { background-position: 0px -20px; }
 .rekonstrukce.ne { background-position: 0px -40px; }
 
-.hlavicka {line-height: 180%;
-  -ms-transform:rotate(270deg); /* IE 9 */
-  -moz-transform:rotate(270deg); /* Firefox */
-  -webkit-transform:rotate(270deg); /* Safari and Chrome */
-  -o-transform:rotate(270deg); /* Opera */
-  
-  padding-top: 90px;
-  white-space:nowrap;
-  height: 300px;
-  width: 140px;
-  vertical-align: top;
- }
+.hgs_rotate{
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    white-space: nowrap;
+    line-height: 160%;
+    padding-top: 30px;
+    float:left;
+    width:auto;
+}
 
 caption {text-align: left;}
 
@@ -42,6 +42,19 @@ tr:nth-child(2n){background:#ddd;}
 */
 </style>
 
+<script>
+    function addEvent(obj, ev, fu) {
+        if (obj.addEventListener) {
+            obj.addEventListener(ev, fu, false);
+        } else {
+            var eev = 'on' + ev;
+            obj.attachEvent(eev, fu);
+        }
+    }
+    addEvent(window, 'load', function() {
+        rotateHeadCell('verticalTab');
+    });
+</script>
 
 <table>
 <caption>Legenda</caption>
@@ -52,18 +65,18 @@ tr:nth-child(2n){background:#ddd;}
   </tbody>
 </table>
 
-<table   style="width: 90%; table-layout: fixed;">
+<table id="verticalTab">
   <thead>
     <tr>
-      <th width="80px">strana</th>
-      <td class="hlavicka">
+      <th >strana</th>
+      <td data-rotate>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036019.htm#h19">přijmout senátní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61824&l=cz">zamítnuto</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036020.htm#h20">přijmout původní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61825&l=cz">schváleno</a><br>
 	<a href="http://www.rekonstrukcestatu.cz/na-stazeni/rest_prohlaseni_o_podpore.pdf">Prohlášeni o podpoře Rekonstrkce státu</a>
       </td>
-      <th align="left">poslanec</th>
+      <th>poslanec</th>
     </tr>
   </thead>
   <tbody>
