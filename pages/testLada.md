@@ -29,7 +29,7 @@ id:           autocircles
   padding-top: 0px;
   white-space:nowrap;
   height: 300px;
-  width: 200px;
+  width: 150px;
   vertical-align: top;
  }
 
@@ -56,7 +56,7 @@ tr:nth-child(2n){background:#ddd;}
   <thead>
     <tr>
       <th width="80px">strana</th>
-      <td width="200px" class="hlavicka">
+      <td width="150px" class="hlavicka">
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036019.htm#h19">přijmout senátní verzi</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61824&l=cz">zamítnuto</a><br>
@@ -68,7 +68,7 @@ tr:nth-child(2n){background:#ddd;}
   </thead>
   <tbody>
 
-<tr><td>KSČM</td><td align="left" style="text-align: left;"><span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag ne">ne</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5768.jpg' style='height:40px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5768' target='_blank'>MUDr. Vojtěch Adam</a>   <a href='mailto:adamv@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
+<tr><td>KSČM</td><td><span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag ne">ne</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5768.jpg' style='height:40px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5768' target='_blank'>MUDr. Vojtěch Adam</a>   <a href='mailto:adamv@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
 <tr><td>KSČM</td><td><span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag ne">ne</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5768.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5768' target='_blank'>MUDr. Vojtěch Adam</a>   <a href='mailto:adamv@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
 <tr><td>ODS</td><td><span class="flag omluven">omluven</span> <span class="flag ano">ano</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="flag zdržel_se">zdržel_se</span> <span class="rekonstrukce ne">ne</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s5700.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=5700' target='_blank'>Mgr. Ivan Adamec</a>   <a href='mailto:adameci@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  </td></tr>
 <tr><td>ČSSD</td><td><span class="flag ano">ano</span> <span class="flag zdržel_se">zdržel_se</span> <span class="flag omluven">omluven</span> <span class="flag nepřihlášen">nepřihlášen</span> <span class="rekonstrukce ano">ano</span></td><td><img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s467.jpg' height='33' style='height:33px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=467' target='_blank'>Bc. František Adámek</a>   <a href='mailto:adamekf@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  <a href='https://www.facebook.com/frantisek.adamek.1?fref=ts' target='_blank'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-24.png' class='notcircle'></a></td></tr>
