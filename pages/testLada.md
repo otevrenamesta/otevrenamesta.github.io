@@ -35,25 +35,57 @@ id:           autocircles
 
 caption {text-align: left;}
 
-th {vertical-align: bottom;}
-
 /* tr:nth-child(2n+1){background:#eee;}
 tr:nth-child(2n){background:#ddd;}
 */
 </style>
 
 <script>
-    function addEvent(obj, ev, fu) {
-        if (obj.addEventListener) {
-            obj.addEventListener(ev, fu, false);
-        } else {
-            var eev = 'on' + ev;
-            obj.attachEvent(eev, fu);
+function rotateHeadCell(tableId) {
+    'use strict';
+    var aRows = document.getElementById(tableId).rows, padding = 4;
+    [].every.call(aRows, function (row) {
+        if (row.cells[0].tagName !== 'TH') {
+            return false;
         }
-    }
-    addEvent(window, 'load', function() {
-        rotateHeadCell('verticalTab');
+        rotateCell(row);
+        return true;
     });
+    function rotateCell(row) {
+        var maxw = -1;
+        [].forEach.call(row.cells, function (cell) {       
+            var w,dd;
+            if (!cell.hasAttribute("data-rotate")) {
+                cell.vAlign = 'bottom';
+                return;
+            }
+            cell.vAlign = 'middle';
+            cell.innerHTML = '<div class=hgs_rotate>' + cell.innerHTML + '</div>';
+            w = cell.firstChild.clientWidth;
+            if (w > maxw) {
+                maxw = w;
+                cell.style.height = maxw + padding + 'px';
+            }
+            dd = cell.firstChild;
+            dd.style.width = cell.firstChild.clientHeight + 'px';
+            dd.style.top = (cell.clientHeight - dd.clientHeight - padding) / 2 + 'px';
+            dd.style.left = '0px';
+            dd.style.position = 'relative';
+        });             
+    }
+}
+
+function addEvent(obj, ev, fu) {
+	if (obj.addEventListener) {
+	    obj.addEventListener(ev, fu, false);
+	} else {
+	    var eev = 'on' + ev;
+	    obj.attachEvent(eev, fu);
+	}
+	}
+	addEvent(window, 'load', function() {
+	rotateHeadCell('verticalTab');
+});
 </script>
 
 <table>
@@ -68,7 +100,7 @@ tr:nth-child(2n){background:#ddd;}
 <table id="verticalTab">
   <thead>
     <tr>
-      <th >strana</th>
+      <th data-rotate>strana</th>
       <td data-rotate>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/031schuz/s031198.htm#h141">postoupit Senátu</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61427&l=cz">schváleno</a><br>
 	<a href="http://www.psp.cz/eknih/2013ps/stenprot/036schuz/s036010.htm#h18">vyčkat dopadové studie</a> - <a href="http://www.psp.cz/sqw/hlasy.sqw?g=61823&l=cz">zamítnuto</a><br>
