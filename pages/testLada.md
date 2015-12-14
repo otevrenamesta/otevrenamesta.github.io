@@ -100,6 +100,7 @@ function addEvent(obj, ev, fu) {
 <tr><td>hlasování</td><td><span class="flag ano"></span> - ano<br><span class="flag ne"></span> - ne<br><span class="flag zdržel_se"></span> - zdržel se<br><span class="flag omluven"></span> - omluven<br><span class="flag nepřihlášen"></span> - nepřihlášen</td></tr>
 <tr><td>podpis <a href="http://www.rekonstrukcestatu.cz/na-stazeni/rest_prohlaseni_o_podpore.pdf">Prohlášení</a> o podpoře<br><a href="http://www.rekonstrukcestatu.cz/">Rekonstrukce státu</a> (RS)</td><td><span class="rekonstrukce"></span> - ???<br><span class="rekonstrukce ano"></span> - podepsáno<br><span class="rekonstrukce ne"></span> - nepodepsáno</td></tr>
 <tr><td>ikony</td><td><img src="http://zenorocha.github.io/clipboard.js/assets/images/clippy.svg" width="21" class='notcircle'> - zkopíruje e-mailovou adresu do Clipboardu</td></tr>
+<tr><td>data</td>jsou aktuální k 25. 11. 2015<td></td></tr>
   </tbody>
 </table>
 
@@ -132,7 +133,7 @@ function addEvent(obj, ev, fu) {
 
 ### PS PČR dle krajů
 
-kraj | strana | hlasování a RS | poslanec
+kraj | strana |  hlasování a RS | poslanec
 --- | --- | --- | ---
 Hlavní město Praha | ANO | <span class="flag ano">ano</span> <span class="flag ne">ne</span> <span class="flag ne">ne</span> <span class="flag ano">ano</span> <span class="rekonstrukce "></span> | <img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6150.jpg' style='height:40px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=6150' target='_blank'>Ing. Andrej Babiš</a>   <a href='mailto:babisa@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  
 Hlavní město Praha | ANO | <span class="flag ano">ano</span> <span class="flag ne">ne</span> <span class="flag ne">ne</span> <span class="flag ano">ano</span> <span class="rekonstrukce "></span> | <img src='http://www.psp.cz/eknih/cdrom/2013ps/eknih/2013ps/poslanci/small/s6192.jpg' style='height:40px' class='notcircle'> <a href='http://www.psp.cz/sqw/detail.sqw?id=6192' target='_blank'>PhDr. Ing. Matěj Fichtner MBA</a>   <a href='mailto:fichtnerm@psp.cz'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Mail-24.png' class='notcircle'></a>  <a href='https://www.facebook.com/pages/Mat%C4%9Bj-Fichtner/184667901611350' target='_blank'><img src='http://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-24.png' class='notcircle'></a>
