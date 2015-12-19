@@ -2,7 +2,7 @@
 layout:       default
 title:        Poslanci PČR a registr smluv
 description:  adresář poslanců
-permalink:    /parlamentni_poslanci/
+permalink:    /X_parlamentni_poslanci/
 id:           autocircles
 ---
 
