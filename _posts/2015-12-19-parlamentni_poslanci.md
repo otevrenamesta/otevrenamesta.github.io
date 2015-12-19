@@ -43,7 +43,7 @@ tr:nth-child(2n){background:#ddd;}
         console.log(e);
     });
     clipboard.on('error', function(e) {
-        console.log(e);
+        console.log(e); 
     });
 
 function rotateHeadCell(tableId) {
