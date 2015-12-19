@@ -4,6 +4,7 @@ title:        Poslanci PČR a registr smluv
 
 
 ---
+Schvalování zákona o registru smluv jsme využili k předvedení možností [otevřených dat](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data), [crowdsourcingu](https://cs.wikipedia.org/wiki/Crowdsourcing) a [svobodného softwaru](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_software). Pokud vám následující přehled klíčových hlasování, poslanců s kontaktními údaji včetně postoje k Rekonstrukci státu přijde vhod, budeme potěšeni.
 
 <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.3/clipboard.min.js"></script>
 
@@ -92,8 +93,6 @@ function addEvent(obj, ev, fu) {
 	rotateHeadCell('verticalTab');
 });
 </script>
-
-Schvalování zákona o registru smluv jsme využili k předvedení možností [otevřených dat](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data), [crowdsourcingu](https://cs.wikipedia.org/wiki/Crowdsourcing) a [svobodného softwaru](https://cs.wikipedia.org/wiki/Svobodn%C3%BD_software). Pokud vám následující přehled klíčových hlasování, poslanců s kontaktními údaji včetně postoje k Rekonstrukci státu přijde vhod, budeme potěšeni.
 
 <table>
 <caption>Legenda</caption>
