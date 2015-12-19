@@ -339,6 +339,6 @@ Zlínský | Úsvit | <span class="flag nepřihlášen">nepřihlášen</span> <sp
 #### Použité zdroje
 
 - kontakty a hlasování - [otevřená data PS PČR](http://cz.okfn.org/2012/10/07/aleluja-data-poslanecke-snemovny-k-dispozici/), lobbistické kontakty [Rekonstrukce státu](http://www.rekonstrukcestatu.cz/)
-- horizontální formátování záhlaví tabulky - [vertical](https://github.com/napengam/vertical)
+- vertikální formátování záhlaví tabulky - [vertical](https://github.com/napengam/vertical)
 - kontaktní ikony - [Peelicons vol 1](https://www.iconfinder.com/iconsets/peelicons-vol-1)
 - kopírování do Clipboardu + ikona - [clipboard.js](https://github.com/zenorocha/clipboard.js)
