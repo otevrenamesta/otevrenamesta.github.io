@@ -84,7 +84,7 @@ function addEvent(obj, ev, fu) {
 	if (obj.addEventListener) {
 	    obj.addEventListener(ev, fu, false);
 	} else {
-	    var eev = 'on' + ev;
+	    var eev = 'on' + ev; 
 	    obj.attachEvent(eev, fu);
 	}
 	}
