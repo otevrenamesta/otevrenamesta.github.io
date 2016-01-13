@@ -35,9 +35,9 @@ Muchova 13/232
 
 Adresa pro zaslání podepsaných stanov a usnesení (depozitář smluvních listin):
 
-Marcel Kolaja, předseda výboru
-**Otevřená města**
-K Babě 595/17
+Marcel Kolaja, předseda výboru  
+**Otevřená města**  
+K Babě 595/17  
 62100 Brno-Medlánky
 
 
