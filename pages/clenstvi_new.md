@@ -23,7 +23,7 @@ Pokud máte **zájem stát se řádným členem**, je třeba učinit následují
 2. stáhnete a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle libosti a aktuální fáze zakládání spolku),
 3. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi, Radě a Zastupitelstvu),
 4. informujte průběžně výbor o postupu ve Vašem městě,
-5. zašle schválené usnesení deklarující zájem o členství
+5. zašlete schválené usnesení deklarující zájem o členství
 
 <a href="/balicek/" class="button expand success">Balíček se základními dokumenty a vzorovým usnesením</a>
 
