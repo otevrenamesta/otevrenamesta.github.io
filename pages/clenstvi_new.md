@@ -29,7 +29,7 @@ Pokud máte **zájem stát se řádným členem**, je třeba učinit následují
 
 ----
 
-## Aktualizovaný seznam uchazečů o členství
+## Aktualizovaný seznam uchazečů
 
 ### Zakládající členství
 
@@ -41,7 +41,7 @@ obec | stav
 Česká Lípa | projednáváno
 Hradec Králové | projednáváno
 Mariánské Lázně | projednáváno
-Městská část Brno-Střed | projednáváno
+Městská část Brno-střed | projednáváno
 Městská část Praha 5 | schváleno Zastupitelstvem a doručeno
 Městská část Praha 6 | projednáváno
 Městská část Praha 7 | projednáváno
