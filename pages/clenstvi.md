@@ -15,39 +15,66 @@ image:
 
 ## Zakládání
 
-Spolek Otevřená města je ve fázi zakládání. Připravujeme jeho oficiální založení a následně bude zapsán do rejstříku. Na tom je skvělé, že můžete do jednání zapojit svoje město a ovlivnit výslednou podobu spolku.
+Na zakládající konferenci konané 21. října 2015 v Brně byla přijata finální podoba stanov, zvoleni činovníci spolku a byl uzavřen seznam **zakládajících členů**. Minimální počet deklarací členství nutných pro registraci spolku byl dosažen 12. 1. 2016. Tímto dnem započala tříměsíční lhůta na přistoupení zbývajících kandidátů. Návrh na zápis do spolkového rejstříku bude podán **14. 4. 2016**.
 
-Pokud máte **zájem stát se zakládajícím členem**, je třeba učinit následující kroky:
+Pokud máte **zájem stát se řádným členem**, je třeba učinit následující kroky:
 
-1. kontaktujte koordinátorku Lenku Frankovou nebo výbor (viz [stránka s kontakty](/kontakty/)),
-2. stáhnete a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle libosti),
+1. kontaktujte výbor (viz [stránka s kontakty](/kontakty/)),
+2. stáhnete a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle libosti a aktuální fáze zakládání spolku),
 3. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi, Radě a Zastupitelstvu),
-4. informujte průběžně koordinátorku o postupu ve Vašem městě,
-5. koordinátorka Vám zašle přihlášku.
+4. informujte průběžně výbor o postupu ve Vašem městě,
+5. zašlete schválené usnesení deklarující zájem o členství
 
 <a href="/balicek/" class="button expand success">Balíček se základními dokumenty a vzorovým usnesením</a>
 
 ----
 
-## O členství aktuálně usilují
+## Aktualizovaný seznam uchazečů
 
-samospráva | stav projednání
+### Zakládající členství
+
+#### základní
+
+obec | stav
 --- | ---
-Brno | 28.7. byla o iniciativě informována Rada. Záměr založení spolku je obsažen v Informační strategii města
-Černošice | dojednáváním stanov OM byl pověřen radní
-Česká Lípa | Rada města 26.10. projedná návrh na členství
+Černošice | projednáváno
+Česká Lípa | projednáváno
+Hradec Králové | projednáváno
+Mariánské Lázně | projednáváno
+Městská část Brno-střed | projednáváno
+Městská část Praha 5 | schváleno Zastupitelstvem a doručeno
+Městská část Praha 6 | projednáváno
+Městská část Praha 7 | projednáváno
+Městská část Praha 8 - Ďáblice | projednáváno
+Nové Město na Moravě | schváleno Zastupitelstvem a doručeno
+Psáry | schváleno Zastupitelstvem a doručeno
+Statutární město Brno | Rada jednomyslně doporučila přistoupení Zastupitelstvu
+
+#### přidružené
+
+subjekt | stav
+--- | ---
+econlab z.s. | řádně schváleno a doručeno
+Frank Bold z.s.p.o. | probíhá schvalování
+OpenAlt z.s. | řádně schváleno a doručeno
+Oživení o. s. | probíhá schvalování
+
+### Řádné členství
+
+#### základní
+
+obec | stav
+--- | ---
 Děčín | projednávání na úrovni IT oddělení
+Hlavní město Praha | projekt představen
 Kutná Hora | představeny základní informace
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
-Mariánské Lázně | v jednání
-Nové Město na Moravě | Radou města přijato usnesení účastnit se zakládání s možností získat členství 
-Praha | Projekt představen.
-Praha 5 | projekt představen na výboru ZM v 02/15
-Praha 6 | komise doporučila připojení k projektu Otevřená města jako člen
-Praha 7 | odsouhlaseno komisí. Materiály budou předloženy na zastupitelstvu 06/15
-Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány. Technicky jsou připraveni.
-Přerov | 3.8.2015 Komise pro otevřenou radnici Rady města Přerova odhlasovala zaslání návrhu na členství
-Psáry | Radou města přijato usnesení účastnit se zakládání s možností získat členství 
-Ústí nad Labem | mělo zájem; je třeba vyjasnit, zda zájem trvá po změně vedení
+Městská část Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány
 
-*Seznam je průběžně aktualizován (8. 10. 2015)*
+#### přidružené
+
+subjekt | stav
+--- | ---
+ | 
+
+*Seznam je průběžně aktualizován (19. 1. 2016)*
