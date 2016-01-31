@@ -67,7 +67,7 @@ obec | stav
 --- | ---
 Děčín | projednávání na úrovni IT oddělení
 Hlavní město Praha | projekt představen
-Kutná Hora | představeny základní informace
+Kutná Hora | schváleno Zastupitelstvem a doručeno
 Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
 Městská část Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány
 
