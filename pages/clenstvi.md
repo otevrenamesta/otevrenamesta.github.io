@@ -37,7 +37,7 @@ Pokud máte **zájem stát se řádným členem**, je třeba učinit následují
 
 obec | stav
 --- | ---
-Černošice | projednáváno
+Černošice | schváleno Zastupitelstvem a doručeno
 Česká Lípa | projednáváno
 Hradec Králové | projednáváno
 Mariánské Lázně | projednáváno
@@ -48,7 +48,7 @@ Městská část Praha 7 | projednáváno
 Městská část Praha 8 - Ďáblice | projednáváno
 Nové Město na Moravě | schváleno Zastupitelstvem a doručeno
 Psáry | schváleno Zastupitelstvem a doručeno
-Statutární město Brno | Rada jednomyslně doporučila přistoupení Zastupitelstvu
+Statutární město Brno | schváleno Zastupitelstvem a doručeno
 
 #### přidružené
 
