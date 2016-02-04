@@ -77,4 +77,4 @@ subjekt | stav
 --- | ---
  | 
 
-*Seznam je průběžně aktualizován (19. 1. 2016)*
+*Seznam je průběžně aktualizován (4. 2. 2016)*
