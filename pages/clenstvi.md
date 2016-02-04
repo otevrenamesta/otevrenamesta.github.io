@@ -48,7 +48,7 @@ Městská část Praha 7 | projednáváno
 Městská část Praha 8 - Ďáblice | projednáváno
 Nové Město na Moravě | schváleno Zastupitelstvem a doručeno
 Psáry | schváleno Zastupitelstvem a doručeno
-Statutární město Brno | schváleno Zastupitelstvem a doručeno
+Statutární město Brno | Rada jednomyslně doporučila přistoupení Zastupitelstvu
 
 #### přidružené
 
