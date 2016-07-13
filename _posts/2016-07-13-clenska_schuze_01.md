@@ -1,6 +1,6 @@
 ---
 layout:       blog
-title:        Členská schůze Otevřených měst | Brno
+title:        Členská schůze Otevřených měst &num;1 | Brno
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na první členskou schůzi, která proběhne **9. 8. v Brně**.
 
