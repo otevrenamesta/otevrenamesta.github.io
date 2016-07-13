@@ -11,9 +11,9 @@ Program jednání bude odsouhlasen účastníky na začátku schůze. Dosud navr
 bod | navrhuje
 --- | ---
 úpravu znění stanov | Brno
-novou volbu členů výboru | Brno
+nová volbu členů výboru | Brno
 předložení dohod o výkonu funkce a způsobu odměňování | výbor
-rozpočet a volba projektů, činnosti na 2016 | výbor
+činnost, rozpočet a volba projektů pro rok 2016 | výbor
 
 Veškeré dotazy a návrhy směřujte na emailovou adresu [vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz).
 
