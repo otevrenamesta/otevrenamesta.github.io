@@ -2,79 +2,58 @@
 layout:       default
 title:        Členství
 description:  Chcete, aby se vaše obec nebo město přidaly mezi otevřená města?
-permalink:    /clenstvi_new/
+permalink:    /clenstvi/
 id:           autocircles
 image:
 ---
 
 # Členství
-Členem organizace Otevřená města se může stát každá obec nebo město v České republice (s právem hlasovacím) anebo jiná veřejně prospěšná instituce (viz stanovy níže). Pokud ještě váháte, připravili jsme pro vás [seznam 7 důvodů, proč se stát členem](/clenstvi/motivace/).
-
+Členem organizace Otevřená města se může stát každá obec nebo město v České republice (s právem hlasovacím) anebo jiná veřejně prospěšná instituce (viz stanovy níže). Pokud ještě váháte, připravili jsme pro vás [seznam 7 důvodů, proč se stát členem](/clenstvi/motivace/). Jste-li již rozhodnuti, pak:
+1. stáhněte a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle potřeb). V případě nejasností neváhejte kontaktovat výbor (viz [stránka s kontakty](/kontakty/)),
+2. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi, Radě a Zastupitelstvu),
+3. zašlete schválené usnesení deklarující zájem o členství na výbor
 
 ![Construction at the Town Hall](/media/thumbnails/construction.jpg)
 
-## Zakládání
-
-Na zakládající konferenci konané 21. října 2015 v Brně byla přijata finální podoba stanov, zvoleni činovníci spolku a byl uzavřen seznam **zakládajících členů**. Minimální počet deklarací členství nutných pro registraci spolku byl dosažen 12. 1. 2016. Tímto dnem započala tříměsíční lhůta na přistoupení zbývajících kandidátů. Návrh na zápis do spolkového rejstříku bude podán **14. 4. 2016**.
-
-Pokud máte **zájem stát se řádným členem**, je třeba učinit následující kroky:
-
-1. kontaktujte výbor (viz [stránka s kontakty](/kontakty/)),
-2. stáhnete a pročtěte si [balíček](/balicek/) (obsahuje návrh usnesení pro Zastupitelstvo a Radu Vašeho města a důvodovou zprávu, které si upravte dle libosti a aktuální fáze zakládání spolku),
-3. projednejte záměr začlenit se mezi Otevřená města obvyklým způsobem (v příslušné komisi, Radě a Zastupitelstvu),
-4. informujte průběžně výbor o postupu ve Vašem městě,
-5. zašlete schválené usnesení deklarující zájem o členství
-
-<a href="/balicek/" class="button expand success">Balíček se základními dokumenty a vzorovým usnesením</a>
-
 ----
 
-## Aktualizovaný seznam uchazečů
+## Seznam členů
 
-### Zakládající členství
+### základní členství
 
-#### základní
+obec | počet obyvatel | přepočet dle stanov | vklad | zastupuje | počet hlasů
+--- | --- | --- | --- | --- | ---
+Brno | 376 407 | 334 968 | 502 452 | Jiří Ulip | 579
+Brno-střed | 82 878 | 82 878 | 124 317 | Svatopluk Bartík | 288
+Černošice | 6 758 | 6 758 | 10 137 | Tomáš Kratochvíla | 82
+Česká Lípa | 36 648 | 36 648 | 54 972 | Tomáš Martínek | 191
+Nové Město na Moravě | 10 015 | 10 015 | 15 022,5 | Michal Šmarda | 100
+Praha 5 | 71 526 | 71 526 | 107 289 | Viktor Čahoj | 267
+Psáry | 3 578 | 3 578 | 5 367 | Vít Olmr | 60
 
-obec | stav
+### přidružené členství
+
+subjekt | zastupuje
 --- | ---
-Černošice | projednáváno
-Česká Lípa | projednáváno
-Hradec Králové | projednáváno
-Mariánské Lázně | projednáváno
-Městská část Brno-střed | projednáváno
-Městská část Praha 5 | schváleno Zastupitelstvem a doručeno
-Městská část Praha 6 | projednáváno
-Městská část Praha 7 | projednáváno
-Městská část Praha 8 - Ďáblice | projednáváno
-Nové Město na Moravě | schváleno Zastupitelstvem a doručeno
-Psáry | schváleno Zastupitelstvem a doručeno
-Statutární město Brno | Rada jednomyslně doporučila přistoupení Zastupitelstvu
+EconLab | Jiří Skuhrovec
+Frank Bold z.s.p.o. | Jiří Nezhyba
+OpenAlt z.s. | Ladislav Nešněra
+Oživení o.s. | Martin Kameník
 
-#### přidružené
+## Seznam uchazečů
 
-subjekt | stav
---- | ---
-econlab z.s. | řádně schváleno a doručeno
-Frank Bold z.s.p.o. | probíhá schvalování
-OpenAlt z.s. | řádně schváleno a doručeno
-Oživení o. s. | probíhá schvalování
+### základní členství
 
-### Řádné členství
+obec | počet obyvatel | přepočet dle stanov | vklad | zastupuje | počet hlasů | stav
+--- | --- | --- | --- | --- | --- | ---
+Brno-Medlánky | 5 309 | 5 309 | 3 981,75 |  | 73 | odsouhlaseno výborem spolku
+Kutná Hora | 19 758 | 19 758 | 14 818,5 | Lukáš Jelínek | 141 | odsouhlaseno výborem spolku
+Praha 7 | 37 362 | 37 362 | 28 021,5 | Ondřej Profant | 193 | odsouhlaseno výborem spolku
 
-#### základní
+### přidružené členství
 
-obec | stav
---- | ---
-Děčín | projednávání na úrovni IT oddělení
-Hlavní město Praha | projekt představen
-Kutná Hora | představeny základní informace
-Liberec | vstupem do spolku Otevřená města se bude zabývat vedení města
-Městská část Praha 12 | projekt představen starostce a místostarostovi, zakládající materiály odeslány
+subjekt | zastupuje | stav
+--- | --- | ---
+ |  |
 
-#### přidružené
-
-subjekt | stav
---- | ---
- | 
-
-*Seznam je průběžně aktualizován (19. 1. 2016)*
+*Seznam je průběžně aktualizován (15. 7. 2016)*
