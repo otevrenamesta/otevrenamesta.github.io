@@ -37,7 +37,7 @@ Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
 <span id="f3">3</span> Dle odstavce (12.7) vklad zakládajících členů činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a3)   
 <span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)</sup>
 
-### přidružené členství
+### o přidružené členství
 
 subjekt | zastupuje
 --- | ---
@@ -48,13 +48,13 @@ Oživení o.s. | Martin Kameník
 
 ## Seznam uchazečů
 
-### základní členství
+### o základní členství
 
 obec | obyvatel | přepočet | členský příspěvek <sup id="a5">[5](#f5)</sup>  | zastupuje | hlasů | stav
 --- | ---:| ---:| ---:| --- | ---:| ---
-Brno-Medlánky | 5 309 | 2 654,5 | 1 990,88 |  | 52 | odsouhlaseno výborem spolku
-Kutná Hora | 19 758 | 19 758 | 14 818,50 | Lukáš Jelínek | 141 | odsouhlaseno výborem spolku
-Praha 7 | 37 362 | 37 362 | 28 021,50 | Ondřej Profant | 193 | odsouhlaseno výborem spolku
+Brno-Medlánky | 5 309 | 2 654,5 | 1 659,06 | Michal Marek | 52 | přihláška podána
+Kutná Hora | 19 758 | 19 758 | 14 818,50 | Lukáš Jelínek | 141 | přihláška podána
+Praha 7 | 37 362 | 37 362 | 28 021,50 | Ondřej Profant | 193 | přihláška podána
 
 <sup><span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a5)<sup>
 
