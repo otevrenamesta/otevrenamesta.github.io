@@ -22,15 +22,17 @@ image:
 
 ### základní členství
 
-obec | počet obyvatel | přepočet dle stanov | vklad | zastupuje | počet hlasů
+obec | počet obyvatel | přepočet <sup id="a1">[1](#f1)</sup> | vklad [2] | zastupuje | počet hlasů
 --- | ---:| ---:| ---:| --- | ---:
 Brno | 376 407 | 334 968 | 502 452,00 | Jiří Ulip | 579
-Brno-střed | 82 878 | 82 878 | 124 317,00 | Svatopluk Bartík | 288
+Brno-střed | 82 878 | 41 439 | 62 158,50 | Svatopluk Bartík | 204
 Černošice | 6 758 | 6 758 | 10 137,00 | Tomáš Kratochvíla | 82
 Česká Lípa | 36 648 | 36 648 | 54 972,00 | Tomáš Martínek | 191
 Nové Město na Moravě | 10 015 | 10 015 | 15 022,50 | Michal Šmarda | 100
 Praha 5 | 71 526 | 71 526 | 107 289,00 | Viktor Čahoj | 267
 Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
+
+<span id="f1">1</span> Footnote content here. [↩](#a1)
 
 ### přidružené členství
 
@@ -47,7 +49,7 @@ Oživení o.s. | Martin Kameník
 
 obec | počet obyvatel | přepočet dle stanov | vklad | zastupuje | počet hlasů | stav
 --- | ---:| ---:| ---:| --- | ---:| ---
-Brno-Medlánky | 5 309 | 5 309 | 3 981,75 |  | 73 | odsouhlaseno výborem spolku
+Brno-Medlánky | 5 309 | 2 654,5 | 1 990,88 |  | 52 | odsouhlaseno výborem spolku
 Kutná Hora | 19 758 | 19 758 | 14 818,50 | Lukáš Jelínek | 141 | odsouhlaseno výborem spolku
 Praha 7 | 37 362 | 37 362 | 28 021,50 | Ondřej Profant | 193 | odsouhlaseno výborem spolku
 
