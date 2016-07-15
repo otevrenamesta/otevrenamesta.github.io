@@ -32,10 +32,10 @@ Nové Město na Moravě | 10 015 | 10 015 | 15 022,50 | Michal Šmarda | 100
 Praha 5 | 71 526 | 71 526 | 107 289,00 | Viktor Čahoj | 267
 Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
 
-<span id="f1">1</span> Údaje jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)
-<span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)
-<span id="f3">3</span> Dle odstavce (12.7) vklad zakládajících členů činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a3)
-<span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)
+<sup><span id="f1">1</span> Údaje jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
+<span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)   
+<span id="f3">3</span> Dle odstavce (12.7) vklad zakládajících členů činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a3)   
+<span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)</sup>
 
 ### přidružené členství
 
@@ -56,7 +56,7 @@ Brno-Medlánky | 5 309 | 2 654,5 | 1 990,88 |  | 52 | odsouhlaseno výborem s
 Kutná Hora | 19 758 | 19 758 | 14 818,50 | Lukáš Jelínek | 141 | odsouhlaseno výborem spolku
 Praha 7 | 37 362 | 37 362 | 28 021,50 | Ondřej Profant | 193 | odsouhlaseno výborem spolku
 
-<span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a5)
+<sup><span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a5)<sup>
 
 ### přidružené členství
 
