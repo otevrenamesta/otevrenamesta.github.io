@@ -18,7 +18,7 @@ Kontakty
 #### listinné
 
 *osoba (nepovinné | má-li být upřednostněna osoba)*  
-Otevřená města, z.s.  
+Otevřená města, z. s.  
 *osoba (nepovinné)*  
 Malinovského náměstí 624/3  
 602 00 Brno
