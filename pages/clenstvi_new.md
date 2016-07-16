@@ -37,7 +37,7 @@ Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
 <span id="f3">3</span> Dle odstavce (12.7) vklad zakládajících členů činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a3)   
 <span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)</sup>
 
-### o přidružené členství
+## #přidružené členství
 
 subjekt | zastupuje
 --- | ---
@@ -58,7 +58,7 @@ Praha 7 | 37 362 | 37 362 | 28 021,50 | Ondřej Profant | 193 | přihláška 
 
 <sup><span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. [↩](#a5)<sup>
 
-### přidružené členství
+### o přidružené členství
 
 subjekt | zastupuje | stav
 --- | --- | ---
