@@ -9,21 +9,24 @@ id:           autocircles
 Kontakty
 ========
 
-![Lenka Franková](/media/thumbnails/lenka-frankova.jpg)
+#### upřednostňujeme elektronické v této vzestupné míře závažnosti
 
-[Lenka Franková](mailto:lenka.frankova@oziveni.cz)  
-Projektová koordinátorka  
-Styčný důstojník pro nové zájemce o členství
-+420 776 818 765  
+- [info@otevrenamesta.cz](mailto:info@otevrenamesta.cz)
+- [vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz)
+- datová schránka: **f47yb4g**
 
-<img src="/media/oziveni.png" alt="Logo Oživení" class="notcircle right">
+#### listinné
 
-[Oživení o.s.](http://www.oziveni.cz)  
-Muchova 13/232  
-160 00 Praha 6  
-+420 257 531 983
+*osoba (nepovinné | má-li být upřednostněna osoba)*  
+Otevřená města, z.s.  
+*osoba (nepovinné)*  
+Malinovského náměstí 624/3  
+602 00 Brno
 
------
+#### finanční
+
+- IČ0: **[5129061](https://or.justice.cz/ias/ui/rejstrik-$firma?ico=05129061)**
+- transparentní účet Fio: **[2501020615/2010](https://www.fio.cz/ib2/transparent?a=2501020615)** | IBAN: CZ3920100000002501020615
 
 ## Výbor (statutární orgán)
 
@@ -32,14 +35,6 @@ Muchova 13/232
 * Viktor Čahoj, <viktor.cahoj@praha5.eu> (člen výboru)
 * Mgr. Ing. Oldřich Kužílek, <kuzilek@otevrete.cz> (člen výboru)
 * Michal Šmarda, <starosta@nmnm.cz> (člen výboru)
-
-Adresa pro zaslání podepsaných stanov a usnesení (depozitář smluvních listin):
-
-Marcel Kolaja, předseda výboru  
-**Otevřená města**  
-K Babě 595/17  
-62100 Brno-Medlánky
-
 
 ## Pracovní tým
 
