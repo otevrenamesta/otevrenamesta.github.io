@@ -1,6 +1,6 @@
 ---
 layout:       default
-title:        Cíle
+title:        Kontakty
 description:  Zveřejnování smluv a dobrá praxe, Open source, Open data, Zapojení občanů online, Spolupráce s ostatními aktéry
 permalink:    /kontakty/
 id:           autocircles
