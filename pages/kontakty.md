@@ -20,7 +20,7 @@ Kontakty
 *osoba (nepovinné | má-li být upřednostněna osoba)*  
 Otevřená města, z. s.  
 *osoba (nepovinné)*  
-Malinovského náměstí 624/3  
+[Malinovského náměstí 624/3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=16/49.1958/16.6152)  
 602 00 Brno
 
 #### finanční
