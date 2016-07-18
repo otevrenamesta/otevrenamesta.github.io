@@ -2,10 +2,25 @@
 layout:       default
 title:        Členství
 description:  Chcete, aby se vaše obec nebo město přidaly mezi otevřená města?
-permalink:    /clenstvi/
+permalink:    /clenstvi_new/
 id:           autocircles
 image:
 ---
+
+<script src="../calc_data/data.json">
+
+</script>
+
+<script src="../calc_data/calc.js">
+
+</script>
+
+<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js">
+</script>
+
+
+
+
 
 # Členství
 Členem organizace Otevřená města se může stát každá obec nebo město v České republice (s právem hlasovacím) anebo jiná veřejně prospěšná instituce (viz stanovy níže). Pokud ještě váháte, připravili jsme pro vás [seznam 7 důvodů, proč se stát členem](/clenstvi/motivace/). Jste-li již rozhodnuti, pak:
@@ -16,6 +31,9 @@ image:
 
 ![Construction at the Town Hall](/media/thumbnails/construction.jpg)
 
+
+## Výpočet členského příspěvku
+{% include calc.html %}
 ----
 
 ## Seznam členů <sup id="a0">[0](#f0)</sup>
