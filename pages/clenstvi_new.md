@@ -32,7 +32,7 @@ image:
 ![Construction at the Town Hall](/media/thumbnails/construction.jpg)
 
 
-## Výpočet členského příspěvku
+### Výpočet členského příspěvku
 {% include calc.html %}
 ----
 
