@@ -7,11 +7,11 @@ id:           autocircles
 image:
 ---
 
-<script src="../calc_data/data.json">
+<script src="../media/calculator/data.json">
 
 </script>
 
-<script src="../calc_data/calc.js">
+<script src="../media/calculator/calc.js">
 
 </script>
 
