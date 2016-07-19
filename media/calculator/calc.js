@@ -49,13 +49,15 @@ function calculate() {
       if (residentsTotal/2 == residentsCount/2) {
         residentsTotal /= 2;
       }
-
+    } else if (cityName.search("Praha") != -1 || cityName.search("Opava") != -1 || cityName.search("Pardubice") != -1 ||
+            cityName.search("Plzeň") != -1 || cityName.search("Ústí nad Labem") != -1) {
+      isRecounted = 1;
     }
 
     if (isRecounted == 0) {
       document.getElementById("residents").innerHTML = Math.ceil(residentsTotal);
     } else {
-      var text = Math.ceil(residentsTotal) + '(přepočet z celkových ' + residentsCount + 'obyvatel )';
+      var text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel. <strong>Pozor! Nesníženo</strong> o možný souběh členství statutárního města a MČ.)';
       document.getElementById("residents").innerHTML = text;
     }
     document.getElementById("votes").innerHTML = Math.round(Math.sqrt(residentsTotal));
