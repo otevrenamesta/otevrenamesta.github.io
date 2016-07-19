@@ -55,7 +55,7 @@ function calculate() {
     if (isRecounted == 0) {
       document.getElementById("residents").innerHTML = Math.ceil(residentsTotal);
     } else {
-      var text = Math.ceil(residentsTotal) + '(přepočet z celkových ' + residentsCount + 'obyvatel )';
+      var text = Math.ceil(residentsTotal) + ' (přepočet z celkových ' + residentsCount + ' obyvatel)';
       document.getElementById("residents").innerHTML = text;
     }
     document.getElementById("votes").innerHTML = Math.round(Math.sqrt(residentsTotal));
