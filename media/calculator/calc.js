@@ -42,18 +42,25 @@ function readMonths() {
 
 // calculate final results
 function calculate() {
+  var isRecounted = 0;
   if (monthsThisYear != -1) {
     if ( cityName.search("Brno-") != -1) {
+      isRecounted = 1;
       if (residentsTotal/2 == residentsCount/2) {
         residentsTotal /= 2;
       }
 
     }
 
-    document.getElementById("residents").innerHTML = Math.ceil(residentsTotal);
+    if (isRecounted == 0) {
+      document.getElementById("residents").innerHTML = Math.ceil(residentsTotal);
+    } else {
+      var text = Math.ceil(residentsTotal) + '(přepočet z celkových ' + residentsCount + 'obyvatel )';
+      document.getElementById("residents").innerHTML = text;
+    }
     document.getElementById("votes").innerHTML = Math.round(Math.sqrt(residentsTotal));
-    if (csu == 582786 || csu == 550973 || csu == 599735 || csu == 561380 || csu == 596230 || csu == 539597 || csu == 500143) {
-      document.getElementById("price").innerHTML = (residentsTotal * 1.5);
+    if (csu == 582786 || csu == 550973 || csu == 599735 || csu == 561380 || csu == 596230 || csu == 539597 || csu == 500143 || csu == 539139) {
+      document.getElementById("price").innerHTML = Math.round(residentsTotal * 1.5);
     } else {
       document.getElementById("price").innerHTML = Math.round((residentsTotal * 1.5) / 12 * monthsThisYear);
     }
