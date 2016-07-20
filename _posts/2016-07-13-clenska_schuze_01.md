@@ -20,8 +20,9 @@ Také si dovolujeme upozornit na skutečnost, že:
 
 - hlasovat mohou pouze osoby, které doloží své oprávnění zastupovat obec na členské schůzi
 - uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu a dokumentu o svém dlouhodobém souladném působení s cíli spolku
-- na stránce http://www.otevrenamesta.cz/clenstvi/ jsme dne 18. 7. 2016 zveřejnili první oficiální seznam členů, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. Výši a jméno osoby, která dosud příslušnou obec zastupovala, naleznete tamtéž
+- na stránce [Členství](http://www.otevrenamesta.cz/clenstvi/) jsme dne 18. 7. 2016 zveřejnili první oficiální seznam členů, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. Výši a jméno osoby, která dosud příslušnou obec zastupovala, naleznete tamtéž
 - obcím, které nejsou zakládajícími členy, vzniká členství až rozhodnutím výboru o jejich přijetí a zaplacením poměrné části členského příspěvku (5.6)
+- odkaz na transparentní účet, datovou schránku a další aktualizované údaje naleznete pod [Kontakty](http://www.otevrenamesta.cz/kontakty/)
 
 Veškeré dotazy a návrhy směřujte na emailovou adresu [info@otevrenamesta.cz](mailto:info@otevrenamesta.cz).
 
