@@ -43,6 +43,7 @@ function readMonths() {
 // calculate final results
 function calculate() {
   var isRecounted = 0;
+  var showInfo = 0;
   if (monthsThisYear != -1) {
     if ( cityName.search("Brno-") != -1) {
       isRecounted = 1;
@@ -52,17 +53,27 @@ function calculate() {
     } else if (cityName.search("Praha") != -1 || cityName.search("Opava") != -1 || cityName.search("Pardubice") != -1 ||
             cityName.search("Plzeň") != -1 || cityName.search("Ústí nad Labem") != -1) {
       isRecounted = 1;
+    } 
+
+    if (cityName == "Brno") {
+      showInfo = 1;
     }
 
     if (isRecounted == 0) {
       document.getElementById("residents").innerHTML = Math.ceil(residentsTotal);
     } else {
-      var text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel. <strong>Pozor! Nesníženo</strong> o možný souběh členství statutárního města a MČ.)';
+      var text = "";
+
+      if (showInfo == 1) {
+        text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel. <strong>Pozor! Nesníženo</strong> o možný souběh členství statutárního města a MČ.)';
+      } else {
+        text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel.';
+      }
       document.getElementById("residents").innerHTML = text;
     }
     document.getElementById("votes").innerHTML = Math.round(Math.sqrt(residentsTotal));
     if (csu == 582786 || csu == 550973 || csu == 599735 || csu == 561380 || csu == 596230 || csu == 539597 || csu == 500143 || csu == 539139) {
-      document.getElementById("price").innerHTML = Math.round(residentsTotal * 1.5);
+      document.getElementById("price").innerHTML = Math.round(residentsTotal * 1.5) + ' (zakládající člen. Vklad = celoroční příspěvek)';
     } else {
       document.getElementById("price").innerHTML = Math.round((residentsTotal * 1.5) / 12 * monthsThisYear);
     }
