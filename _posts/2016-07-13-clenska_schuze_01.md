@@ -4,7 +4,7 @@ title:        Členská schůze Otevřených měst &num;1 | Brno
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na první členskou schůzi, která proběhne **9. 8. v Brně**.
 
-S radostí Vám oznamujeme úspěšnou registraci spolku - IČO: 05129061, a zároveň Vás zveme na první členskou schůzi, která se uskuteční v čase **od 10:00 do 15:00 dne 9. 8. 2016** na [Malinovského náměstí 3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=15/49.1958/16.6152)
+S radostí Vám oznamujeme úspěšnou registraci spolku - IČO: 05129061, a zároveň Vás zveme na první členskou schůzi, která se uskuteční v čase **od 10:00 do 15:00 dne 9. 8. 2016** na [Malinovského&nbsp;náměstí&nbsp;3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=15/49.1958/16.6152)
 
 Program jednání bude odsouhlasen účastníky na začátku schůze. Dosud navržené body jednání:
 
