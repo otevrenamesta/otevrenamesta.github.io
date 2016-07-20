@@ -44,7 +44,7 @@ obec | obyvatel <sup id="a1">[1](#f1)</sup> | přepočet <sup id="a2">[2](#f2)</
 --- | ---:| ---:| ---:| --- | ---:
 Brno | 376 407 | 334 968 | 502 452 | Jiří Ulip | 579
 Brno-střed | 82 878 | 41 439 | 62 159 | Svatopluk Bartík | 204
-Černošice | 6 758 | 6 758 | 10 137 | Tomáš Kratochvíla | 82
+Černošice | 6 758 | 6 758 | 10 137 | Tomáš Kratochvíl | 82
 Česká Lípa | 36 648 | 36 648 | 54 972 | Tomáš Martínek | 191
 Nové Město na Moravě | 10 015 | 10 015 | 15 023 | Michal Šmarda | 100
 Praha 5 | 71 526 | 71 526 | 107 289 | Viktor Čahoj | 267
