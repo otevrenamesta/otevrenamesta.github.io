@@ -14,13 +14,14 @@ bod | navrhuje
 nová volbu členů výboru | Brno
 předložení dohod o výkonu funkce a způsobu odměňování | výbor
 činnost, rozpočet a volba projektů pro rok 2016 | výbor
+stanovení výše členského příspěvku | stanovy, odstavec (12.7)
 
 Také si dovolujeme upozornit na skutečnost, že:
 
 - hlasovat mohou pouze osoby, které doloží své oprávnění zastupovat obec na členské schůzi
 - uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu a dokumentu o svém dlouhodobém souladném působení s cíli spolku
 
-Veškeré dotazy a návrhy směřujte na emailovou adresu [vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz).
+Veškeré dotazy a návrhy směřujte na emailovou adresu [info@otevrenamesta.cz](mailto:info@otevrenamesta.cz).
 
 Těšíme se na setkání!
 
