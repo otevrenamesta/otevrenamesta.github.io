@@ -67,7 +67,7 @@ Praha-Ďáblice | 3 380 | 3 380 | 2 535 | Radimír Rexa | 58 | červen | při
 - <sup>**odhlasováno** - zastupitelstvem obce  </sup>
 - <sup>(přihláška) **doručena** - poštou nebo datovou schránkou  </sup>
 - <sup>(obec) **přijata** - rozhodnutím výboru spolku  </sup>
-- <sup>(obec členem) - s právem hlasovat od okamžiku uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Obec je přesunuta do seznamu členů  </sup>
+- <sup>(obec členem) - s právem hlasovat od okamžiku uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  </sup>
 </sup>
 
 ### o přidružené členství
