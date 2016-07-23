@@ -65,13 +65,13 @@ Praha-Ďáblice | 3 380 | 3 380 | 2 535 | Radimír Rexa | 58 | červen | při
 <span id="f6">6</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a6)  
 <span id="f7">7</span> Možné stavy procesu přijímání členů: [↩](#a)  </sup>
 
-<sup>
-- **v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku  
-- **odhlasováno** - zastupitelstvem obce  
-- (přihláška) **doručena** - poštou nebo datovou schránkou  
-- (obec) **přijata** - rozhodnutím výboru spolku  
-- (obec členem) - s právem hlasovat od okamžiku uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  
-</sup>
+<sup><ul>
+<li>**v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku</li>
+<li>**odhlasováno** - zastupitelstvem obce</li>
+<li>(přihláška) **doručena** - poštou nebo datovou schránkou</li>
+<li>(obec) **přijata** - rozhodnutím výboru spolku</li>
+<li>(obec členem) - s právem hlasovat od okamžiku uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů</li>
+</ul></sup>
 
 ### o přidružené členství
 
