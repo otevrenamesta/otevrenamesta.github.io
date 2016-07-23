@@ -49,7 +49,7 @@ Oživení o.s. | Martin Kameník
 
 ----
 
-## <span id="Seznam uchazečů">Seznam uchazečů</span>
+## <span id="Seznam_uchazečů" />Seznam uchazečů
 
 ### o základní členství
 
