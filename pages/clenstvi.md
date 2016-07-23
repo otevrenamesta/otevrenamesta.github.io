@@ -22,7 +22,7 @@ image:
 
 ### základní členství
 
-obec | obyvatel<sup id="a1">[1](#f1)</sup> | přepočet<sup id="a2">[2](#f2)</sup> | vklad<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů<sup id="a4">[4](#f4)</sup>
+obec | obyvatel&nbsp;<sup id="a1">[1](#f1)</sup> | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | vklad&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup>
 --- | ---:| ---:| ---:| --- | ---:
 Brno | 376 407 | 334 968 | 502 452 | Jiří Ulip | 579
 Brno-střed | 82 878 | 41 439 | 62 159 | Svatopluk Bartík | 204
@@ -49,11 +49,11 @@ Oživení o.s. | Martin Kameník
 
 ----
 
-## <span id="Seznam uchazečů"></span>Seznam uchazečů
+## <span id="Seznam uchazečů">Seznam uchazečů</span>
 
 ### o základní členství
 
-obec | obyvatel | přepočet | členský příspěvek<sup id="a5">[5](#f5)</sup>  | zastupuje | hlasů | přihláška<sup id="a6">[6](#f6)</sup> | stav<sup id="a7">[7](#f7)</sup>
+obec | obyvatel | přepočet | členský příspěvek&nbsp;<sup id="a5">[5](#f5)</sup>  | zastupuje | hlasů | přihláška&nbsp;<sup id="a6">[6](#f6)</sup> | stav&nbsp;<sup id="a7">[7](#f7)</sup>
 --- | ---:| ---:| ---:| --- | ---:| --- | ---
 Brno-Medlánky | 5 309 | 2 655 | 1 659 | Kateřina Žurková | 52 | červenec | přijata
 Kutná Hora | 19 758 | 19 758 | 14 819 | Lukáš Jelínek | 141 | červen | přijata
