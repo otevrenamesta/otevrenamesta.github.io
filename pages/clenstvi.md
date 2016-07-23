@@ -61,13 +61,14 @@ Praha 7 | 37 362 | 37 362 | 28 022 | Ondřej Profant | 193 | červen | přija
 Praha-Ďáblice | 3 380 | 3 380 | 2 535 | Radimír Rexa | 58 | červen | přijata
 
 <sup><span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. Výsledná částka je zaokrouhlena na koruny. [↩](#a5)  
-<span id="f6">6</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a6)
-<span id="f7">7</span> Stavy procesu přijímání členů jsou:[↩](#a)
-- **v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku  
-- **odhlasováno** - zastupitelstvem obce  
-- (přihláška) **doručena** - poštou nebo datovou schránkou
-- (obec) **přijata** - rozhodnutím výboru spolku  
-- (obec členem) - s právem hlasovat okamžikem uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Obec je přesunuta do seznamu členů<sup>
+<span id="f6">6</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a6)  
+<span id="f7">7</span> Stavy procesu přijímání členů jsou: [↩](#a)  
+- <sup>**v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku  
+- <sup>**odhlasováno** - zastupitelstvem obce  </sup>
+- <sup>(přihláška) **doručena** - poštou nebo datovou schránkou  </sup>
+- <sup>(obec) **přijata** - rozhodnutím výboru spolku  </sup>
+- <sup>(obec členem) - s právem hlasovat od okamžiku uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Obec je přesunuta do seznamu členů  </sup>
+</sup>
 
 ### o přidružené členství
 
