@@ -67,15 +67,15 @@ function calculate() {
       if (showInfo == 1) {
         text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel. <strong>Pozor! Nesníženo</strong> o možný souběh členství statutárního města a MČ.)';
       } else {
-        text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel.';
+        text = Math.ceil(residentsTotal) + ' (Přepočet z celkových ' + residentsCount + ' obyvatel.)';
       }
       document.getElementById("residents").innerHTML = text;
     }
     document.getElementById("votes").innerHTML = Math.round(Math.sqrt(residentsTotal));
     if (csu == 582786 || csu == 550973 || csu == 599735 || csu == 561380 || csu == 596230 || csu == 539597 || csu == 500143 || csu == 539139) {
-      document.getElementById("price").innerHTML = Math.round(residentsTotal * 1.5) + ' (zakládající člen. Vklad = celoroční příspěvek)';
+      document.getElementById("price").innerHTML = Math.round(residentsTotal * 1.5) + ' Kč (zakládající člen. Vklad = celoroční příspěvek).';
     } else {
-      document.getElementById("price").innerHTML = Math.round((residentsTotal * 1.5) / 12 * monthsThisYear);
+      document.getElementById("price").innerHTML = Math.round((residentsTotal * 1.5) / 12 * monthsThisYear) + ' Kč';
     }
     document.getElementById("priceNextYear").innerHTML = Math.round((residentsTotal * 1.5));
   }
