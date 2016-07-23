@@ -18,7 +18,7 @@ image:
 
 ----
 
-## <span id="Seznam členů"></span>Seznam členů<sup id="a0">[0](#f0)</sup>
+## <span id="Seznam_členů">Seznam členů</span><sup id="a0">[0](#f0)</sup>
 
 ### základní členství
 
@@ -49,7 +49,7 @@ Oživení o.s. | Martin Kameník
 
 ----
 
-## <span id="Seznam_uchazečů" />Seznam uchazečů
+## <span id="Seznam_uchazečů">Seznam uchazečů</span>
 
 ### o základní členství
 
