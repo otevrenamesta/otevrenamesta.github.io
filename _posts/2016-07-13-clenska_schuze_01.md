@@ -31,7 +31,7 @@ Těšíme se na setkání!
 
 ![Magistrát města Brna](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg/320px-Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg)
 
-<sup><span id="f1">1</span> Netýká se osob, které jsou zastupujícímy dle Zákona o obcích (např. starosta, místostarosta, ..), nebo byly uvedeny v usnesení zastupitelstva jako v [případě Brna](http://www.brno.cz/sprava-mesta/dokumenty-mesta/zapisy-ze-zastupitelstva-mesta-brna/?cislo=3076&rok=2016&dokument=3&platnost=1). [↩](#a1)</sup>
+<sup><span id="f1">1</span> Netýká se osob, které jsou zastupujícími dle Zákona o obcích (např. starosta, místostarosta, ..), nebo byly uvedeny v usnesení zastupitelstva jako v [případě Brna](http://www.brno.cz/sprava-mesta/dokumenty-mesta/zapisy-ze-zastupitelstva-mesta-brna/?cislo=3076&rok=2016&dokument=3&platnost=1). [↩](#a1)</sup>
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
