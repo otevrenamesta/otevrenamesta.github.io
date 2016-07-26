@@ -31,3 +31,17 @@ Těšíme se na setkání!
 
 ![Magistrát města Brna](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg/320px-Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg)
 
+### <span id="Účast_avizovali">Účast avizovali</span>
+
+Obec/organizace | Zastupuje | forma účasti
+--- | --- | ---
+Černošice | Martin Šebek | osobně
+Brno | Jiří Ulip | osobně
+Brno | Marcel Kolaja | osobně
+Brno-Medlánky | Kateřina Žurková | osobně
+Brno-střed | Svatopluk Bartík | osobně
+Nové Město na Moravě | Michal Šmarda | ne
+OpenAlt z.s. | Ladislav Nešněra | osobně
+Praha 5 | Viktor Čahoj | osobně
+Praha 6 | Oldřich Kužílek | vzdáleně
+
