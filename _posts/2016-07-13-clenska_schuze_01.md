@@ -18,7 +18,7 @@ stanovení výše členského příspěvku | stanovy, odstavec (12.7)
 
 Také si dovolujeme upozornit na skutečnost, že:
 
-- hlasovat mohou pouze osoby, které doloží své oprávnění zastupovat obec na členské schůzi
+- <span id="hlasovat_mohou">hlasovat mohou</span> pouze osoby, které doloží<sup id="a1">[1](#f1)</sup> své oprávnění zastupovat obec na členské schůzi
 - uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu a dokumentu o svém dlouhodobém souladném působení s cíli spolku
 - na stránce [Členství](http://www.otevrenamesta.cz/clenstvi/) jsme dne 18. 7. 2016 zveřejnili první oficiální seznam členů, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. Výši a jméno osoby, která dosud příslušnou obec zastupovala, naleznete tamtéž
 - obcím, které nejsou zakládajícími členy, vzniká členství až rozhodnutím výboru o jejich přijetí a zaplacením poměrné části členského příspěvku (5.6)
@@ -30,6 +30,8 @@ Těšíme se na setkání!
 
 
 ![Magistrát města Brna](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg/320px-Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg)
+
+<sup><span id="f1">1</span> Netýká se osob, které jsou zastupujícím dle zákona o obcích, nebo byly uvedeny v usnesení zastupitelstva jako v [případě Brna](http://www.brno.cz/sprava-mesta/dokumenty-mesta/zapisy-ze-zastupitelstva-mesta-brna/?cislo=3076&rok=2016&dokument=3&platnost=1). [↩](#a1)</span></sup>
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
