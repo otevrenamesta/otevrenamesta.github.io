@@ -33,6 +33,13 @@ Těšíme se na setkání!
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
+-> This is center aligned <-  
+-> This is center aligned ->  
+-> This is center aligned  
+-> This is center aligned <-
+-> This is center aligned -
+-> This is center aligned
+
 Obec/organizace | Zastupuje | forma účasti
 --- | --- | ---
 Černošice | Martin Šebek | osobní
