@@ -33,12 +33,7 @@ Těšíme se na setkání!
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
--> This is center aligned <-  
--> This is center aligned ->  
--> This is center aligned  
--> This is center aligned <-
--> This is center aligned -
--> This is center aligned
+<span style="text-align: right;">aktualizováno 2016/07/26</span>
 
 Obec/organizace | Zastupuje | forma účasti
 --- | --- | ---
