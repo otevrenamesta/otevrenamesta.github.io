@@ -35,13 +35,13 @@ Těšíme se na setkání!
 
 Obec/organizace | Zastupuje | forma účasti
 --- | --- | ---
-Černošice | Martin Šebek | osobně
-Brno | Jiří Ulip | osobně
-Brno | Marcel Kolaja | osobně
-Brno-Medlánky | Kateřina Žurková | osobně
-Brno-střed | Svatopluk Bartík | osobně
+Černošice | Martin Šebek | osobní
+Brno | Jiří Ulip | osobní
+Brno | Marcel Kolaja | osobní
+Brno-Medlánky | Kateřina Žurková | osobní
+Brno-střed | Svatopluk Bartík | osobní
 Nové Město na Moravě | Michal Šmarda | ne
-OpenAlt z.s. | Ladislav Nešněra | osobně
-Praha 5 | Viktor Čahoj | osobně
+OpenAlt z.s. | Ladislav Nešněra | osobní
+Praha 5 | Viktor Čahoj | osobní
 Praha 6 | Oldřich Kužílek | vzdáleně
 
