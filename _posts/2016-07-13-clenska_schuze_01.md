@@ -33,7 +33,7 @@ Těšíme se na setkání!
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
-<span style="text-align: right;">aktualizováno 2016/07/26</span>
+<div style="text-align: right;"><sup>aktualizováno 2016/07/26</sup></div>
 
 Obec/organizace | Zastupuje | forma účasti
 --- | --- | ---
