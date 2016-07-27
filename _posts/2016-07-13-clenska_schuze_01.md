@@ -16,7 +16,7 @@ předložení dohod o výkonu funkce a způsobu odměňování | výbor
 činnost, rozpočet a volba projektů pro rok 2016 | výbor
 stanovení výše členského příspěvku | stanovy, odstavec (12.7)
 
-Také si dovolujeme <span id="">upozornit</span> na skutečnost, že:
+Také si dovolujeme <span id="upozornit">upozornit</span> na skutečnost, že:
 
 - <span id="hlasovat_mohou">hlasovat mohou</span> pouze osoby, které doloží<sup id="a1">[1](#f1)</sup> své oprávnění zastupovat obec na členské schůzi
 - uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu a dokumentu o svém dlouhodobém souladném působení s cíli spolku
