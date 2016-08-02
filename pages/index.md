@@ -25,7 +25,7 @@ Pod **otevřeným fungováním radnice** si představujeme
 * průhledné veřejné zakázky od přípravy záměru až do odevzdání výsledku,
 * používání moderních a otevřených technologií ve veřejné správě.
 
-Každodenní fungování radnice přináší celou [řadu výzev ke zlepšení otevřenosti](vyzvy.html).
+Každodenní fungování radnice přináší celou [řadu výzev ke zlepšení otevřenosti](/problemy/).
 Může jít o nehospodárné výdaje, kolabující informační systémy,
 nedůvěru občanů k radnici,
 nevyužité přínosy opakovaně využitelných dat apod. Jako zastupitelé tyto problémy
