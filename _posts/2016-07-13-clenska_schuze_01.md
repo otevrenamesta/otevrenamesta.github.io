@@ -35,17 +35,25 @@ Těšíme se na setkání!
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
-<div style="text-align: right;"><sup>aktualizováno 2016/07/26</sup></div>
+<div style="text-align: right;"><sup>aktualizováno 2016/08/02 08:30</sup></div>
 
 Obec/organizace | Zastupuje | forma účasti
 --- | --- | ---
-Černošice | Martin Šebek | osobní
-Brno | Jiří Ulip | osobní
 Brno | Marcel Kolaja | osobní
+Brno | Tomáš Koláčný | osobní
+Brno | Jiri Ulip | osobní
 Brno-Medlánky | Kateřina Žurková | osobní
-Brno-střed | Svatopluk Bartík | osobní
+Brno-střed | Svaťa Bartík | osobní
+Černošice | Tomáš Kratochvíl | osobní
+Černošice | Martin Šebek | osobní
+Česká Lípa | Tomáš Martínek | osobní
+EconLab | Jiří Skuhrovec | vzdáleně"
+Frank Bold z.s.p.o. | Jiří Nezhyba | osobní
 Nové Město na Moravě | Michal Šmarda | ne
 OpenAlt z.s. | Ladislav Nešněra | osobní
 Praha 5 | Viktor Čahoj | osobní
 Praha 6 | Oldřich Kužílek | vzdáleně
+Praha-Ďáblice | Radimír Rexa | osobní
+Psáry | Vít Olmr | osobní
+Tábor | Václav Klecanda | osobní
 
