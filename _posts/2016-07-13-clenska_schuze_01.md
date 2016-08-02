@@ -47,7 +47,7 @@ Brno-střed | Svaťa Bartík | osobní
 Černošice | Tomáš Kratochvíl | osobní
 Černošice | Martin Šebek | osobní
 Česká Lípa | Tomáš Martínek | osobní
-EconLab | Jiří Skuhrovec | vzdáleně"
+EconLab | Jiří Skuhrovec | vzdáleně
 Frank Bold z.s.p.o. | Jiří Nezhyba | osobní
 Nové Město na Moravě | Michal Šmarda | ne
 OpenAlt z.s. | Ladislav Nešněra | osobní
@@ -56,4 +56,3 @@ Praha 6 | Oldřich Kužílek | vzdáleně
 Praha-Ďáblice | Radimír Rexa | osobní
 Psáry | Vít Olmr | osobní
 Tábor | Václav Klecanda | osobní
-
