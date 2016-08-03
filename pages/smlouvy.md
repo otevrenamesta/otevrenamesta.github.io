@@ -117,4 +117,4 @@ Návštěvnost uvedených serverů se pohybuje mezi 1.000 a 5.000 uživateli mě
 1. Těžba dat do vlastní databáze (vestnikverejnychzakazek.cz , uvo.gov.sk – obojí veřejné zakázky, portal.gov.cz – seznam datových schránek, Obchodní rejstřík, Insolvenční rejstřík, databáze ERÚ, CENIA, ÚOHS aj.)
 2. Migrace nabídek VasMajetek.cz, zInfo.cz na reality.cz (pro Vasmajetek.cz ₋ návrh, implementace)
 
-[Datový standard pro registr smluv](http://www.bezkorupce.cz/wp-content/uploads/2014/08/Datový-standard-pro-registr-smluv1.pdf)
+[Datový standard pro registr smluv](http://standard.zindex.cz/doku.php/cs/introduction)
