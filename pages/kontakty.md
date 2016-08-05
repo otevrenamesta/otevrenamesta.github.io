@@ -61,3 +61,5 @@ MČ Praha 6 | Oldřich Kužílek, <kuzilek@otevrete.cz>
 MČ Praha 7 | Ondřej Profant, <ondrej.profant@pirati.cz>
 Brno Střed | Svatopluk Bartík, <svatopluk.bartik@gmail.com>
 Brno | Marcel Kolaja, <marcel.kolaja@pirati.cz>
+
+Uveřejňované [dokumenty jsou na této stránce](/dokumenty/).
