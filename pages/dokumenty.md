@@ -7,6 +7,6 @@ id:           dokumenty
 ---
 
 
-# Dokumenty vygenerované spolkem
+# Dokumenty
 
-## Zápisy
+Všekeré dokumenty spolku jsou dostupné v [repozitáři GitLabu](https://gitlab.com/otevrenamesta/Documents/tree/master).
