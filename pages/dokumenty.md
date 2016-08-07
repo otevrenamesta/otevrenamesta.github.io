@@ -1,7 +1,7 @@
 ---
 layout:       default
 title:        Dokumenty
-description:  Rozcestník zveřejňovaných dokumentů
+description:  Odkaz na repozitář dokumentů spolku
 permalink:    /dokumenty/
 id:           dokumenty
 ---
