@@ -6,15 +6,23 @@ Zveme členy, zájemce o členství i ostatní příznivce na první členskou s
 
 S radostí Vám oznamujeme úspěšnou registraci spolku - IČO: 05129061, a zároveň Vás zveme na první členskou schůzi, která se uskuteční v čase **od 10:00 do 15:00 dne 9. 8. 2016** na [Malinovského&nbsp;náměstí&nbsp;3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=15/49.1958/16.6152)
 
-Program jednání bude odsouhlasen účastníky na začátku schůze. Dosud navržené body jednání:
+Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:
 
-bod | navrhuje
---- | ---
-úprava znění stanov | Brno
-nová volba členů výboru | Brno
-předložení dohod o výkonu funkce a způsobu odměňování | výbor
-činnost, rozpočet a volba projektů pro rok 2016 | výbor
-stanovení výše členského příspěvku | stanovy, odstavec (12.7)
+bod | kdy | co | kdo
+--- | --- | --- |
+ | 08:00 | otevření místnosti | 
+ | 09:15 | začátek registrace účastníků | 
+ | 09:55 | konec registrace účastníků | 
+1 | 10:00 | schválení programu schůze | členové
+2 | 10:10 | zpráva předsedy o činnosti | Marcel Kolaja
+3 | 10:30 | úprava znění stanov | Jiří Ulip
+4 | 11:30 | určení statistického výkazu a stanovení výše členského příspěvku | Ladislav Nešněra
+5 | 12:00 | předložení dohod o výkonu funkce a způsobu odměňování | 
+6 | 13:00 | přestávka | budoucí výbor
+7 | 13:30 | volba členů výboru (předseda zvlášť, dvoukolová volba, kandidátská řeč 5 min.) | kandidáti, členové
+8 | 14:30 | činnost, rozpočet a volba projektů pro rok 2016 | členové
+9 | 16:30 | openspace debata | členové
+10 | 17:30 | ukončení | 
 
 Také si dovolujeme <span id="upozornit">upozornit</span> na skutečnost, že:
 
@@ -35,9 +43,9 @@ Těšíme se na setkání!
 
 ### <span id="Účast_avizovali">Účast avizovali</span>
 
-<div style="text-align: right;"><sup>aktualizováno 2016/08/02 08:30</sup></div>
+<div style="text-align: right;"><sup>aktualizováno 2016/08/08 12:00</sup></div>
 
-Obec/organizace | Zastupuje | forma účasti
+obec/organizace | osoba | forma účasti
 --- | --- | ---
 Brno | Marcel Kolaja | osobní
 Brno | Tomáš Koláčný | osobní
@@ -47,12 +55,15 @@ Brno-střed | Svaťa Bartík | osobní
 Černošice | Tomáš Kratochvíl | osobní
 Černošice | Martin Šebek | osobní
 Česká Lípa | Tomáš Martínek | osobní
-EconLab | Jiří Skuhrovec | vzdáleně
+EconLab z.s. | Jiří Skuhrovec | vzdáleně
 Frank Bold z.s.p.o. | Jiří Nezhyba | osobní
+kandidát | Václav Klecanda | osobní
+kandidát | Pavel Šnajdr | osobní
 Nové Město na Moravě | Michal Šmarda | ne
 OpenAlt z.s. | Ladislav Nešněra | osobní
+Oživení, o. s. | Martin Kameník | vzdáleně
 Praha 5 | Viktor Čahoj | osobní
 Praha 6 | Oldřich Kužílek | vzdáleně
+Praha 7 | Ondřej Profant | osobní
 Praha-Ďáblice | Radimír Rexa | osobní
 Psáry | Vít Olmr | osobní
-Tábor | Václav Klecanda | osobní
