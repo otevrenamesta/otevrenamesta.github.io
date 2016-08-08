@@ -19,7 +19,7 @@ bod | kdy | co | kdo
 4 | 11:30 | určení statistického výkazu a stanovení výše členského příspěvku | Ladislav Nešněra
 5 | 12:00 | předložení dohod o výkonu funkce a způsobu odměňování | 
 6 | 13:00 | přestávka | 
-7 | 13:30 | volba členů výboru (předseda zvlášť, dvoukolová volba, kandidátská řeč 5 min.) | kandidáti, členové
+7 | 13:30 | volby členů volených orgánů (předseda/člen výboru/kontrolor/člen projektové rady, dvoukolová volba, kandidátská řeč 5 min.) | kandidáti, členové
 8 | 14:30 | činnost, rozpočet a volba projektů pro rok 2016 | členové
 9 | 16:30 | openspace debata | členové
 10 | 17:30 | ukončení | 
