@@ -4,7 +4,7 @@ title:        Členská schůze Otevřených měst &num;1 | Brno
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na první členskou schůzi, která proběhne **9. 8. v Brně**.
 
-S radostí Vám oznamujeme úspěšnou registraci spolku - IČO: 05129061, a zároveň Vás zveme na první členskou schůzi, která se uskuteční v čase **od 10:00 do 15:00 dne 9. 8. 2016** na [Malinovského&nbsp;náměstí&nbsp;3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=15/49.1958/16.6152)
+S radostí Vám oznamujeme úspěšnou registraci spolku - IČO: 05129061, a zároveň Vás zveme na první členskou schůzi, která se uskuteční v čase **od 10:00 do 17:30 dne 9. 8. 2016** na [Malinovského&nbsp;náměstí&nbsp;3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=15/49.1958/16.6152)
 
 Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:
 
@@ -18,7 +18,7 @@ bod | kdy | co | kdo
 3 | 10:30 | úprava znění stanov | Jiří Ulip
 4 | 11:30 | určení statistického výkazu a stanovení výše členského příspěvku | Ladislav Nešněra
 5 | 12:00 | předložení dohod o výkonu funkce a způsobu odměňování | 
-6 | 13:00 | přestávka | budoucí výbor
+6 | 13:00 | přestávka | 
 7 | 13:30 | volba členů výboru (předseda zvlášť, dvoukolová volba, kandidátská řeč 5 min.) | kandidáti, členové
 8 | 14:30 | činnost, rozpočet a volba projektů pro rok 2016 | členové
 9 | 16:30 | openspace debata | členové
@@ -27,7 +27,7 @@ bod | kdy | co | kdo
 Také si dovolujeme <span id="upozornit">upozornit</span> na skutečnost, že:
 
 - <span id="hlasovat_mohou">hlasovat mohou</span> pouze osoby, které doloží<sup id="a1">[1](#f1)</sup> své oprávnění zastupovat obec na členské schůzi
-- uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu a dokumentu o svém dlouhodobém souladném působení s cíli spolku
+- uchazeče o volené funkce zavazuje paragraf 8.3. stanov k předložení životopisu, dokumentu o svém dlouhodobém souladném působení s cíli spolku a podepsání [souhlasu se stanovami](https://gitlab.com/otevrenamesta/Documents/tree/master/vzory)
 - na stránce [Členství](http://www.otevrenamesta.cz/clenstvi/) jsme dne 18. 7. 2016 zveřejnili první oficiální seznam členů, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. Výši a jméno osoby, která dosud příslušnou obec zastupovala, naleznete tamtéž
 - obcím, které nejsou zakládajícími členy, vzniká členství až rozhodnutím výboru o jejich přijetí a zaplacením poměrné části členského příspěvku (5.6)
 - odkaz na transparentní účet, datovou schránku a další aktualizované údaje naleznete pod [Kontakty](http://www.otevrenamesta.cz/kontakty/)
