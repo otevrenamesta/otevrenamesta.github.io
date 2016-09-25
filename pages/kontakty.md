@@ -25,7 +25,7 @@ Otevřená města, z. s.
 
 #### finanční
 
-- IČO: **[5129061](https://or.justice.cz/ias/ui/rejstrik-$firma?ico=05129061)**
+- IČO: **[05129061](https://or.justice.cz/ias/ui/rejstrik-$firma?ico=05129061)**
 - transparentní účet Fio: **[2501020615/2010](https://www.fio.cz/ib2/transparent?a=2501020615)** \| IBAN: CZ3920100000002501020615
 
 ## Výbor (statutární orgán)
