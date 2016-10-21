@@ -41,7 +41,7 @@ Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
 <span id="f0">0</span> První seznam členů byl zveřejněn 18. 7. 2016, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. [↩](#a0)  
 <span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
 <span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)   
-<span id="f3">3</span> V prvém roce existence se u <strong>zakládajících</strong> členů jedná o vklad, který dle odstavce (12.7) činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. U <strong>základních</strong> pak o příspěvek počítaný stejně jako vklad, ale dle odstavce (5.6) je výše snížena na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)  
+<span id="f3">3</span> V prvém roce existence se u <strong>zakládajících</strong> členů jedná o vklad, který dle odstavce (12.7) činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. U <strong>základních</strong> pak o příspěvek počítaný stejně jako vklad snížený dle odstavce (5.6) na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)  
 <span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)  
 <span id="f5">5</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a5)
 </sup>
@@ -62,8 +62,8 @@ Oživení o.s. | Martin Kameník
 ### o základní členství
 
 obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | přihláška | stav&nbsp;<sup id="a6">[6](#f7)</sup>
---- | ---:| ---:| ---:| --- | ---:| --- | ---  
-| - |  |  |  |  |  |  
+--- | ---:| ---:| ---:| --- | ---:| --- | ---
+ - |  |  |  |  |  |  |
 
 <sup>
 <span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
@@ -78,6 +78,6 @@ obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | př
 
 subjekt | zastupuje | stav
 --- | --- | ---
- |  |
+ - |  |
 
 *Seznam je průběžně aktualizován (21. 10. 2016)*
