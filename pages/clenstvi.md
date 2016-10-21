@@ -63,7 +63,7 @@ Oživení o.s. | Martin Kameník
 
 obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | přihláška | stav&nbsp;<sup id="a6">[6](#f7)</sup>
 --- | ---:| ---:| ---:| --- | ---:| --- | ---
-x |  |  |  |  |  |  |
+- |  |  |  |  |  |  |
 
 <sup>
 <span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
@@ -78,6 +78,6 @@ x |  |  |  |  |  |  |
 
 subjekt | zastupuje | stav
 --- | --- | ---
-x |  |
+- |  |
 
 *Seznam je průběžně aktualizován (21. 10. 2016)*
