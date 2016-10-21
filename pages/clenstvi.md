@@ -22,7 +22,7 @@ image:
 
 ### základní členství
 
-obec | obyvatel&nbsp;<sup id="a1">[1](#f1)</sup> | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška&nbsp;<sup id="a6">[6](#f6)</sup>
+obec | obyvatel&nbsp;<sup id="a1">[1](#f1)</sup> | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška&nbsp;<sup id="a5">[5](#f5)</sup>
 --- | ---:| ---:| ---:| --- | ---:| ---
 Brno | 376 407 | 332 314 | 500 792,94 | Jiří Ulip | 576
 Brno-Medlánky | 5 309 | 2 655 | 1 659,06 | Kateřina Žurková | 52 | červenec
@@ -37,15 +37,13 @@ Praha-Ďáblice | 3 380 | 3 380 | 2 113,00 | Radimír Rexa | 58 | červenec
 Psáry | 3 578 | 3 578 | 5 367,00 | Vít Olmr | 60
 Úvaly | 6 202 | 6 202 | 3 101,00 |  | 79 | srpen
 
-
-
 <sup>
 <span id="f0">0</span> První seznam členů byl zveřejněn 18. 7. 2016, čímž dle odstavce (12.7) stanov započala zakládajícím členům dvouměsíční lhůta splatnosti vkladu s termínem do 19. 9. 2016. [↩](#a0)  
 <span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
 <span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)   
-<span id="f3">3</span> V prvém roce existence se u <strong>zakládajících</strong> členů jedná o vklad, který dle odstavce (12.7) činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. U <strong>základních</strong> pak o příspěvek počítaný stejně jako vklad, ale dle odstavce (5.6) je výše snížena na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)
-<span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)
-<span id="f6">6</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a6)
+<span id="f3">3</span> V prvém roce existence se u <strong>zakládajících</strong> členů jedná o vklad, který dle odstavce (12.7) činí pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. U <strong>základních</strong> pak o příspěvek počítaný stejně jako vklad, ale dle odstavce (5.6) je výše snížena na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)  
+<span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)  
+<span id="f5">5</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a5)
 </sup>
 
 ## přidružené členství
@@ -63,14 +61,12 @@ Oživení o.s. | Martin Kameník
 
 ### o základní členství
 
-obec | obyvatel | přepočet | členský příspěvek&nbsp;<sup id="a5">[5](#f5)</sup>  | zastupuje | hlasů | přihláška&nbsp;<sup id="a6">[6](#f6)</sup> | stav&nbsp;<sup id="a7">[7](#f7)</sup>
---- | ---:| ---:| ---:| --- | ---:| --- | ---
-| - |  |  |  |  |  |
+obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | přihláška | stav&nbsp;<sup id="a6">[6](#f7)</sup>
+--- | ---:| ---:| ---:| --- | ---:| --- | ---  
+| - |  |  |  |  |  |  
 
 <sup>
-<span id="f5">5</span> Dle odstavce (5.6) je výše stanovena jako poměrná část členského příspěvku podle počtu celých kalendářních měsíců zbývajících ode dne podání přihlášky do konce roku. Dle odstavce (12.7) odpovídá členský příspěvek pro rok 2016 1,50 Kč na osobu z přepočtu obyvatel. Výsledná částka je zaokrouhlena na koruny. [↩](#a5)  
-<span id="f6">6</span> U přihlášek podaných před registrací spolku (9. 6. 2016) je právě tento den považován za datum podání. [↩](#a6)  
-<span id="f7">7</span> Možné stavy procesu přijímání členů: [↩](#a7)  
+<span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
 &nbsp;&nbsp;&nbsp;&bull; **v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku  
 &nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  
 &nbsp;&nbsp;&nbsp;&bull; (přihláška) **doručena** - poštou nebo datovou schránkou  
