@@ -19,6 +19,7 @@ Jsme rádi, že se další obce a města hlásí k myšlence otevřeného fungov
 Staňte se také členem spolku Otevřených měst!
 
 
+
 <sup>
 Speciální poděkování patří:  
 &nbsp;&nbsp;&nbsp;&bull; Jiřímu Beránkovi ([OpenAlt z.s.](https://www.openalt.org/) za poskytnutí videotechniky a post processing  
