@@ -20,16 +20,7 @@ Staňte se také členem spolku Otevřených měst!
 
 <sup>
 Speciální poděkování patří:
-&nbsp;&nbsp;&nbsp;&bull; Jiřímu Beránkovi ([OpenAlt z.s.](https://www.openalt.org/)/ za poskytnutí videotechniky a postprocesing
-&nbsp;&nbsp;&nbsp;&bull; Petru Vozdeckýmu (filmové a TV produkční společnosti [PXPRO](http://www.pxpro.cz)) za zápůjčku zvukové techniky
-&nbsp;&nbsp;&nbsp;&bull; Radimu Štandlovi a Kamilu Kolbábkovi ([Odbor městské informatiky](https://www.brno.cz/sprava-mesta/magistrat-mesta-brna/kancelar-namestka-primatora-pro-oblast-smart-city/odbor-mestske-informatiky)) za vstřícnost a organizační pomoc
-</sup>
-
-<sup>
-<span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
-&nbsp;&nbsp;&nbsp;&bull; **v jednání** - obec projevila zájem, seznamuje se s pravidly a činností spolku  
-&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  
-&nbsp;&nbsp;&nbsp;&bull; (přihláška) **doručena** - poštou nebo datovou schránkou  
-&nbsp;&nbsp;&nbsp;&bull; (obec) **přijata** - rozhodnutím výboru spolku  
-&nbsp;&nbsp;&nbsp;&bull; (obec členem) - s právem hlasovat po uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  
+&nbsp;&nbsp;&nbsp;&bull; Jiřímu Beránkovi ([OpenAlt z.s.](https://www.openalt.org/)/ za poskytnutí videotechniky a postprocesing  
+&nbsp;&nbsp;&nbsp;&bull; Petru Vozdeckýmu (filmové a TV produkční společnosti [PXPRO](http://www.pxpro.cz)) za zápůjčku zvukové techniky  
+&nbsp;&nbsp;&nbsp;&bull; Radimu Štandlovi a Kamilu Kolbábkovi ([Odbor městské informatiky](https://www.brno.cz/sprava-mesta/magistrat-mesta-brna/kancelar-namestka-primatora-pro-oblast-smart-city/odbor-mestske-informatiky)) za vstřícnost a organizační pomoc  
 </sup>
