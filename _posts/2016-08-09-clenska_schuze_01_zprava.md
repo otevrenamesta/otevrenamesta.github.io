@@ -20,7 +20,7 @@ Staňte se také členem spolku Otevřených měst!
 <pre><br /><br /></pre>
 <sup>
 Speciální poděkování patří:  
-&nbsp;&nbsp;&nbsp;&bull; Jiřímu Beránkovi ([OpenAlt z.s.](https://www.openalt.org) za poskytnutí videotechniky a post processing  
+&nbsp;&nbsp;&nbsp;&bull; Jiřímu Beránkovi ([OpenAlt z.s.](https://www.openalt.org)) za poskytnutí videotechniky a post processing  
 &nbsp;&nbsp;&nbsp;&bull; Petru Vozdeckému (filmová a TV produkční společnost [PXPRO](http://www.pxpro.cz)) za zápůjčku zvukové techniky  
 &nbsp;&nbsp;&nbsp;&bull; Radimu Štandlovi a Kamilu Kolbábkovi ([Odbor městské informatiky](https://www.brno.cz/sprava-mesta/magistrat-mesta-brna/kancelar-namestka-primatora-pro-oblast-smart-city/odbor-mestske-informatiky)) za vstřícnost a organizační pomoc  
 </sup>
