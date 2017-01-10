@@ -9,6 +9,7 @@ Nabídky zasílejte emailem na adresu: **vybor@otevrenamesta.cz**
 Nabídky budou přijímány do **27. 1. 2017**
 
 Náplň činnosti:
+	
 - kompletní zpracování a vedení účetnictví,
 - vedení a zpracování závazků a pohledávek,
 - vedení evidence drobného a dlouhodobého majetku (pokud nějaký budeme mít),
@@ -29,6 +30,7 @@ Nabídněte poskytování služby vedení účetnictví.
 V nabídce uveďte způsob realizace a cenu za měsíc. Maximální nabídková cena je 5000 Kč/měsíc včetně daní. Za dopracování roku 2016 počítáme s cenou ve výši nabídkové ceny za 2 měsíce.
 
 V nabídce také uveďte:
+	
 * Totožnost. Musíte uvést svoje jméno a pokud jde o firmu, musíte také uvést vlastníky, které lze ověřit z veřejných zdrojů. Zasláním nabídky souhlasíte se zveřejněním a zpracováním svých osobních údajů v souvislosti s výběrovým řízením.
 * Svobodná licence. Zasláním nabídky souhlasíte se zveřejněním všech příslušných smluv a všech děl uvedených v nabídce nebo vzniklých na základě smluv. Souhlasíte s tím, že díla uvedená v nabídce i výsledná díla bude možné svobodně šířit za podmínek svobodné licence.
 * Souhlas s pravidly. Zasláním nabídky souhlasíte s těmito pravidly i zvláštními pravidly uvedenými u daného výběrového řízení. Souhlasíte s tím, že nemáte nárok na náhradu nákladů spojených s účastí ve výběrovém řízení ani na jiná finanční plnění z naší strany, není-li to výslovně uvedeno při vyhlášení výběrového řízení. Vyhrazujeme si právo změnit pravidla daného výběrového řízení. V takovém případě máte právo z výběrového řízení odstoupit.
@@ -39,6 +41,7 @@ V nabídce také uveďte:
 Právní forma dodavatele není relevantní.
 
 Hodnocení nabídek:
+	
 * Hodnotícím kritériem je cena.
 * Zadavatelem výběrového řízení je výbor spolku, za který jedná ve věci Marcel Kolaja.
 * Samostatným hodnotitelem je Marcel Kolaja.
