@@ -4,7 +4,7 @@ title:        Výběrové řízení na dodavatele účetních služeb
 ---
 Otevřená města, z.s. vyhlašují prostřednictvím výboru výběrové řízení na dodavatele služeb účetnictví. S vítězem výběrového řízení bude uzavřena smlouva na dobu neurčitou.
 
-Nabídky zasílejte emailem na adresu: **vybor@otevrenamesta.cz**
+Nabídky zasílejte emailem na adresu: **[info@otevrenamesta.cz](mailto:info@otevrenamesta.cz?subject=Nabídka účetních služeb)**
 
 Nabídky budou přijímány do **27. 1. 2017**
 
