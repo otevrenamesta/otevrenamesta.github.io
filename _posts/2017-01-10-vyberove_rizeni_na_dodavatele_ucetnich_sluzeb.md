@@ -9,15 +9,14 @@ Nabídky zasílejte emailem na adresu: **vybor@otevrenamesta.cz**
 Nabídky budou přijímány do **27. 1. 2017**
 
 Náplň činnosti:
-* kompletní zpracování a vedení účetnictví,
-* vedení a zpracování závazků a pohledávek,
-* vedení evidence drobného a dlouhodobého majetku (pokud nějaký budeme
-  mít),
-* zpracování postupů účtování (účetní osnova, účtování),
-* zpracování daňových přiznání,
-* sestavení účetní závěrky,
-* příprava účetních podkladů pro audit a výroční zprávu,
-* vedení účetnictví v softwaru [FlexiBee](https://www.flexibee.eu/)
+- kompletní zpracování a vedení účetnictví,
+- vedení a zpracování závazků a pohledávek,
+- vedení evidence drobného a dlouhodobého majetku (pokud nějaký budeme mít),
+- zpracování postupů účtování (účetní osnova, účtování),
+- zpracování daňových přiznání,
+- sestavení účetní závěrky,
+- příprava účetních podkladů pro audit a výroční zprávu,
+- vedení účetnictví v softwaru [FlexiBee](https://www.flexibee.eu/)
 
 Veškerá činnost je prováděna ve spolupráci s výborem zapsaného spolku Otevřená města nebo jím pověřenou osobou. Rozsah účetnictví pro rok 2017 a 2018 nepřesáhne průměrně 20 položek měsíčně. Transparentní účet spolku:
 
