@@ -35,8 +35,8 @@ V nabídce také uveďte:
 * Svobodná licence. Zasláním nabídky souhlasíte se zveřejněním všech příslušných smluv a všech děl uvedených v nabídce nebo vzniklých na základě smluv. Souhlasíte s tím, že díla uvedená v nabídce i výsledná díla bude možné svobodně šířit za podmínek svobodné licence.
 * Souhlas s pravidly. Zasláním nabídky souhlasíte s těmito pravidly i zvláštními pravidly uvedenými u daného výběrového řízení. Souhlasíte s tím, že nemáte nárok na náhradu nákladů spojených s účastí ve výběrovém řízení ani na jiná finanční plnění z naší strany, není-li to výslovně uvedeno při vyhlášení výběrového řízení. Vyhrazujeme si právo změnit pravidla daného výběrového řízení. V takovém případě máte právo z výběrového řízení odstoupit.
 * Kvalifikace.
-** Držení vázané živnosti na Činnost účetních poradců, vedení účetnictví a vedení daňové evidence.
-** Alespoň dvouletá praxe ve vedení učetnictví, kterou uchazeč doloží uvedením kontaktů na 3 referenční zákazníky (pro případné ověření)
+  * Držení vázané živnosti na Činnost účetních poradců, vedení účetnictví a vedení daňové evidence.
+  * Alespoň dvouletá praxe ve vedení učetnictví, kterou uchazeč doloží uvedením kontaktů na 3 referenční zákazníky (pro případné ověření)
 
 Právní forma dodavatele není relevantní.
 
