@@ -21,7 +21,7 @@ Náplň činnosti:
 
 Veškerá činnost je prováděna ve spolupráci s výborem zapsaného spolku Otevřená města nebo jím pověřenou osobou. Rozsah účetnictví pro rok 2017 a 2018 nepřesáhne průměrně 20 položek měsíčně. Transparentní účet spolku:
 
-**https://www.fio.cz/ib2/transparent?a=2501020615**
+**<https://www.fio.cz/ib2/transparent?a=2501020615>**
 
 Je potřeba kompletně vypracovat účetnictví (viz náplň činnosti) i za rok 2016 s rozsahem do 30 položek za celý rok (viz účet).
 
