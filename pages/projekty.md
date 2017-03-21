@@ -8,7 +8,7 @@ id:           autocircles
 
 Projekty
 ========================
-Cílem našich projektů má být vyřešit [některé problémy](/problemy/), které trápí česká města a obce. Zatím máme připraven následující projekty
+Cílem našich projektů má být vyřešit [některé problémy](/problemy/), které trápí česká města a obce. Zatím máme připraveny následující projekty
 
 ## Citivizor
 Rozklikávací rozpočet
