@@ -6,7 +6,7 @@ Zveme členy, zájemce o členství i ostatní příznivce na druhou členskou s
 
 Konkrétní místo jednání bude upřesněno.
 
-Čelny i touto cesout vyzýváme k zaslání návrhů na programové body jednání a to nejpozději do 13. června 2017 e-mailem na adresu [info@otevrenamesta.cz](mailto:info@otevrenamesta.cz). ([tabulka se jmény zástupců](http://www.otevrenamesta.cz/clenstvi/))
+Čelny i touto cesout vyzýváme k zaslání návrhů na programové body jednání a to nejpozději do 13. června 2017 e-mailem na adresu [info@otevrenamesta.cz](mailto:info@otevrenamesta.cz). ([tabulka se jmény zástupců](http://www.otevrenamesta.cz/clenstvi/#a0))
 
 ### Program
 
