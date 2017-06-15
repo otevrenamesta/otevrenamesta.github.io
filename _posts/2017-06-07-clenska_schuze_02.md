@@ -31,4 +31,4 @@ Těšíme se na setkání!
 
 
 
-[Seznam členů a jejich zástupců]((http://www.otevrenamesta.cz/clenstvi/) 
+[Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)
