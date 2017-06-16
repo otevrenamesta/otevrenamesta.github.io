@@ -32,3 +32,6 @@ Těšíme se na setkání!
 
 
 [Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)
+
+
+[nádvoří Nové radnice](https://commons.wikimedia.org/wiki/Category:Nov%C3%A1_radnice_%28Brno%29#/media/File:Vecer_by_Niederkasseler_-_panoramio.jpg)
