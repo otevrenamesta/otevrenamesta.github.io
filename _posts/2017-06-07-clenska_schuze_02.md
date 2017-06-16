@@ -34,6 +34,4 @@ Těšíme se na setkání!
 [Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)
 
 
-![nádvoří Nové radnice](https://upload.wikimedia.org/wikipedia/commons/d/dd/Vecer_by_Niederkasseler_-_panoramio.jpg)
-
-By Niederkasseler, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), [Link](https://commons.wikimedia.org/w/index.php?curid=55989995)
+<p><a href="https://commons.wikimedia.org/wiki/File:Vecer_by_Niederkasseler_-_panoramio.jpg#/media/File:Vecer_by_Niederkasseler_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Vecer_by_Niederkasseler_-_panoramio.jpg" alt="Vecer by Niederkasseler - panoramio.jpg" width="640" height="427"></a><br>By Niederkasseler, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55989995">Link</a></p>
