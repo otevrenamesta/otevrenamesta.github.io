@@ -35,3 +35,9 @@ Těšíme se na setkání!
 
 
 ![nádvoří Nové radnice](https://upload.wikimedia.org/wikipedia/commons/d/dd/Vecer_by_Niederkasseler_-_panoramio.jpg)
+
+
+![Magistrát města Brna](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg/320px-Magistr%C3%A1t_m%C4%9Bsta_Brna%2C_Malinovsk%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD.jpg)
+
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Vecer_by_Niederkasseler_-_panoramio.jpg#/media/File:Vecer_by_Niederkasseler_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Vecer_by_Niederkasseler_-_panoramio.jpg" alt="Vecer by Niederkasseler - panoramio.jpg" width="640" height="427"></a><br>By Niederkasseler, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55989995">Link</a></p>
