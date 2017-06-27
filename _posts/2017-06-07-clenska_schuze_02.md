@@ -19,7 +19,7 @@ bod | kdy | co | zpravodaj
 4 | 11:00 | priority projektů spolku pro následujı́cı́ obdobı́ (revize existujı́cı́ho seznamu projektů, registr smluv a spolupráce se spolkem BISON, nové návrhy členů) | Marcel Kolaja
 5 | 12:30 | přestávka | 
 6 | 13:00 | tématické semináře/workshopy | členové
-7 | 13:30 | ukončení | 
+7 | 16:00 | ukončení | 
 
 Také si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,...), nebo byly uvedeny v usnesenı́ zastupitelstva.
 
