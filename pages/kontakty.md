@@ -34,7 +34,7 @@ jméno | funkce | kontakt
 --- | --- | ---
 Bc. Marcel Kolaja | předseda výboru | <marcel.kolaja@otevrenamesta.cz>
 Viktor Čahoj | člen výboru | <viktor.cahoj@praha5.eu>
-Ladislav Něšněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
+Ladislav Nešněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
 Ondřej Profant | člen výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
 Michal Šmarda | člen výboru | <starosta@nmnm.cz>
 
