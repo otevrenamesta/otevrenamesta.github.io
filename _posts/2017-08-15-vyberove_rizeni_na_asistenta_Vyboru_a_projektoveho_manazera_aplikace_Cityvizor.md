@@ -36,9 +36,9 @@ Zasílání nabídek:
 
   V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály:
 
-    1. krátký motivační dopis,
-    2. svůj životopis
+  1. krátký motivační dopis,
+  2. svůj životopis
 
-Podrobnosti o výběrovém řízení si přečti v pravidlech výběrového řízení. Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit [emailem či telefonicky](pages/kontakty.md).
+Podrobnosti o výběrovém řízení si přečti v pravidlech výběrového řízení. Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit [emailem či telefonicky](/pages/kontakty.md).
 Poptávaná činnost bude provedena formou Dohody o provedení práce a vykazována v systému Redmine.
 Nabídku nám prosím zašli do **31. srpna 2017** včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Asistent a projektový manager Cityvizor)**.
