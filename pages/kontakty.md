@@ -30,12 +30,13 @@ Otevřená města, z. s.
 
 ## Výbor (statutární orgán)
 
----
-Bc. Marcel Kolaja | <marcel.kolaja@otevrenamesta.cz> | předseda výboru
-Ladislav Něšněra | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256 | člen výboru
-Viktor Čahoj | <viktor.cahoj@praha5.eu> |člen výboru
-Ondřej Profant | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015 |člen výboru
-Michal Šmarda | <starosta@nmnm.cz> | člen výboru
+jméno | funkce | kontakt
+--- | --- | ---
+Bc. Marcel Kolaja | předseda výboru | <marcel.kolaja@otevrenamesta.cz>
+Viktor Čahoj | člen výboru | <viktor.cahoj@praha5.eu>
+Ladislav Něšněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
+Ondřej Profant | člen výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
+Michal Šmarda | člen výboru | <starosta@nmnm.cz>
 
 ## Pracovní tým
 
