@@ -30,11 +30,11 @@ Otevřená města, z. s.
 
 ## Výbor (statutární orgán)
 
-* Bc. Marcel Kolaja, <marcel@kolaja.eu> (předseda výboru)
-* Ladislav Něšněra, <predseda@openalt.org> (člen výboru)
-* Viktor Čahoj, <viktor.cahoj@praha5.eu> (člen výboru)
-* Mgr. Ing. Oldřich Kužílek, <kuzilek@otevrete.cz> (člen výboru)
-* Michal Šmarda, <starosta@nmnm.cz> (člen výboru)
+* Bc. Marcel Kolaja | <marcel.kolaja@otevrenamesta.cz> | předseda výboru
+* Ladislav Něšněra | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256 | člen výboru
+* Viktor Čahoj | <viktor.cahoj@praha5.eu> |člen výboru
+* Ondřej Profant | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015 |člen výboru
+* Michal Šmarda | <starosta@nmnm.cz> | člen výboru
 
 ## Pracovní tým
 
@@ -42,9 +42,9 @@ Kontakty na vybrané členy pracovního týmu, kteří se věnují konkrétní o
 
 Oblast zájmu | Kontaktní osoba
 --- | ---
-Projekt Otevřené smlouvy | Jiří Skuhrovec, <jiri.skuhrovec@datlab.cz>, +420 602 693 748
+Projekt Cityvizor | Ondřej Profant, <ondrej.profant@otevrenamesta.cz>, +420 607 580 015
 Webové stránky spolku | Václav Klecanda, <vaclav.klecanda@pirati.cz>
-E-mailová konference | Ladislav Něšněra, <predseda@openalt.org>
+E-mailová konference | Ladislav Něšněra, <ladislav.nesnera@otevrenamesta.cz>
 Stanovy | Jakub Michálek, <jakub.michalek@pirati.cz>
 
 ## Kontrolor
@@ -60,6 +60,6 @@ Samospráva | Kontaktní osoba
 MČ Praha 6 | Oldřich Kužílek, <kuzilek@otevrete.cz>
 MČ Praha 7 | Ondřej Profant, <ondrej.profant@pirati.cz>
 Brno Střed | Svatopluk Bartík, <svatopluk.bartik@gmail.com>
-Brno | Marcel Kolaja, <marcel.kolaja@pirati.cz>
+Brno | Jiří Ulip, <ulip.jiri@brno.cz>
 
 Uveřejňované [dokumenty jsou na této stránce](/dokumenty/).
