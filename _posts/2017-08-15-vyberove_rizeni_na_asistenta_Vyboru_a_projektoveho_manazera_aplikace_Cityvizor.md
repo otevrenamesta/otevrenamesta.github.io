@@ -28,14 +28,13 @@ Požadujeme:
 - analytické schopnosti a schopnost zpracování dat a informací
 - výborná znalost českého jazyka, schopnost kvalitního samostatného písemného projevu
 - spolehlivost, důvěryhodnost a pečlivost
-- ztotožnění s cíli spolku (viz [Stanovy](https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf))
+- ztotožnění s cíli spolku (viz. [Stanovy](https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf))
 - znalost ekonomického názvosloví v rozsahu užití v Cityvizor výhodou
 - čestné prohlášení o trestní bezúhonnosti (o čistém trestním rejstříku)
 
 Zasílání nabídek:
 
 V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiály:
-
 1. krátký motivační dopis,
 2. svůj životopis
 
