@@ -2,7 +2,6 @@
 layout:       blog
 title:        NEWSLETTER 2017: SRPEN - LISTOPAD
 ---
-
 CityVizor: malá česká revoluce
 -
 Na začátku září jsme [CityVizor](http://cityvizor.cz/) za zájmu médií (např. [České televize](http://www.ceskatelevize.cz/ct24/ekonomika/2230126-nova-aplikace-umozni-zkontrolovat-radnicni-ucty-i-z-mobilu), [Lupa.cz](https://www.lupa.cz/clanky/ministerstvo-financi-si-pochvalu-casto-nezaslouzi-ted-je-tu-ale-cityvizor/)) oficiálně spustili. Ondřej Profant představil CityVizor 8. října 2017 v rámci [LinuxDays](https://www.linuxdays.cz/2017/video/) v Praze a 4. listopadu 2017 na konferenci [OpenAlt](https://www.superlectures.com/openalt2017/cityvizor) v Brně.
