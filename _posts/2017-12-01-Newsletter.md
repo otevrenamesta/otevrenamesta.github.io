@@ -1,6 +1,6 @@
 ---
 layout:       blog
-title:        NEWSLETTER 2017: SRPEN - LISTOPAD
+title:        NEWSLETTER SRPEN - LISTOPAD 2017
 ---
 CityVizor: malá česká revoluce
 -
