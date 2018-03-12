@@ -77,6 +77,7 @@ subjekt | zastupuje | stav
 --- | --- | ---
 Nadace Charty 77 | Petr Hazuza | v jednání
 
-[comment]: # (&nbsp;&nbsp;&ndash; |  |)
-
+<!--
+&nbsp;&nbsp;&ndash; |  |
+-->
 *Seznam je průběžně aktualizován (2018-03-12)*
