@@ -19,7 +19,7 @@ Kontakty
 
 *osoba (nepovinné | má-li být upřednostněna osoba)*  
 Otevřená města, z. s.  
-*osoba (nepovinné)*  
+*osoba (nepovinné | alternativa k prvnímu řádku, otevře kterákoliv za spolek oprávněná osoba)*  
 [Malinovského náměstí 624/3](http://www.openstreetmap.org/?mlat=49.1958&mlon=16.6152#map=16/49.1958/16.6152)  
 602 00 Brno
 
@@ -33,10 +33,10 @@ Otevřená města, z. s.
 jméno | funkce | kontakt
 --- | --- | ---
 Bc. Marcel Kolaja | předseda výboru | <marcel.kolaja@otevrenamesta.cz>
-Viktor Čahoj | člen výboru | <viktor.cahoj@praha5.eu>
+Zbyněk Grepl | člen výboru | zbynek.grepl@meu.nmnm.cz |
 Ladislav Nešněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
+Radomír Palovský | člen výboru | <radomir.palovsky@praha5.cz> | 
 Ondřej Profant | člen výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
-Michal Šmarda | člen výboru | <starosta@nmnm.cz>
 
 ## Pracovní tým
 
@@ -44,7 +44,7 @@ Kontakty na vybrané členy pracovního týmu, kteří se věnují konkrétní o
 
 Oblast zájmu | Kontaktní osoba
 --- | ---
-Projekt Cityvizor | Ondřej Profant, <ondrej.profant@otevrenamesta.cz>, +420 607 580 015
+Projekt Cityvizor | Daniel Kolář, <daniel.kolar@otevrenamesta.cz>, +420 608 168 479
 Webové stránky spolku | Václav Klecanda, <vaclav.klecanda@pirati.cz>
 E-mailová konference | Ladislav Něšněra, <ladislav.nesnera@otevrenamesta.cz>
 Stanovy | Jakub Michálek, <jakub.michalek@pirati.cz>
