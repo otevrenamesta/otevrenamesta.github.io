@@ -34,10 +34,10 @@ V nabídce nám, prosím, zašlete v jednom PDF dokumentu následující materi�
 1. krátký dopis popisující vaši motivaci a zkušenosti se správou webů
 2. svůj životopis
 3. nabídnutou cenu za jednu člověkohodinu
-- Nabídnutá cena za jednu hodinu práce musí být v rozmezí 300-800 Kč/hod. Maximální rozsah spolupráce bude 80 hodin za měsíc, s možností jednorázového navýšení po předchozí domluvě.
+- cena musí být v rozmezí 300-800 Kč/hod. Maximální rozsah spolupráce bude 80 hodin za měsíc, s možností jednorázového navýšení po předchozí domluvě
 
 Pokud máte zájem o upřesnění informací, neváhejte se na nás obrátit [emailem či telefonicky](/kontakty/).
 
-Přihlášky budou hodnoceny výborem Otevřených měst, dle hodnotících kritérií. Vzhledem k charakteru práce bude poptávaná práce dodána jako služba živnostníkem (na IČO). Přijímáme přihlášky od jednotlivců, od skupin jednotlivců i od firem.
-Poptávaná dílčí činnost bude zadávaná a vykazována v systému Redmine.
-Nabídku nám, prosím, zašete do **31. března 2018** včetně, do týdne se vám ozveme ohledně dalšího postupu. Nabídku zašlete na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Vývojář aplikace CityVizor)**.
+Přihlášky budou hodnoceny výborem Otevřených měst, dle hodnotících kritérií. Vzhledem k charakteru práce bude poptávaná práce dodána jako služba živnostníkem (na IČO). Přijímáme přihlášky od jednotlivců, od skupin jednotlivců i od firem. Poptávaná dílčí činnost bude zadávaná a vykazována v systému Redmine.
+
+Nabídku nám, prosím, zašete do **31. března 2018** včetně, a to na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Vývojář aplikace CityVizor)**. Do týdne se vám ozveme ohledně dalšího postupu.    
