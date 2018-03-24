@@ -24,17 +24,17 @@ image:
 
 obec | obyvatel 2018&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců 2018&nbsp;<sup id="a1">[1](#f1)</sup> | celkem | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-Brno | 376929 | 28028 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládající
-Brno-Medlánky | 5327 | 371 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
-Brno-střed | 82660 | 7116 | 7116 | 89776 | 44888 | 67332 | Svatopluk Bartík | 300 | zakládající
-Černošice | 6902 | 248 | 248 | 7150 | 7150 | 10725 | Tomáš Kratochvíl | 85 | zakládající
-Kutná Hora | 19722 | 1085 | 1085 | 20807 | 20807 | 31210,5 | Lukáš Jelínek | 144 | 2016-06
-Nové Město na Moravě | 9954 | 134 | 134 | 10088 | 10088 | 15132 | Michal Šmarda | 100 | zakládající
-Praha 5 | 72984 | 14991 | 14991 | 87975 | 87975 | 131962,5 | Viktor Čahoj | 297 | zakládající
-Praha 7 | 37707 | 7473 | 7473 | 45180 | 45180 | 67770 | Ondřej Profant | 213 | 2016-06
-Praha-Ďáblice | 3376 | 251 | 251 | 3627 | 3627 | 5440,5 | Radimír Rexa | 60 | 2016-07
-Psáry | 3706 | 237 | 237 | 3943 | 3943 | 5914,5 | Vít Olmr | 63 | zakládající
-Úvaly | 6389 | 337 | 337 | 6726 | 6726 | 10089 |  Petr Borecký | 82 | 2016-08
+Brno | 376929 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládající
+Brno-Medlánky | 5327 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
+Brno-střed | 82660 | 7116 | 89776 | 44888 | 67332 | Svatopluk Bartík | 300 | zakládající
+Černošice | 6902 | 248 | 7150 | 7150 | 10725 | Tomáš Kratochvíl | 85 | zakládající
+Kutná Hora | 19722 | 1085 | 20807 | 20807 | 31210,5 | Lukáš Jelínek | 144 | 2016-06
+Nové Město na Moravě | 9954 | 134 | 10088 | 10088 | 15132 | Michal Šmarda | 100 | zakládající
+Praha 5 | 72984 | 14991 | 87975 | 87975 | 131962,5 | Viktor Čahoj | 297 | zakládající
+Praha 7 | 37707 | 7473 | 45180 | 45180 | 67770 | Ondřej Profant | 213 | 2016-06
+Praha-Ďáblice | 3376 | 251 | 3627 | 3627 | 5440,5 | Radimír Rexa | 60 | 2016-07
+Psáry | 3706 | 237 | 3943 | 3943 | 5914,5 | Vít Olmr | 63 | zakládající
+Úvaly | 6389 | 337 | 6726 | 6726 | 10089 |  Petr Borecký | 82 | 2016-08
 
 <sup>
 <span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
