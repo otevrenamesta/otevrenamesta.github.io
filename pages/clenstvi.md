@@ -22,7 +22,7 @@ image:
 
 ### základní členství
 
-obec | občanů&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců &nbsp;<sup id="a1">[1](#f1)</sup> | obyvatel | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška
+obec | občanů&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců &nbsp;<sup id="a1">[1](#f1)</sup> | obyvatel | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | členství
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
 Brno | 376929 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládající
 Brno-Medlánky | 5327 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
