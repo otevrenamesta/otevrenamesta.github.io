@@ -22,7 +22,7 @@ image:
 
 ### základní členství
 
-obec | obyvatel 2018&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců 2018&nbsp;<sup id="a1">[1](#f1)</sup> | celkem | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška
+obec | občanů&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců &nbsp;<sup id="a1">[1](#f1)</sup> | obyvatel | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | přihláška
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
 Brno | 376929 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládající
 Brno-Medlánky | 5327 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
@@ -37,7 +37,7 @@ Psáry | 3706 | 237 | 3943 | 3943 | 5914,5 | Vít Olmr | 63 | zakládající
 Úvaly | 6389 | 337 | 6726 | 6726 | 10089 |  Petr Borecký | 82 | 2016-08
 
 <sup>
-<span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty ze statistiky "[Informativní počet občanů v ČR ve všech obcích, v obcích 3. typu a v městských částech](http://www.mvcr.cz/soubor/pocty-obyvatel-v-obcich-cr-pocet-obyvatel-k-1-1-2016-xls.aspx)" k 1. 1. 2016 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
+<span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty z informativních počtů občanů ČR a cizinců k 1. 1. 2018 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
 <span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)   
 <span id="f3">3</span> Členský příspěvek činí 1,50 Kč na osobu z přepočtu obyvatel. U obcí přistoupivších v aktuálním roce je příspěvek snížený dle odstavce (5.6) na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)  
 <span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)  
