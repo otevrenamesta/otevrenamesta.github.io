@@ -37,7 +37,7 @@ Psáry | 3706 | 237 | 3943 | 3943 | 5914,5 | Vít Olmr | 63 | zakládající
 Úvaly | 6389 | 337 | 6726 | 6726 | 10089 |  Petr Borecký | 82 | 2016-08
 
 <sup>
-<span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty z informativních počtů občanů ČR a cizinců k 1. 1. 2018 [zveřejněné na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
+<span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty z informativních počtů občanů ČR a cizinců k 1. 1. 2018 [zveřejněných na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstvem vnitra České republiky [↩](#a1)   
 <span id="f2">2</span> Dle odstavce (7.3) stanov se v případě překrývajícího uzemí dvou členů dělí počet obyvatel rovnou měrou. [↩](#a2)   
 <span id="f3">3</span> Členský příspěvek činí 1,50 Kč na osobu z přepočtu obyvatel. U obcí přistoupivších v aktuálním roce je příspěvek snížený dle odstavce (5.6) na poměrnou část podle počtu celých kalendářních měsíců zbývajících do konce roku ode dne podání přihlášky [↩](#a3)  
 <span id="f4">4</span> Dle odstavce (7.2) druhá odmocnina z přepočtu obyvatel. [↩](#a4)  
