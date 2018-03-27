@@ -39,12 +39,4 @@ Uvědomujeme si, že otevřenost něco stojí, a jsme připraveni na ni
 v rozpočtu vyčlenit prostředky. Jsme přesvědčeni, že vložené náklady se
 nám mnohonásobně vrátí na ušetřených prostředcích.
 
-Naším cílem je do konce roku 2015 založit organizaci, která nám pomůže
-zajistit otevřené fungování našich radnic, umožní nám lépe sdílet zkušeností,
-sjednotí úsilí o otevřenější fungování radnic a
-bude světlem v šerých oblastech, jejichž nástrahy zastupitelé
-v různých městech znovu a znovu odhalují. Mezi prvními cíli organizace
-bude definice standardu pro zveřejňování smluv a faktur, otevřená data a
-návody k zavedení dobré praxe při použití open-source (viz [cíle](/cile/) podrobně).
-
 <a href="/clenstvi/" class="button expand success">Stát se členem!</a>
