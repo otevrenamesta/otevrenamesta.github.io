@@ -1,0 +1,32 @@
+---
+layout:       blog
+title:        NEWSLETTER PROSINEC 2017 - BŘEZEN 2018
+---
+Praha 7 v CityVizoru
+-
+Do rozklikávacího rozpočtu CityVizor byl v březnu připojen další člen Otevřených měst, městská část Praha 7.  Data Prahy 7 si můžete prohlédnout na www.cityvizor.cz/praha7, [tiskovou zprávu](https://www.praha7.cz/na-hospodareni-prahy-7-dohlizi-cityvizor/) na webu Prahy 7. Pracujeme také na připojení dalších členských měst.
+
+Prahu 7 jsme připojili díky spolupráci Otevřených měst s IT firmou Internet Stream, s níž má pozitivní zkušenost hned několik členských měst. Díky této spolupráci jsme schopni transformovat data ze souboru formátu kxx, který je generován účetními systémy, do csv tabulky, kterou následně CityVizor vizualizuje.  Vzhledem k nákladům spojeným s touto transformací již není CityVizor zdarma pro všechna města, ale pouze pro členy Otevřených měst. Pokud je nicméně město schopno samo dodat data v požadované csv tabulce (jako například Uherský Brod), bude připojeno i nadále zdarma. 
+
+Našim cílem je nyní připojit všechny existující členy Otevřených měst, kteří o to budou mít zájem a také aplikaci dále rozvíjet. Již jsme zaslali datovou zprávu všem členům s informací o možnosti připojit se k aplikaci. Dále vyvíjíme možnost fulltextového vyhledávání v aplikaci a také možnost filtrovat faktury podle dodavatele. Připravujeme také jednoduchý návod pro ty, kteří aplikaci spustí poprvé.
+
+Konference o GDPR
+-
+Otevřená města společne se spolkem Iuridicum Remedium a poslancem Ondřejem Profantem pořádala seminář o povinnostech obecních úřadů plynoucích ze zavádění obecného nařízení o ochraně osobních údajů (GDPR). V několika tematických blocích vystoupili jako řečníci kromě Ondřeje Profanta i Helena Svatošová a Jan Vobořil z Iuridicum Remedium a Dan Jiránek, zástupce výkonného ředitele Svazu města a obcí. Zájem o seminář projevilo několik desítek lidí.
+
+[Podklady ze semináře](https://www.profant.eu/soukrom%C3%AD/2018/03/12/seminar-gdpr.html) jsou k dispozici ke stažení stejně jako [analýza obsahující také manuál pro obce](https://github.com/Kedrigern/Kedrigern.github.io/blob/master/assets/md/gdpr-analyza.md). Tato analýza byla rovněž distribuována jednotlivým členským obcím a městům.
+
+Konference Inspirujme se a Open Data Expo
+-
+Zástupci Otevřených měst vystoupili v únoru hned na dvou konferencích. Na konferenci [Inspirujme se městy a regiony](https://www.inspirujmese.cz/cs) představil Daniel Kolář aplikaci CityVizor ([prezentace](https://www.inspirujmese.cz/sites/www.inspirujmese.cz/files/3_2_cityvizor_prezentace_kolar_v2.pdf) a Ladislav Nešněra v prezentaci [Přes GDPR k otevřeným datům] (https://www.inspirujmese.cz/sites/www.inspirujmese.cz/files/1_2_inspirujme_se_2018_otevrena_mesta.pdf ) představil fungování spolku a také možnosti, jak mohou obce a města otevírat data díky katalogu CKAN. V této souvislosti stojí za zmínku, že město Brno [spustilo svůj datový portál](https://www.lupa.cz/aktuality/brno-spustilo-portal-s-daty-o-meste-nabizi-i-data-operatoru-o-pohybu-obyvatel), na kterém se spolek podílel poskytnutím technického a odborného zázemí v přípravné a testovací fázi projektu. Případným zájemcům o zveřejňování dat nabízíme podporu.
+
+Na konferenci Open Data Expo, kterou pořádá Fond Otakara Motejla, vystopil v sekci Jak se otevírají města Ladislav Nešněra, kde představil činnost a cíle spolku. V následné části nazvané Expo měla  Otevřená města společný stolek s Novým Městem na Moravě. V této části představili Daniel Kolář a Zbyněk Grepl zájemcům projekty Otevřených měst, největší zájem byl ze strany veřejnosti byl o aplikaci CityVizor. Záznam celé konference je dostupný na https://opendataexpo.osf.cz/.
+
+Sběr nápadů pro hackathon Kóduj pro Česko!
+-
+Fond Otakara Motejla organizuje další ročník opendatového hackathonu. Cílem bude vývoj a úprava nástrojů a scriptů, které by měly konkrétním městům a obcím pomoct s přípravou dat na jejich otevření a publikaci, případně s využíváním otevřených technologií obecně. Všechny výstupy budou open source a po hackahtonu budou k dispozici, aby na nich mohli zájemci dále pracovat.
+
+Máte-li tip na nástroj, který by vašemu městu pomohl a který by mohl být na hackathonu vyvinut, prosím kontaktujte Fond prostředníctvím [tohoto formuláře](https://goo.gl/forms/HhVZaR8xKB7lScXw2).
+
+vpsFree - pokračující spolupráce
+Činnost spolku je silně závislá na technickém zázemí a jeho schopnosti dynamické reakce na aktuální potřeby. Z kapacitního hlediska nepociťujeme žádná omezení díky již druhým rokem trvající podpoře ze strany vpsFree – spolku založeném v roce 2008 za účelem hostování virtuálních serverů. Dle průzkumu trhu se jedná o 20-200 tisícovou úsporu pro náš rozpočet a nepřekvapí, že na cenových protipólech stojí otevřené versus uzavřené technologie. Čerstvé prodloužení spolupráce nás těší o to víc, že stavíme na [stejných principech](https://vpsfree.cz/o-vpsfree/).
