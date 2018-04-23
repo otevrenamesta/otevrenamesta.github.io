@@ -28,7 +28,7 @@ Brno | 376929 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládaj
 Brno-Medlánky | 5327 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
 Brno-střed | 82660 | 7116 | 89776 | 44888 | 67332 | Svatopluk Bartík | 300 | zakládající
 Černošice | 6902 | 248 | 7150 | 7150 | 10725 | Tomáš Kratochvíl | 85 | zakládající
-Kutná Hora | 19722 | 1085 | 20807 | 20807 | 31210,5 | Lukáš Jelínek | 144 | 2016-06
+Kutná Hora | 19722 | 1085 | 20807 | 20807 | 31210,5 | Radim Fedorovič | 144 | 2016-06
 Nové Město na Moravě | 9954 | 134 | 10088 | 10088 | 15132 | Michal Šmarda | 100 | zakládající
 Praha 5 | 72984 | 14991 | 87975 | 87975 | 131962,5 | Viktor Čahoj | 297 | zakládající
 Praha 7 | 37707 | 7473 | 45180 | 45180 | 67770 | Ondřej Profant | 213 | 2016-06
