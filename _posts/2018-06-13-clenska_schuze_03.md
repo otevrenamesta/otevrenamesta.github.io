@@ -4,8 +4,6 @@ title:        Členská schůze Otevřených měst &num;3 | Praha
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na třetí členskou schůzi, která proběhne **28. 6. v Praze od 10:00**.
 
-## !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! ##
-
 Členská schůze se uskutečnı́ v místnosti 330 **Úřadu městské části Praha 5** na **[náměstí 14. října 1381/4](https://www.openstreetmap.org/?mlat=50.07301&mlon=14.40707#map=17/50.07301/14.40707)**.
 
 Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:
