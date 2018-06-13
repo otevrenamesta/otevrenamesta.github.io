@@ -4,7 +4,7 @@ title:        Členská schůze Otevřených měst &num;3 | Praha
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na třetí členskou schůzi, která proběhne **28. 6. v Praze od 10:00**.
 
-== !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! ==
+## !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! DRAFT !!! ##
 
 Členská schůze se uskutečnı́ v místnosti 330 **Úřadu městské části Praha 5** na **[náměstí 14. října 1381/4](https://www.openstreetmap.org/?mlat=50.07301&mlon=14.40707#map=17/50.07301/14.40707)**.
 
@@ -47,4 +47,4 @@ Těšíme se na setkání!
 [Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)
 
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Praha_5,_town_hall2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Praha_5%2C_town_hall2.jpg/640px-Praha_5%2C_town_hall2.jpg" alt="Radnice Prahy 5" width="640"></a><br><a title="Od Jan Záruba [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) nebo CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], z Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Praha_5,_town_hall2.jpg"><img width="512" alt="Praha 5, town hall2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Praha_5%2C_town_hall2.jpg/512px-Praha_5%2C_town_hall2.jpg"></a></p>
+<p><a title="Od Jan Záruba [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) nebo CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], z Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Praha_5,_town_hall2.jpg"><img width="640" alt="Praha 5, town hall2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Praha_5%2C_town_hall2.jpg/512px-Praha_5%2C_town_hall2.jpg"></a></p>
