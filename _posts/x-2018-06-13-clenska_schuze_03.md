@@ -1,5 +1,5 @@
 ---
-layout:       Xblog
+layout:       blog
 title:        Členská schůze Otevřených měst &num;3 | Praha
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na třetí členskou schůzi, která proběhne **28. 6. v Praze od 10:00**.
