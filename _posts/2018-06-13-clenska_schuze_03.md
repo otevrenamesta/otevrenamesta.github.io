@@ -21,13 +21,13 @@ bod | kdy | co | zpravodaj
 4 | 10:45 | volba výboru a předsedy | členové
 5 | 11:15 | priority projektů spolku pro následující období (nové návrhy členů) | Marcel Kolaja
 6 | 11:30 | přestávka/oběd |
-7 | 13:00 - 14:30 | prezentace různých projektů z oblastí IT přínosná pro členy Otevřených měst |
+7 | 13:00 - 14:30 | prezentace vybraných projektů z oblasti ICT přínosných pro členy Otevřených měst |
  | 13:00 | představení Portálu občana z MVČR | Ondřej Profant
  | 13:30 | co se na poli otevřenosti podařilo Brnu | Jiří Ulip
  | 14:00 | analýza dodavatele | EconLab
 8 | 14:30 - 16:00 | projekty na stole |
  | | CityVizor | Daniel Kolář, Ondřej Profant
- | | weby Wordpress Praha 7 a PaRo Brno | Daniel Kolář, Ladislav Nešněra, Ondřej Profant
+ | | weby Wordpress Praha 7 a PaRo Brno | Ladislav Nešněra, Ondřej Profant
  | | OpenData dashboard | Ladislav Nešněra, Jiří Ulip
  | | KnowledgeBase | Ladislav Nešněra, Ondřej Profant
  | | IoT | Zbyněk Grepl, Ladislav Nešněra
