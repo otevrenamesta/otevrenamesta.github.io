@@ -31,10 +31,10 @@ bod | kdy | co | zpravodaj
  | | ..
 8 | 16:00 | ukončení
 
-Tradičně si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,...), nebo byly uvedeny v usnesenı́ zastupitelstva.
+Tradičně si dovolujeme upozornit na skutečnost, že hlasovat mohou pouze osoby, které doložily nebo nejpozději na členské schůzi doložı́ své oprávněnı́ zastupovat člena na členské schůzi. Netýká se osob, které jsou zastupujı́cı́mi dle Zákona o obcı́ch (např. starosta, mı́stostarosta,...), nebo byly uvedeny v&nbsp;usnesenı́ zastupitelstva.
 
 Členské schůze bude možné se účastnit také s využitı́m videokonference [Jitsi](https://en.wikipedia.org/wiki/Jitsi) Meet na adrese [https://meet.jit.si/OM-20180628](https://meet.jit.si/OM-20180628). Vzdáleně
-bude možné hlasovat pouze pomocí [sítě Tox](https://cs.wikipedia.org/wiki/Tox). Žádáme členy, kteří plánují účastnit se členské schůze vzdáleně, aby nám pro účely hlasování na členské schůzi 28. června 2018 nejpozději do 20. června 2018 zaslali zprávou z&nbsp;oficiálního účtu datových schránek člena Tox ID, ze&nbsp;kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná.
+bude možné hlasovat pouze pomocí [sítě Tox](https://cs.wikipedia.org/wiki/Tox). Žádáme členy, kteří plánují účastnit se členské schůze vzdáleně, aby nám pro účely hlasování na členské schůzi 28.&nbsp;června 2018 nejpozději do 20. června 2018 zaslali zprávou z&nbsp;oficiálního účtu datových schránek člena Tox ID, ze&nbsp;kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná.
 
 Klienta pro Tox můžete stáhnout na adrese [https://tox.chat/download.html](https://tox.chat/download.html).
 Základní návod je k dispozici na adrese [https://cs.wikibooks.org/wiki/Tox](https://cs.wikibooks.org/wiki/Tox).
