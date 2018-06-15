@@ -45,8 +45,7 @@ Těšíme se na setkání!
 
 
 
-[Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)
-
+[Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)<br />
 [Oficiální pozvánka](https://gitlab.com/otevrenamesta/documents/raw/master/schuze/2018_06_28/pozvanka/pozvanka.pdf)
 
 
