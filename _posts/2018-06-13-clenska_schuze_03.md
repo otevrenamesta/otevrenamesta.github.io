@@ -26,7 +26,7 @@ bod | kdy | co | zpravodaj
  | | CityVizor | Daniel Kolář, Ondřej Profant
  | | weby Wordpress Praha 7 a PaRo Brno | Ladislav Nešněra, Ondřej Profant
  | | OpenData dashboard | Ladislav Nešněra, Jiří Ulip
- | | KnowledgeBase | Ladislav Nešněra, Ondřej Profant
+ | | KnowledgeBase | Wikimedia ČR, Ladislav Nešněra
  | | IoT | Zbyněk Grepl, Ladislav Nešněra
  | | ..
 8 | 16:00 | ukončení
