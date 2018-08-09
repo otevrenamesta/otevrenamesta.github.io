@@ -76,7 +76,7 @@ obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | př
 
 subjekt | zastupuje | stav
 --- | --- | ---
-- | - | -
+&nbsp;&nbsp;&ndash; | |
 
 <!--
 &nbsp;&nbsp;&ndash; |  |
