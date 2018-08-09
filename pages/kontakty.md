@@ -46,9 +46,8 @@ Kontakty na vybrané členy pracovního týmu, kteří se věnují konkrétní o
 Oblast zájmu | Kontaktní osoba
 --- | ---
 Projekt Cityvizor | Daniel Kolář, <daniel.kolar@otevrenamesta.cz>, +420 608 168 479
-Webové stránky spolku | Václav Klecanda, <vaclav.klecanda@pirati.cz>
 E-mailová konference | Ladislav Něšněra, <ladislav.nesnera@otevrenamesta.cz>
-Stanovy | Jakub Michálek, <jakub.michalek@pirati.cz>
+Stanovy | Jakub Michálek, <michalekj@psp.cz>
 
 ## Kontrolor
 
@@ -61,7 +60,7 @@ Pro zlepšení komunikace přinášíme i kontakt na některé samosprávy:
 Samospráva | Kontaktní osoba
 --- | ---
 MČ Praha 6 | Oldřich Kužílek, <kuzilek@otevrete.cz>
-MČ Praha 7 | Ondřej Profant, <ondrej.profant@pirati.cz>
+MČ Praha 7 | Ondřej Profant, <ondrej.profant@otevrenamesta.cz>
 Brno Střed | Svatopluk Bartík, <svatopluk.bartik@gmail.com>
 Brno | Jiří Ulip, <ulip.jiri@brno.cz>
 
