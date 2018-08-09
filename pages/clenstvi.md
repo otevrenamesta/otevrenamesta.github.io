@@ -76,9 +76,9 @@ obec | obyvatel | přepočet | členský příspěvek | zastupuje | hlasů | př
 
 subjekt | zastupuje | stav
 --- | --- | ---
-Nadace Charty 77 | Petr Hazuza | v jednání
+- | - | -
 
 <!--
 &nbsp;&nbsp;&ndash; |  |
 -->
-*Seznam je průběžně aktualizován (2018-03-25)*
+*Seznam je průběžně aktualizován (2018-08-09)*
