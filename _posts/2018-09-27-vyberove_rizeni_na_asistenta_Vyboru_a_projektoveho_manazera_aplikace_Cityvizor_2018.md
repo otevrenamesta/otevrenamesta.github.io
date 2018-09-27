@@ -1,6 +1,6 @@
 ---
 layout:       blog
-title:        Výběrové řízení na asistenta Výboru a projektového manažera aplikace CityVizor (2018)
+title:        Výběrové řízení na asistenta Výboru a projektového manažera aplikace CityVizor
 ---
 Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta Výboru a projektového manažera aplikace [CityVizor](https://cityvizor.cz/), která slouží jako transparentní dashboard obce.
 
