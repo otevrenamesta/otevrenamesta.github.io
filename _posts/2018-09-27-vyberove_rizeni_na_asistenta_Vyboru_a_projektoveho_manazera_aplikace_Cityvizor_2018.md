@@ -31,7 +31,7 @@ Požadujeme:
 - schopnost učit se moderním technologiím
 - výbornou znalost českého jazyka, schopnost kvalitního samostatného písemného projevu
 - spolehlivost, důvěryhodnost a pečlivost
-- ztotožnění s cíli spolku (viz. [Stanovy](https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf))
+- ztotožnění se s cíli spolku (viz. [Stanovy](https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf))
 - znalost ekonomického názvosloví v rozsahu užití v CityVizor výhodou, stejně jako práce s [Gitem](https://cs.wikipedia.org/wiki/Git) či odlehčeným značkovacím jazykem typu [Markdown](https://cs.wikipedia.org/wiki/Markdown)/[Wikitext](https://cs.wikipedia.org/wiki/Wikitext)
 - čestné prohlášení o trestní bezúhonnosti (o čistém trestním rejstříku)
 
