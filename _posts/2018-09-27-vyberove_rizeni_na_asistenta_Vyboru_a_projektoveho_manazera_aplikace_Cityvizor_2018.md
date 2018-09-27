@@ -43,4 +43,4 @@ V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiál
 
 Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit [emailem či telefonicky](/kontakty/).
 Poptávaná činnost bude provedena formou Dohody o provedení práce a vykazována v systému Redmine.
-Nabídku nám, prosím, zašli do **21. září 2018** včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Asistent a projektový manager CityVizor)**.
+Nabídku nám, prosím, zašli do **21. října 2018** včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Asistent a projektový manager CityVizor)**.
