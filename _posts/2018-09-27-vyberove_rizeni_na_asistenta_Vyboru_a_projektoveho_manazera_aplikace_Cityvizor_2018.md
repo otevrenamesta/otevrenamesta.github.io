@@ -16,11 +16,11 @@ Poptávaná činnost:
 - analytické práce
 
 Nabízíme:
-- 200-250 Kč/h při minimálním rozsahu 30 h/měsíčně, očekávaný rozsah 50 h/měsíčně. Maximální rozsah dle dohody a časových možností. Přesná hodinová odměna dle zkušeností
+- 200-250 Kč/h na IČo při minimálním rozsahu 30 h/měsíčně, očekávaný rozsah 50 h/měsíčně. Maximální rozsah dle dohody a časových možností. Přesná hodinová odměna dle zkušeností
 - v případě hlubšího zapojení do činnosti spolku kariérní i finanční růst
 - možnost podílet se na realizaci aktivit spolku Otevřených měst
 - práce ve skvělém kolektivu, který má snahu něco změnit
-- práci z domova (jednání výboru probíhají 1x za 14 dnů pomocí [Jitsi Meet](https://en.wikipedia.org/wiki/Jitsi#Jitsi_Meet), na [rychlé zprávy](https://cs.wikipedia.org/wiki/Instant_messaging) máme [Riot](https://en.wikipedia.org/wiki/Matrix_(communication_protocol)#Clients)
+- práci z domova (jednání výboru probíhají 1x za 14 dnů pomocí [Jitsi Meet](https://en.wikipedia.org/wiki/Jitsi#Jitsi_Meet), na [rychlé zprávy](https://cs.wikipedia.org/wiki/Instant_messaging) máme [Riot](https://en.wikipedia.org/wiki/Matrix_(communication_protocol)#Clients))
 - seznámení se s otevřenými technologiemi, které spolek využívá
 - nástup **1. listopadu 2018**
 
@@ -33,7 +33,6 @@ Požadujeme:
 - spolehlivost, důvěryhodnost a pečlivost
 - ztotožnění se s cíli spolku (viz. [Stanovy](https://gitlab.com/otevrenamesta/documents/blob/a6c70d153b91cf1c7d125c869608fb964114c1e5/listiny/stanovy.pdf))
 - znalost ekonomického názvosloví v rozsahu užití v CityVizor výhodou, stejně jako práce s [Gitem](https://cs.wikipedia.org/wiki/Git) či odlehčeným značkovacím jazykem typu [Markdown](https://cs.wikipedia.org/wiki/Markdown)/[Wikitext](https://cs.wikipedia.org/wiki/Wikitext)
-- čestné prohlášení o trestní bezúhonnosti (o čistém trestním rejstříku)
 
 Zasílání nabídek:
 
