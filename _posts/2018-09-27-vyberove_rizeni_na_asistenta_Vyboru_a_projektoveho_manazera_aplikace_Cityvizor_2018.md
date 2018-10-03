@@ -1,18 +1,18 @@
 ---
 layout:       blog
-title:        Výběrové řízení na asistenta Výboru a projektového manažera aplikace CityVizor
+title:        Výběrové řízení na asistenta výboru a projektového manažera aplikace CityVizor
 ---
-Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta Výboru a projektového manažera aplikace [CityVizor](https://cityvizor.cz/), která slouží jako transparentní dashboard obce.
+Otevřená města, z. s. vyhlašují prostřednictvím výboru výběrové řízení na asistenta výboru a projektového manažera aplikace [CityVizor](https://cityvizor.cz/), která slouží jako transparentní dashboard obce.
 
 Poptávaná činnost:
 - aktivní oslovování obcí k účasti v aplikaci [CityVizor](https://cityvizor.cz/)
 - aktivní oslovování obcí k účasti ve spolku Otevřených měst
 - komunikace s obcemi ohledně provozu aplikace CityVizor (první úroveň podpory)
 - komunikace s členskými obcemi ohledně provozu spolku
-- projektové řízení vývoje aplikace CityVizor (kontakt s programátory, grafiky, Výborem, obcemi, sběr změnových požadavků apod. viz. [Redmine](https://bit.ly/2wC4wf7)
+- projektové řízení vývoje aplikace CityVizor (kontakt s programátory, grafiky, výborem, obcemi, sběr změnových požadavků apod. viz. [Redmine](https://bit.ly/2wC4wf7))
 - příprava propagace aplikace CityVizor (zajišťování účasti na konferencích apod.)
 - po zaškolení obsluha CityVizoru na úrovni správy vstupních dat a základní administrace systému
-- pomoc s administrativou Výboru (zápisy, hlídání plnění úkolů, obsluha datové schránky) a textovými výstupy spolku (newsletter, mailing list)
+- pomoc s administrativou výboru (zápisy, hlídání plnění úkolů, obsluha datové schránky) a textovými výstupy spolku (newsletter, mailing list)
 - analytické práce
 
 Nabízíme:
@@ -41,5 +41,5 @@ V nabídce nám, prosím, zašli v jednom PDF dokumentu následující materiál
 2. svůj životopis
 
 Pokud máš zájem o upřesnění informací, neváhej se na nás obrátit [emailem či telefonicky](/kontakty/).
-Poptávaná činnost bude provedena formou Dohody o provedení práce a vykazována v systému Redmine.
-Nabídku nám, prosím, zašli do **21. října 2018** včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu **[vybor@otevrenamesta.cz](mailto:vybor@otevrenamesta.cz?subject=Asistent a projektový manager CityVizor)**.
+Poptávaná činnost bude zadávána a vykazována v systému [Redmine](https://cs.wikipedia.org/wiki/Redmine).
+Nabídku nám, prosím, zašli do **21. října 2018** včetně, do týdne se ti ozveme ohledně dalšího postupu. Nabídku pošli na adresu **[info@otevrenamesta.cz](mailto:info@otevrenamesta.cz?subject=Asistent a projektový manager CityVizor)**.
