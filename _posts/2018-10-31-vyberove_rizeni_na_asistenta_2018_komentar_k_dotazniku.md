@@ -4,12 +4,11 @@ title:        Komentář k dotazníku na asistenta výboru a projektového mana�
 ---
 
 Správné odpovědi:
-<ol start="5">
-<li> Co jsou otevřená data?</li>
+<ol start="5"><li>Co jsou otevřená data?</li></ol>
 - šlo použít [příslušný článek](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data) ve Wikipedii nebo znění právní úpravu dle [§ 3 odst. 11 zákona č. 106/1999 Sb. o svobodném přístupu k informacím](https://www.zakonyprolidi.cz/cs/1999-106#p3-11). My za podstatné rysy považujeme ".. informace zveřejňované způsobem umožňujícím **dálkový** přístup v **otevřeném** a **strojově čitelném** formátu, jejichž způsob ani účel následného využití **není omezen** a které jsou **evidovány** v národním katalogu otevřených dat." (Poslední bylo bráno jako bonus, protože jsme se neptatli na české specifikum, podobně jako předchozí, kde obecněji postačuje uvedení podmínek užití.)
-<li>Co má udělat obec pro zapojení se do aplikace CityVizor?</li>
+<ol start="6"><li>Co má udělat obec pro zapojení se do aplikace CityVizor?</li></ol>
 - na [první stránce webu](https://cityvizor.cz/) je „cityvizor@otevrenamesta.cz“ (tedy referovaná odpověď), ale zafungovalo by i kontaktování výboru (proto uznávaná odpověď). Formulář dosud žádný nemáme
-<li>Za obec může o vstup do spolku Otevřených měst rozhodnout</li>
+<ol start="7"><li>Za obec může o vstup do spolku Otevřených měst rozhodnout</li></ol>
 - zastupitelstvo
 8. e-mail
 - byly dvě možnosti – epodatelna@loket.cz, případně mesto@loket.cz. Často se pletlo město a obec Loket, případně jste natrefili na [web informačního centra](https://www.infocentrumloket.cz/)
