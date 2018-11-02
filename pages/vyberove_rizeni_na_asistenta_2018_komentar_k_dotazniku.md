@@ -1,5 +1,5 @@
 ---
-layout:       blog
+layout:       default
 title:        Komentář k dotazníku na asistenta výboru a projektového manažera aplikace CityVizor
 ---
 
