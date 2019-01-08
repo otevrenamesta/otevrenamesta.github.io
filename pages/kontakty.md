@@ -33,11 +33,11 @@ Otevřená města, z. s.
 
 jméno | funkce | kontakt
 --- | --- | ---
-Bc. Marcel Kolaja | předseda výboru | <marcel.kolaja@otevrenamesta.cz>
+Ondřej Profant | předseda výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
 Zbyněk Grepl | člen výboru | zbynek.grepl@meu.nmnm.cz |
+Bc. Marcel Kolaja | člen výboru | <marcel.kolaja@otevrenamesta.cz>
 Ladislav Nešněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
 Radomír Palovský | člen výboru | <radomir.palovsky@praha5.cz> | 
-Ondřej Profant | člen výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
 
 ## Pracovní tým
 
@@ -45,7 +45,7 @@ Kontakty na vybrané členy pracovního týmu, kteří se věnují konkrétní o
 
 Oblast zájmu | Kontaktní osoba
 --- | ---
-Projekt Cityvizor | Daniel Kolář, <daniel.kolar@otevrenamesta.cz>, +420 608 168 479
+Projekt CityVizor | Pavla Kadlecová, <pavla.kadlecova@otevrenamesta.cz>
 E-mailová konference | Ladislav Něšněra, <ladislav.nesnera@otevrenamesta.cz>
 Stanovy | Jakub Michálek, <michalekj@psp.cz>
 
