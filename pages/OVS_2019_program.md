@@ -10,7 +10,7 @@ title:        Otevřená veřejná správa prakticky - program
 </head>
 -->
 
-<div style="text-align:center;"><h3>PROGAM</h3>
+<div style="text-align:center;"><h3>PROGRAM</h3>
 Pardubice 2019-02-26
 </div>
 
