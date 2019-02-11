@@ -27,6 +27,6 @@ title:        Otevřená veřejná správa prakticky - program
 
 <div style="text-align:center;">
 <b>Z kapacitních důvodů akce vyžaduje<br>
-<a href="https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019">registraci nejpozději do 21. února</href><br>
+<a href="https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019">registraci nejpozději do 21. února</a><br>
 Notebook nenechávejte doma!</b>
 </div>
