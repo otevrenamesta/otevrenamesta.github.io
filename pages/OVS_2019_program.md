@@ -11,7 +11,7 @@ title:        Otevřená veřejná správa prakticky - program
 -->
 # Otevřená veřejná správa prakticky
 
-<div style="text-align:right;"><h3>PROGAM</h3></div>
+<div style="text-align:center;"><h3>PROGAM</h3></div>
 
 čas | název / obsah | kdo / organizace
 --- | --- | ---
@@ -25,8 +25,8 @@ title:        Otevřená veřejná správa prakticky - program
 60 | __Slasti a strasti obecního ICT__ <br> Sdílení praktických zkušeností a rozbor stávajícího i očekávaného stavu ICT v malých moderovaných týmech. Částečně formou Design studia s důrazem na rozšíření znalostní báze a navázání expertních vztahů. | účastníci a moderátoři
 17:00 | volné pokračování v prostorách [Pivovaru Pardubice](http://www.pivovarka.cz/) |
 
-<div style="text-align:right;">
+<div style="text-align:center;">
 <b>Z kapacitních důvodů akce vyžaduje<br>
-<a href="https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019">registraci nejpozději do 21. února</href>]
+<a href="https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019">registraci nejpozději do 21. února</href><br>
 Notebook nenechávejte doma!</b>
 </div>
