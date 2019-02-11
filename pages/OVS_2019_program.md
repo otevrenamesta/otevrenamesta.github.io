@@ -11,7 +11,7 @@ title:        Otevřená veřejná správa prakticky - program
 -->
 # Otevřená veřejná správa prakticky
 
-<div style="text-align:right;">## PROGAM</div>
+<div style="text-align:right;"><h3>PROGAM</h3></div>
 
 čas | název / obsah | kdo / organizace
 --- | --- | ---
@@ -26,7 +26,7 @@ title:        Otevřená veřejná správa prakticky - program
 17:00 | volné pokračování v prostorách [Pivovaru Pardubice](http://www.pivovarka.cz/) |
 
 <div style="text-align:right;">
-__Z kapacitních důvodů akce vyžaduje
-[registraci nejpozději do 21. února](https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019)
-Notebook nenechávejte doma!__
+<b>Z kapacitních důvodů akce vyžaduje<br>
+<a href="https://ec.europa.eu/eusurvey/runner/RegistracniformularPardubice2019">registraci nejpozději do 21. února</href>]
+Notebook nenechávejte doma!</b>
 </div>
