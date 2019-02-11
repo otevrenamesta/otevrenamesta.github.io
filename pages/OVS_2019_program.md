@@ -9,9 +9,10 @@ title:        Otevřená veřejná správa prakticky - program
 <p>Nebudete-li automaticky přesměrování, klikněte, prosím, na <a href="https://www.otevrenamesta.cz">odkaz</a></p>
 </head>
 -->
-# Otevřená veřejná správa prakticky
 
-<div style="text-align:center;"><h3>PROGAM</h3></div>
+<div style="text-align:center;"><h3>PROGAM</h3>
+Pardubice 2019-02-26
+</div>
 
 čas | název / obsah | kdo / organizace
 --- | --- | ---
