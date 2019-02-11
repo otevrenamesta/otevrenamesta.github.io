@@ -4,10 +4,11 @@ title:        Otevřená veřejná správa prakticky - program
 ---
 
 <head>
-<meta http-equiv="refresh" content="0; url=https://www.otevrenamesta.cz" />
+<meta http-equivv="refresh" content="0; url=https://www.otevrenamesta.cz" />
+<p>Nebudete-li automaticky přesměrování, klikněte, prosím, na <a href="https://www.otevrenamesta.cz">odkaz</a></p>
 </head>
 
-<p>Nebudete-li automaticky přesměrování, klikněte, prosím, na <a href="https://www.otevrenamesta.cz">odkaz</a></p>
+
 
 
 K dotazníku jako celku:
