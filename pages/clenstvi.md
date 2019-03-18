@@ -63,13 +63,13 @@ obec | občanů | cizinců | obyvatel | přepočet | úhrada | zastupuje | hlas�
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
 Choceń | 8457 | 122 | 8579 | 8579 | 12868.5 | Jiří Pírko | 93 | přijata
 Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331.88 | Štěpan Štrébl | 262 | přijata
-Praha 22 | 10371 | 1108 | 11479 | 11479 | 11479 | Ivo Krátký | 107 | odhlasováno
+Praha&nbsp;22 | 10371 | 1108 | 11479 | 11479 | 11479 | Ivo Krátký | 107 | odhlasováno
 Tábor | 33669 | 685 | 34354 | 34354 | 34354 | Václav Klecanda | 185 | odhlasováno
 &nbsp;&nbsp;&ndash; |  |  |  |  |  |  |  |
 
 <sup>
 <span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
-&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  (oznámení stačí e-mailem odkaz na usnesení případně tatovou schránkou usnesení samotné
+&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  (oznámení stačí e-mailem odkaz na usnesení, případně datovou schránkou usnesení samotné)
 &nbsp;&nbsp;&nbsp;&bull; (obec) **přijata** - rozhodnutím výboru spolku
 &nbsp;&nbsp;&nbsp;&bull; (obec členem) - s právem hlasovat po uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  
 </sup>
