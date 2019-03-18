@@ -69,8 +69,8 @@ Tábor | 33669 | 685 | 34354 | 34354 | 34354 | Václav Klecanda | 185 | odhlasov
 
 <sup>
 <span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
-&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  (oznámení stačí e-mailem odkaz na usnesení, případně datovou schránkou usnesení samotné)
-&nbsp;&nbsp;&nbsp;&bull; (obec) **přijata** - rozhodnutím výboru spolku
+&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  (oznámení stačí e-mailem odkaz na usnesení, případně datovou schránkou usnesení samotné)<br>
+&nbsp;&nbsp;&nbsp;&bull; (obec) **přijata** - rozhodnutím výboru spolku<br>
 &nbsp;&nbsp;&nbsp;&bull; (obec členem) - s právem hlasovat po uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  
 </sup>
 
