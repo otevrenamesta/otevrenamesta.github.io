@@ -85,4 +85,4 @@ subjekt | zastupuje | stav
 <!--
 &nbsp;&nbsp;&ndash; |  |
 -->
-*Seznam je průběžně aktualizován (2019-03-18)*
+*Seznam je průběžně aktualizován (2019-04-17)*
