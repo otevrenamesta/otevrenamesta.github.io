@@ -24,17 +24,18 @@ image:
 
 obec | občanů&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců &nbsp;<sup id="a1">[1](#f1)</sup> | obyvatel | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | členství
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-Brno | 376929 | 28028 | 404957 | 357220 | 535830 | Jiří Ulip | 636 | zakládající
-Brno-Medlánky | 5327 | 371 | 5698 | 2849 | 4273,5 | Kateřina Žůrková | 75 | 2016-07
-Brno-střed | 82660 | 7116 | 89776 | 44888 | 67332 | Svatopluk Bartík | 300 | zakládající
-Černošice | 6902 | 248 | 7150 | 7150 | 10725 | Tomáš Kratochvíl | 85 | zakládající
-Kutná Hora | 19722 | 1085 | 20807 | 20807 | 31210,5 | Lukáš Jelínek | 144 | 2016-06
-Nové Město na Moravě | 9954 | 134 | 10088 | 10088 | 15132 | Michal Šmarda | 100 | zakládající
-Praha 5 | 72984 | 14991 | 87975 | 87975 | 131962,5 | Viktor Čahoj | 297 | zakládající
-Praha 7 | 37707 | 7473 | 45180 | 45180 | 67770 | Ondřej Profant | 213 | 2016-06
-Praha-Ďáblice | 3376 | 251 | 3627 | 3627 | 5440,5 | Radimír Rexa | 60 | 2016-07
-Psáry | 3706 | 237 | 3943 | 3943 | 5914,5 | Vít Olmr | 63 | zakládající
-Úvaly | 6389 | 337 | 6726 | 6726 | 10089 |  Petr Borecký | 82 | 2016-08
+Brno | 377139 | 13307 | 390446 | 344898.5 | 517347.75 | Ondřej Kotas | 625 | zakládající
+Brno-Medlánky | 5340 | 155 | 5495 | 2747.5 | 4121.25 | Kateřina Žůrková | 74 | 2016-07
+Brno-střed | 82984 | 2616 | 85600 | 42800 | 64200 | Patrik Doležal | 293 | zakládající
+Černošice | 7006 | 196 | 7202 | 7202 | 10803 | Tomáš Kratochvíl | 85 | zakládající
+Choceń | 8457 | 122 | 8579 | 8579 | 12868.5 | Jiří Pírko | 93 | 2019-01
+Kutná Hora | 19646 | 548 | 20194 | 20194 | 30291 | Lukáš Jelínek | 142 | 2016-06
+Nové Město na Moravě | 9982 | 90 | 10072 | 10072 | 15108 | Zbyněk Grepl | 100 | zakládající
+Praha 5 | 73107 | 7630 | 80737 | 80737 | 121105.5 | Viktor Čahoj | 284 | zakládající
+Praha 7 | 38112 | 3692 | 41804 | 41804 | 62706 | Ondřej Profant | 204 | 2016-06
+Praha-Ďáblice | 3388 | 142 | 3530 | 3530 | 5295 | Radimír Rexa | 59 | 2016-07
+Psáry | 3747 | 166 | 3913 | 3913 | 5869.5 | Vít Olmr | 63 | zakládající
+Úvaly | 6424 | 253 | 6677 | 6677 | 10015.5 | Petr Borecký | 82 | 2016-08
 
 <sup>
 <span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty z informativních počtů občanů ČR a cizinců k 1. 1. 2018 [zveřejněných na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstva vnitra České republiky [↩](#a1)   
@@ -61,10 +62,11 @@ Oživení o.s. | Martin Kameník
 
 obec | občanů | cizinců | obyvatel | přepočet | úhrada | zastupuje | hlasů | stav&nbsp;<sup id="a6">[6](#f7)</sup>
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-Choceń | 8457 | 122 | 8579 | 8579 | 12868.5 | Jiří Pírko | 93 | přijata
+Praha 1 | 24213 | 2285 | 26498 | 26498 | 26498 | Petr Kučera | 163 | přijata
 Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331.88 | Štěpan Štrébl | 262 | přijata
-Praha&nbsp;22 | 10371 | 1108 | 11479 | 11479 | 11479 | Ivo Krátký | 107 | odhlasováno
-Tábor | 33669 | 685 | 34354 | 34354 | 34354 | Václav Klecanda | 185 | odhlasováno
+Praha 22 | 10371 | 1108 | 11479 | 11479 | 12913.88 | Ivo Krátký | 107 | přijata
+Tábor | 33669 | 685 | 34354 | 34354 | 38648.25 | Václav Klecanda | 185 | přijat
+
 &nbsp;&nbsp;&ndash; |  |  |  |  |  |  |  |
 
 <sup>
