@@ -47,21 +47,9 @@ Oblast zájmu | Kontaktní osoba
 --- | ---
 Projekt CityVizor | Pavla Kadlecová, <pavla.kadlecova@otevrenamesta.cz>
 E-mailová konference | Ladislav Něšněra, <ladislav.nesnera@otevrenamesta.cz>
-Stanovy | Jakub Michálek, <michalekj@psp.cz>
 
 ## Kontrolor
 
 * Bc. Martin Šebek, [kontakt](http://www.mestocernosice.cz/kontakty/mesto-a-mestsky-urad/organizacni-struktura/osoba-bc-martin-sebek-321.html)
-
-## Zakládající samosprávy
-
-Pro zlepšení komunikace přinášíme i kontakt na některé samosprávy:
-
-Samospráva | Kontaktní osoba
---- | ---
-MČ Praha 6 | Oldřich Kužílek, <kuzilek@otevrete.cz>
-MČ Praha 7 | Ondřej Profant, <ondrej.profant@otevrenamesta.cz>
-Brno Střed | Svatopluk Bartík, <svatopluk.bartik@gmail.com>
-Brno | Jiří Ulip, <ulip.jiri@brno.cz>
 
 Uveřejňované [dokumenty jsou na této stránce](/dokumenty/).
