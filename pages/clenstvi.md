@@ -66,7 +66,6 @@ Oživení o.s. | Martin Kameník
 obec | občanů | cizinců | obyvatel | přepočet | úhrada | zastupuje | hlasů | stav&nbsp;<sup id="a6">[6](#f7)</sup>
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
 Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331.88 | Štěpan Štrébl | 262 | přijata
-
 &nbsp;&nbsp;&ndash; |  |  |  |  |  |  |  |
 
 <sup>
