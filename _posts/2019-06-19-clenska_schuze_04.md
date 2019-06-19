@@ -44,7 +44,7 @@ Těšíme se na setkání!
 
 
 [Seznam členů a jejich zástupců](http://www.otevrenamesta.cz/clenstvi/#Seznam_členů)<br />
-[Oficiální pozvánka](https://gitlab.com/otevrenamesta/documents/raw/master/schuze/2018_06_28/pozvanka/pozvanka.pdf)
+[Oficiální pozvánka](https://gitlab.com/otevrenamesta/documents/blob/master/schuze/2019_06_25/clenska_schuze-2019_06_25-pozvanka.pdf)
 
 
-<p><img width="640" alt="Galerie 1, Praha 1" src="https://www.praha1.cz/app/uploads/2019/04/Galerie-768x512.jpg"></a></p>
+<p><img width="640" alt="Galerie 1, Praha 1" src="https://www.praha1.cz/app/uploads/2019/04/Galerie-768x512.jpg"></p>
