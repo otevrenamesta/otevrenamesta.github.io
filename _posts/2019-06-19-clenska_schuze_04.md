@@ -2,7 +2,7 @@
 layout:       blog
 title:        Členská schůze Otevřených měst &num;4 | Praha
 ---
-Zveme členy, zájemce o členství i ostatní příznivce na členskou schůzi, která proběhne v úterý **25. června 2019** v Praze.
+Zveme členy, zájemce o členství i ostatní příznivce na členskou schůzi, která proběhne v&nbsp;úterý&nbsp;**25.&nbsp;června&nbsp;2019** v Praze.
 
 Členská schůze se uskuteční v čase od **10:00 do 16:00** v prostorech **Galerie 1**, **[Štěpánská 47](https://www.openstreetmap.org/?mlat=50.07966&mlon=14.42564#map=17/50.07967/14.42564&layers=N)**, Praha 1.
 
@@ -33,25 +33,25 @@ bod | kdy | co | zpravodaj
 
 bod | kdy | co | zpravodaj
 --- | --- | --- |
-|0.375|otevření místnosti|
-|0.395833333333333|začátek registrace účastníků|
-|0.413194444444444|konec registrace účastníků|
-1|0.416666666666667|schválení programu schůze|členové
-2|0.423611111111111|zpráva předsedy o činnosti|O. Profant
-3|0.447916666666667|úprava stanov (zrušení přechodného bodu)|L. Nešněra/členové
-4|0.458333333333333|volba předsedy a doobsazení výboru|členové
-5|0.479166666666667|výměna informací a koordinace činnosti obec <> spolek|L. Nešněra
-|0.489583333333333|oběd|
-"6|0.520833333333333|workshop:
- sdílení pozitivních zkušeností členů + problémy k řešení|členové"
-|0.604166666666667|pauza|
+bod|kdy|co|zpravodaj
+|09:00|otevření místnosti|
+|09:30|začátek registrace účastníků|
+|09:55|konec registrace účastníků|
+1|10:00|schválení programu schůze|členové
+2|10:10|zpráva předsedy o činnosti|O. Profant
+3|10:45|úprava stanov (zrušení přechodného bodu)|L. Nešněra/členové
+4|11:00|volba předsedy a doobsazení výboru|členové
+5|11:30|výměna informací a koordinace činnosti obec <> spolek|L. Nešněra
+|11:45|oběd|
+"6|12:30|workshop:<br>sdílení pozitivních zkušeností členů + problémy k řešení|členové"
+|14:30|pauza|
 7|14:45–16:00|rozprava:|
 |(14:45)|CityVizor|Martin Šebek
 |(16:00)|eMMB|Ondřej Kotas
 |(15:15)|participativní rozpočet|Ondřej Kotas
 |(15:30)|možnosti využití dotační podpory z evropských fondů|V. Klecanda
 |(15:45)|ostatní|
-8|0.666666666666667|ukončení|
+8|16:00|ukončení|
 
 Členské schůze se bude možné účastnit také s využitím videokonference [Jitsi](https://en.wikipedia.org/wiki/Jitsi) Meet na adrese [https://meet.jit.si/OM2019](https://meet.jit.si/OM2019). Vzdáleně bude možné hlasovat pouze pomocí [sítě Tox](https://cs.wikipedia.org/wiki/Tox). Žádáme členy, kteří vzdálenou účast plánují, aby nám pro účely hlasování na členské schůzi 25. června 2019 nejpozději do 22. června 2019 zaslali zprávou z oficiálního účtu datových schránek člena Tox ID, ze kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná.
 
