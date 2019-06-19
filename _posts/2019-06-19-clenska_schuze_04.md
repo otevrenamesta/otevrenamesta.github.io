@@ -4,7 +4,7 @@ title:        Členská schůze Otevřených měst &num;4 | Praha
 ---
 Zveme členy, zájemce o členství i ostatní příznivce na členskou schůzi, která proběhne v&nbsp;úterý&nbsp;**25.&nbsp;června&nbsp;2019** v Praze.
 
-Členská schůze se uskuteční v čase od **10:00 do 16:00** v prostorech **Galerie 1**, **[Štěpánská 47](https://www.openstreetmap.org/?mlat=50.07966&mlon=14.42564#map=17/50.07967/14.42564&layers=N)**, Praha 1.
+Členská schůze se uskuteční v čase od **10:00 do 16:00** v prostorech **[Galerie 1](https://www.praha1.cz/kultura/galerie-1/)**, **[Štěpánská 47](https://www.openstreetmap.org/?mlat=50.07966&mlon=14.42564#map=17/50.07967/14.42564&layers=N)**, Praha 1.
 
 Program jednání bude odsouhlasen účastníky na začátku schůze. Předpokládaný průběh je následující:
 
@@ -23,11 +23,11 @@ bod|kdy|co|zpravodaj
 6|12:30|workshop:<br>sdílení pozitivních zkušeností členů + problémy k řešení|členové
 |14:30|pauza|
 7|14:45–16:00|rozprava:|
-|&nbsp;&nbsp;&nbsp;(14:45)|CityVizor|Martin Šebek
-|&nbsp;&nbsp;&nbsp;(16:00)|eMMB|Ondřej Kotas
-|&nbsp;&nbsp;&nbsp;(15:15)|participativní rozpočet|Ondřej Kotas
-|&nbsp;&nbsp;&nbsp;(15:30)|možnosti využití dotační podpory z evropských fondů|V. Klecanda
-|&nbsp;&nbsp;&nbsp;(15:45)|ostatní|
+|(14:45)|&nbsp;&nbsp;&nbsp;CityVizor|Martin Šebek
+|(16:00)|&nbsp;&nbsp;&nbsp;eMMB|Ondřej Kotas
+|(15:15)|&nbsp;&nbsp;&nbsp;participativní rozpočet|Ondřej Kotas
+|(15:30)|&nbsp;&nbsp;&nbsp;možnosti využití dotační podpory z evropských fondů|V. Klecanda
+|(15:45)|&nbsp;&nbsp;&nbsp;ostatní|
 8|16:00|ukončení|
 
 Členské schůze se bude možné účastnit také s využitím videokonference [Jitsi](https://en.wikipedia.org/wiki/Jitsi) Meet na adrese [https://meet.jit.si/OM2019](https://meet.jit.si/OM2019). Vzdáleně bude možné hlasovat pouze pomocí [sítě Tox](https://cs.wikipedia.org/wiki/Tox). Žádáme členy, kteří vzdálenou účast plánují, aby nám pro účely hlasování na členské schůzi 25. června 2019 nejpozději do 22. června 2019 zaslali zprávou z oficiálního účtu datových schránek člena Tox ID, ze kterého bude zástupce člena hlasovat. Jiná forma vzdáleného hlasování nebude možná.
