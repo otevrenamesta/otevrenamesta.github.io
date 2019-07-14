@@ -24,21 +24,22 @@ image:
 
 obec | občanů&nbsp;<sup id="a1">[1](#f1)</sup> | cizinců &nbsp;<sup id="a1">[1](#f1)</sup> | obyvatel | přepočet&nbsp;<sup id="a2">[2](#f2)</sup> | úhrada&nbsp;<sup id="a3">[3](#f3)</sup> | zastupuje | hlasů&nbsp;<sup id="a4">[4](#f4)</sup> | členství
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-Brno | 377139 | 13307 | 390446 | 344898.5 | 517347.75 | Ondřej Kotas | 625 | zakládající
-Brno-Medlánky | 5340 | 155 | 5495 | 2747.5 | 4121.25 | Kateřina Žůrková | 74 | 2016-07
+Brno | 377139 | 13307 | 390446 | 344898,5 | 517347,75 | Ondřej Kotas | 625 | zakládající
+Brno-Medlánky | 5340 | 155 | 5495 | 2747,5 | 4121,25 | Kateřina Žůrková | 74 | 2016-07
 Brno-střed | 82984 | 2616 | 85600 | 42800 | 64200 | Patrik Doležal | 293 | zakládající
 Černošice | 7006 | 196 | 7202 | 7202 | 10803 | Tomáš Kratochvíl | 85 | zakládající
-Choceń | 8457 | 122 | 8579 | 8579 | 12868.5 | Jiří Pírko | 93 | 2019-01
+Choceň | 8457 | 122 | 8579 | 8579 | 12868,5 | Jiří Pírko | 93 | 2019-01
 Kutná Hora | 19646 | 548 | 20194 | 20194 | 30291 | Lukáš Jelínek | 142 | 2016-06
-Nové Město na Moravě | 9982 | 90 | 10072 | 10072 | 15108 | Zbyněk Grepl | 100 | zakládající
-Praha 1 | 24213 | 2285 | 26498 | 26498 | 26498 | Petr Kučera | 163 | 2019-05
-Praha 5 | 73107 | 7630 | 80737 | 80737 | 121105.5 | Viktor Čahoj | 284 | zakládající
+Nové Město na Moravě | 9982 | 90 | 10072 | 10072 | 15108 | Michal Šmarda | 100 | zakládající
+Praha 1  | 24213 | 2285 | 26498 | 26498 | 26498 | Petr Kučera | 163 | 43586
+Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331,88 | Štěpán Štrébl | 262 | 43497
+Praha 5 | 73107 | 7630 | 80737 | 80737 | 121105,5 | Radomír Palovský | 284 | zakládající
 Praha 7 | 38112 | 3692 | 41804 | 41804 | 62706 | Ondřej Profant | 204 | 2016-06
-Praha 22 | 10371 | 1108 | 11479 | 11479 | 12913.88 | Ivo Krátký | 107 | 2019-04
-Praha-Ďáblice | 3388 | 142 | 3530 | 3530 | 5295 | Radimír Rexa | 59 | 2016-07
-Psáry | 3747 | 166 | 3913 | 3913 | 5869.5 | Vít Olmr | 63 | zakládající
-Tábor | 33669 | 685 | 34354 | 34354 | 38648.25 | Václav Klecanda | 185 | 2019-04
-Úvaly | 6424 | 253 | 6677 | 6677 | 10015.5 | Petr Borecký | 82 | 2016-08
+Praha 22 | 10371 | 1108 | 11479 | 11479 | 12913,88 | Ing, Ivo Krátký | 107 | 2019-04
+Praha-Ďáblice | 3388 | 142 | 3530 | 3530 | 5295 | Ing, Jan Hrdlička | 59 | 2016-07
+Psáry | 3747 | 166 | 3913 | 3913 | 5869,5 | Vít Olmr | 63 | zakládající
+Tábor | 33669 | 685 | 34354 | 34354 | 38648,25 | Václav Klecanda | 185 | 2019-04
+Úvaly | 6424 | 253 | 6677 | 6677 | 10015,5 | Petr Borecký | 82 | 2016-08
 
 <sup>
 <span id="f1">1</span> Údaje o počtu obyvatel jsou převzaty z informativních počtů občanů ČR a cizinců k 1. 1. 2018 [zveřejněných na stránkách](http://www.mvcr.cz/clanek/statistiky-pocty-obyvatel-v-obcich.aspx) Ministrstva vnitra České republiky [↩](#a1)   
@@ -65,7 +66,6 @@ Oživení o.s. | Martin Kameník
 
 obec | občanů | cizinců | obyvatel | přepočet | úhrada | zastupuje | hlasů | stav&nbsp;<sup id="a6">[6](#f7)</sup>
 --- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331.88 | Štěpan Štrébl | 262 | přijata
 &nbsp;&nbsp;&ndash; |  |  |  |  |  |  |  |
 
 <sup>
@@ -84,4 +84,4 @@ subjekt | zastupuje | stav
 <!--
 &nbsp;&nbsp;&ndash; |  |
 -->
-*Seznam je průběžně aktualizován (2019-05-24)*
+*Seznam je průběžně aktualizován (2019-07-14)*
