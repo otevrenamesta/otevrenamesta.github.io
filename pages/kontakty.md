@@ -33,11 +33,11 @@ Otevřená města, z. s.
 
 jméno | funkce | kontakt
 --- | --- | ---
-Ondřej Profant | předseda výboru | <ondrej.profant@otevrenamesta.cz> | +420 607 580 015
+Ladislav Nešněra | předseda výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
 Zbyněk Grepl | člen výboru | zbynek.grepl@meu.nmnm.cz |
-Bc. Marcel Kolaja | člen výboru | <marcel.kolaja@otevrenamesta.cz>
-Ladislav Nešněra | člen výboru | <ladislav.nesnera@otevrenamesta.cz> | +420 721 658 256
-Radomír Palovský | člen výboru | <radomir.palovsky@praha5.cz> | 
+Petr Kučera | člen výboru | |
+Vít Olmr | člen výboru | |
+Radomír Palovský | člen výboru | |
 
 ## Pracovní tým
 
