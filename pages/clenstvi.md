@@ -35,6 +35,7 @@ Praha 1  | 24213 | 2285 | 26498 | 26498 | 26498 | Petr Kučera | 163 | 2019-05
 Praha 3 | 62372 | 6233 | 68605 | 68605 | 94331,88 | Štěpán Štrébl | 262 | 2019-02
 Praha 5 | 73107 | 7630 | 80737 | 80737 | 121105,5 | Radomír Palovský | 284 | zakládající
 Praha 7 | 38112 | 3692 | 41804 | 41804 | 62706 | Ondřej Profant | 204 | 2016-06
+Praha 12 | 52021 | 3732 | 55753 | 55753 | 34845,63 | Jan Adamec | 236 | 2019-08
 Praha 22 | 10371 | 1108 | 11479 | 11479 | 12913,88 | Ing, Ivo Krátký | 107 | 2019-04
 Praha-Ďáblice | 3388 | 142 | 3530 | 3530 | 5295 | Ing, Jan Hrdlička | 59 | 2016-07
 Psáry | 3747 | 166 | 3913 | 3913 | 5869,5 | Vít Olmr | 63 | zakládající
@@ -58,30 +59,8 @@ Nadace Charty77 | Petr Hazuza
 OpenAlt z.s. | Ladislav Nešněra
 Oživení o.s. | Martin Kameník
 
-----
-
-## <span id="Seznam_uchazečů">Seznam uchazečů</span>
-
-### o základní členství
-
-obec | občanů | cizinců | obyvatel | přepočet | úhrada | zastupuje | hlasů | stav&nbsp;<sup id="a6">[6](#f7)</sup>
---- | ---:| ---:| ---:| ---:| ---:| --- | ---:| ---
-&nbsp;&nbsp;&ndash; |  |  |  |  |  |  |  |
-
-<sup>
-<span id="f6">6</span> Možné stavy procesu přijímání členů: [↩](#a7)  
-&nbsp;&nbsp;&nbsp;&bull; **odhlasováno** - zastupitelstvem obce  (oznámení stačí e-mailem odkaz na usnesení, případně datovou schránkou usnesení samotné)<br>
-&nbsp;&nbsp;&nbsp;&bull; (obec) **přijata** - rozhodnutím výboru spolku<br>
-&nbsp;&nbsp;&nbsp;&bull; (obec členem) - s právem hlasovat po uhrazení poměrné části příspěvku viz. stanovy odstavec (5.6). Přesuvá se do seznamu členů  
-</sup>
-
-### o přidružené členství
-
-subjekt | zastupuje | stav
---- | --- | ---
-&nbsp;&nbsp;&ndash; | |
 
 <!--
 &nbsp;&nbsp;&ndash; |  |
 -->
-*Seznam je průběžně aktualizován (2019-07-14)*
+*Seznam je průběžně aktualizován (2019-10-08)*
